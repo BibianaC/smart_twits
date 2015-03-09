@@ -5,18 +5,18 @@
 This project was a three day exercise ("Makerthon") as part of the Makers Academy Web Development Bootcamp.
 
 ###Makeathon Team:
-- Andy Newman (@andyg72)
-- Bibiana Cristofol (@BibianaC)
-- Emily Sas (@emilysas)
-- Marcin Walendzik (@marcinwal)
-- Richard Ighodaro (@iggyster3)
+- Andy Newman [(@andyg72)](https://github.com/andygnewman)
+- Bibiana Cristofol [(@BibianaC)](https://github.com/BibianaC)
+- Emily Sas [(@emilysas)](https://github.com/emilysas)
+- Marcin Walendzik [(@marcinwal)](https://github.com/marcinwal)
+- Richard Ighodaro [(@iggyster3)](https://github.com/iggyster3)
 
 ##Top Level User Story
 - As a time pressed, new hungry individual
 - I want to understand the meaning behind Twitter's top trends
 
 <div align="center">
-  <img width="80%" src="Smart_Twits_Screen_Shot.png">
+  <img width="90%" src="Smart_Twits_Screen_Shot.png">
 </div>
 
 ##Solution
