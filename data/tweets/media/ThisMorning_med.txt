@@ -1,0 +1,1 @@
+{:media=>"ALL", :text=>"No news"}

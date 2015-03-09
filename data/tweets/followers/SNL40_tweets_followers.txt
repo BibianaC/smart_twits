@@ -1,0 +1,3 @@
+{:name=>"@wkyc", :text=>"#SNL40 | What was your favorite moment? http://t.co/Bds8w1Pyqc.", :followers=>71839, :user_id=>14296548, :retweet=>0}
+{:name=>"@Zouk247Live", :text=>"RT @billboard: From @PaulMcCartney​ to @SteveMartinToGo &amp;​ @KanyeWest​, the #SNL40 special had it all. Check the top music moments http://t…", :followers=>53546, :user_id=>2783394462, :retweet=>28}
+{:name=>"@cinemathequefr", :text=>"Partage obligatoire, on n'a pas pu résister : #billmurray chante sa version de Jaws au #SNL40 \nhttp://t.co/DKm5suPWLW", :followers=>36704, :user_id=>19911310, :retweet=>0}

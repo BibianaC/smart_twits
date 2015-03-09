@@ -1,1 +1,0 @@
-{:media=>"@Independent", :text=>"RT @thei100: The unluckiest things that have happened on Friday 13 http://t.co/p4Aj50FH0N #FridayThe13th http://t.co/HU2xu3nyhf"}

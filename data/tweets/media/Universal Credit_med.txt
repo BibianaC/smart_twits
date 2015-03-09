@@ -1,0 +1,1 @@
+{:media=>"@Independent", :text=>"Predicted £2.2bn savings from universal credit cut by three-quarters\nhttp://t.co/jryMz0TR4N http://t.co/lNNcOhEe07"}

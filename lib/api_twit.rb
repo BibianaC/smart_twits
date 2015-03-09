@@ -5,7 +5,7 @@ require 'rest-client'
 require 'json'
 require 'open-uri'
 require 'json'
-require './app/helpers/twitter_helpers'
+require './helpers/api_twit_helper'
 require 'cronedit'
 
 PATH = './credentials.md'
@@ -98,11 +98,11 @@ class APITwitter
         result = get_tweets_by_user(media,trend[:name])
         if result.count != 0
           tweets[:media] = media
-          tweets[:text] = result[0] 
+          tweets[:text] = result[0]
         end
       end
       if tweets.empty?
-        tweets[:media] = "ALL" 
+        tweets[:media] = "ALL"
         tweets[:text] = "No news"
       end
       save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',tweets)

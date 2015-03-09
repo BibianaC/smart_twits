@@ -1,0 +1,3 @@
+{:name=>"@DailyMirror", :text=>"Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>315664, :user_id=>16887175, :retweet=>8}
+{:name=>"@dailyinside", :text=>"British TV presenter Tony Hart 'dies' for a second time on Twitter #Uk", :followers=>61487, :user_id=>311654967, :retweet=>0}
+{:name=>"@YahooNewsUK", :text=>"Tony Hart's death is still trending on Twitter... six years after it happened: http://t.co/MMxt11bu3k http://t.co/jmp2IhCP18", :followers=>37213, :user_id=>20779110, :retweet=>0}

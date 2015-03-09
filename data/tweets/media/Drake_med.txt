@@ -1,1 +1,0 @@
-{:media=>"@SkyNews", :text=>"American rapper Drake has surprised fans with the release of a new album on the internet http://t.co/YNjFqp0eeg http://t.co/VOrsuXBcHW"}

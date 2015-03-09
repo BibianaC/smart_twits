@@ -1,0 +1,100 @@
+{:name=>"@brother_nature_", :text=>"RT @thefader: .@kanyewest performed “Wolves” with @sia and @VicMensa on #SNL40. http://t.co/HX45f6fqX1 http://t.co/yjwL7hZf9d", :followers=>115, :user_id=>54346053, :retweet=>77}
+{:name=>"@janenight07", :text=>"RT @usweekly: Paul McCartney and Taylor Swift performing \"Shake It Off\"?! Inside the #SNL40 afterparty: http://t.co/N5FqAAuxHJ http://t.co/…", :followers=>27, :user_id=>2771992284, :retweet=>59}
+{:name=>"@swift13_d", :text=>"RT @NoticiassSwift: Taylor Swift  en la alfombra roja del 40 aniversario de \"Saturday Night Live\" #SNL40 http://t.co/qRKzYD2YK6", :followers=>882, :user_id=>2603908848, :retweet=>15}
+{:name=>"@Angielee141", :text=>"RT @OurFemaleRebel: RT if you loved @MileyCyrus performance last night at #SNL40 http://t.co/Tuu7a5Aoml", :followers=>220, :user_id=>1666816448, :retweet=>40}
+{:name=>"@MegZCull", :text=>"RT @nbcsnl: Mary Katherine Gallagher is still a superstar. #SNL40 http://t.co/GvzusjFd7K", :followers=>65, :user_id=>468956177, :retweet=>1532}
+{:name=>"@Abbsteroni", :text=>"RT @TODAYshow: The #SNL40 show was quite something! http://t.co/NjCEjCbFI0 http://t.co/6ebe0C6jof", :followers=>183, :user_id=>2683624028, :retweet=>87}
+{:name=>"@oldndirty", :text=>"RT @Dcuplover: #SNL40 #BigBoobs #Pussy http://t.co/3krwuuHnRS", :followers=>245, :user_id=>906720510, :retweet=>4}
+{:name=>"@cinemathequefr", :text=>"Partage obligatoire, on n'a pas pu résister : #billmurray chante sa version de Jaws au #SNL40 \nhttp://t.co/DKm5suPWLW", :followers=>36704, :user_id=>19911310, :retweet=>0}
+{:name=>"@sugarnshoes", :text=>"RT @usweekly: See how Tracy Morgan's costars honored him at #SNL40: http://t.co/63BZn11bwi http://t.co/YJiY8k18YF", :followers=>42, :user_id=>1697079139, :retweet=>18}
+{:name=>"@HOLLAITSAUDRY", :text=>"RT @RenkerM: #SNL40 was going great until Taylor Swift showed up", :followers=>202, :user_id=>2493299323, :retweet=>4}
+{:name=>"@tshhstar", :text=>"RT @ryansatin: The new Ghostbusters hanging out together at #SNL40 http://t.co/UnQLcxE0lW", :followers=>1743, :user_id=>2852782147, :retweet=>1}
+{:name=>"@trudy_sanders", :text=>"RT @nbcsnl: Keep the applause going! #SNL40 http://t.co/MMAaempBQt", :followers=>3660, :user_id=>520858506, :retweet=>1687}
+{:name=>"@YoYopine", :text=>"#SNL40: So...? @jtimberlake @jimmyfallon @FallonTonight http://t.co/ObKhly8UXe http://t.co/T1pmX9ApJL", :followers=>329, :user_id=>635362140, :retweet=>0}
+{:name=>"@joemilyallen", :text=>"Want my #SNL40 emojis to work 😁 @nbcsnl", :followers=>307, :user_id=>1972320025, :retweet=>0}
+{:name=>"@wowiezawi", :text=>"http://t.co/J6xj2UlUrz #whoreads 😅 #snl40 #jeopardy", :followers=>221, :user_id=>310046130, :retweet=>0}
+{:name=>"@MaddCoff", :text=>"RT @nbcsnl: Goodnight, and have a pleasant tomorrow! #SNL40 http://t.co/edKC82pcco", :followers=>212, :user_id=>1599078522, :retweet=>933}
+{:name=>"@VirgilioRuan", :text=>"RT @billboard: From @PaulMcCartney​ to @SteveMartinToGo &amp;​ @KanyeWest​, the #SNL40 special had it all. Check the top music moments http://t…", :followers=>1942, :user_id=>134980477, :retweet=>28}
+{:name=>"@glodya_", :text=>"Wanna watch :') \"Kanye West brings out Sia and Vic Mensa to perform new song 'Wolves' #SNL40 http://t.co/ixD2FjzXdr http://t.co/QIc3Kwj2Bi\"", :followers=>219, :user_id=>210691503, :retweet=>0}
+{:name=>"@Wolf_Trap", :text=>"RT @billboard: From @PaulMcCartney​ to @SteveMartinToGo &amp;​ @KanyeWest​, the #SNL40 special had it all. Check the top music moments http://t…", :followers=>9144, :user_id=>15518506, :retweet=>28}
+{:name=>"@LittlePether17", :text=>"RT @eonline: Our favorite Target Lady, Kristen Wiig arrives on the #SNL40 red carpet! All of the arrivals: http://t.co/MOmOJMMmrn http://t.…", :followers=>130, :user_id=>841728506, :retweet=>196}
+{:name=>"@lanamirez", :text=>"RT @nlyonne: Nobody judge the state of this apartment. See ya soon #SNL40. http://t.co/ofgqTGic5x", :followers=>1183, :user_id=>1735577581, :retweet=>362}
+{:name=>"@donslays", :text=>"RT @RapUp: Kanye West performs \"Wolves\" with Sia and Vic Mensa on #SNL40 http://t.co/j3jrkdyK0V http://t.co/Ifxa3x1PJZ", :followers=>2328, :user_id=>2539917037, :retweet=>112}
+{:name=>"@ElementaryItaly", :text=>"RT @LucyLiu: Surrounded by funny #snl40 @jimmyfallon mrsanz http://t.co/XFSidH191B", :followers=>48, :user_id=>2458371672, :retweet=>18}
+{:name=>"@graceearthur", :text=>"RT @NBCLA: In case you missed it: Betty White and Bradley Cooper locked lips on #SNL40 http://t.co/LuPlH3sXyG http://t.co/N2QPXwkkMM", :followers=>404, :user_id=>49027842, :retweet=>2}
+{:name=>"@nicaponte", :text=>"RT @EW: Turning down for absolutely nothing. #SNL40 http://t.co/UxFVhxr7sP", :followers=>112, :user_id=>724876357, :retweet=>1303}
+{:name=>"@CoachONealB", :text=>"RT @RogerLedford: @CoachONealB great stuff!  \"I got the da fever\"#SNL40", :followers=>940, :user_id=>898133444, :retweet=>1}
+{:name=>"@byRedwood", :text=>"Who got to check out #SNL40 last night? Check out the 5 essential moments from the special: http://t.co/4nxjybsFbE", :followers=>167, :user_id=>1375170266, :retweet=>0}
+{:name=>"@thebigO87", :text=>"RT @jemelehill: I'm DVR'ing #SNL40, but for me, this always will be the funniest skit involving an athlete ever http://t.co/VtbxY5Rhbl", :followers=>34, :user_id=>348672960, :retweet=>148}
+{:name=>"@Altospb", :text=>"RT @dankanter: Loved #SNL40! Some of my most special memories were the 2 times I played on it with JB. http://t.co/8qASq81mSb", :followers=>1408, :user_id=>2290418743, :retweet=>1455}
+{:name=>"@bmay4532", :text=>"RT @nbcsnl: Live from New York, it's #SNL40! Watch now on @NBC.\nhttps://t.co/jFMtz93a9j", :followers=>1973, :user_id=>1033827272, :retweet=>4236}
+{:name=>"@ElementaryItaly", :text=>"RT @LucyLiu: Mugging w #meliissamccarthy #snl40 http://t.co/tzFEFZyG5K", :followers=>48, :user_id=>2458371672, :retweet=>20}
+{:name=>"@danlambert92", :text=>"#SNL40 is the greatest thing to happen to America ever. EVER!", :followers=>344, :user_id=>409199168, :retweet=>0}
+{:name=>"@Teachercat2", :text=>"RT @kharyp: Jane Curtin Takes A Swipe At Fox News During #SNL40 Weekend Update \nhttp://t.co/3MfXpzkBrD #UniteBlue http://t.co/tRXovH8pSS", :followers=>495, :user_id=>2758596024, :retweet=>163}
+{:name=>"@ElementaryItaly", :text=>"RT @LucyLiu: Glenn Close photobomb @alancumming jwuntitled #snl40 http://t.co/MefTXFGnWw", :followers=>48, :user_id=>2458371672, :retweet=>19}
+{:name=>"@breanarehak", :text=>"Video: tswiftnz: djcassidy: Shake it off with Taylor paul and jimmy. #snl40 (x) EPIC!!!!!! taylorswift so... http://t.co/6mRT5iA80i", :followers=>606, :user_id=>904933897, :retweet=>0}
+{:name=>"@macyonethirty", :text=>"Melissa McCarthy as Matt Foley was my favorite #SNL40", :followers=>23, :user_id=>2211041136, :retweet=>0}
+{:name=>"@smarkovski", :text=>"RT @nbcsnl: Class of 2015. #SNL40 http://t.co/sO4ZcXbGtG", :followers=>610, :user_id=>270954305, :retweet=>834}
+{:name=>"@MyExIsTrending", :text=>"RT @vulture: Missed opportunity. #SNL40 http://t.co/UeIJmaybcv", :followers=>190, :user_id=>2261065580, :retweet=>172}
+{:name=>"@psrea97", :text=>"RT @nbcsnl: Maya Rudolph channeling Beyoncé as only she can. #SNL40 http://t.co/lmesZbtrbb", :followers=>78, :user_id=>2964533571, :retweet=>2359}
+{:name=>"@YuliaKrimova", :text=>"#SNL40 http://t.co/LAnKsCNk1j", :followers=>60, :user_id=>2645920740, :retweet=>0}
+{:name=>"@matnKids", :text=>"RT @THETNKIDS: Did you check it out!?! #SNL40 @nbcsnl @jtimberlake @jimmyfallon http://t.co/3ZplXTDwmm", :followers=>409, :user_id=>2446415486, :retweet=>152}
+{:name=>"@writingisfunxo", :text=>"@shaynaweber  imagine my surprise when i saw Bono! Loved the begining 2 @jimmyfallon &amp; @jtimberlake together is always hilarious  #SNL40", :followers=>636, :user_id=>25418884, :retweet=>0}
+{:name=>"@MCreed1990", :text=>"RT @TODAYshow: Can't get \"That's When You Break\" out of our heads this morning! http://t.co/P54740fPiI #SNL40 http://t.co/z30QydbIAT", :followers=>504, :user_id=>153202376, :retweet=>21}
+{:name=>"@MofatehAmir", :text=>"RT @jtimberlake: Tonight...#SNL40", :followers=>7, :user_id=>3016657901, :retweet=>6563}
+{:name=>"@purplemnewhere", :text=>"RT @LucyLiu: Prince + @jimmyfallon #snl40 After party bringing the house down! http://t.co/z4HXwlKNbf", :followers=>328, :user_id=>701049656, :retweet=>63}
+{:name=>"@ChrissBeme", :text=>"Still can't get over Jim Carey's impression of Matthew McConaughey #SNL40 &amp; Will Ferrell's reaction http://t.co/SLAO3E9oc8 via @TIMECulture", :followers=>158, :user_id=>123048735, :retweet=>0}
+{:name=>"@CUSPIFALL", :text=>"RT @biebersmaniabr: \"Em honra da @nbcSNL dois pássaros em uma foto da coleção privada da Mama's J @justinbieber #snl40\" - atlvox via IG htt…", :followers=>8469, :user_id=>230502636, :retweet=>184}
+{:name=>"@va_deb", :text=>"RT @kpfallon: My review of a very very VERY long night of absolute comedy heaven. #SNL40 http://t.co/FfyPr2SOYU", :followers=>1669, :user_id=>36065184, :retweet=>11}
+{:name=>"@lindsaytorrico", :text=>"Yeessss! Gotta watch RT @kellikreps: @lindsaytorrico... #SNL40 is getting #turntup for you.", :followers=>967, :user_id=>246080067, :retweet=>0}
+{:name=>"@LyricBookLady", :text=>"RT @Jchawes: They had me watching till Kayne West came on. #snl40", :followers=>40, :user_id=>36345959, :retweet=>110}
+{:name=>"@FoxLabfox", :text=>"RT @kare11: Weekend Update, FTW. #SNL40 http://t.co/oGx4VJ7ofp", :followers=>16, :user_id=>2654341613, :retweet=>26}
+{:name=>"@parlar", :text=>"RT @CFLFauxmish: Lorne Michaels is truly an American icon... and like all great American icons, he's actually Canadian #SNL40", :followers=>621, :user_id=>16740885, :retweet=>265}
+{:name=>"@elizaeffect", :text=>"RT @NYCScribbler: Will Ferrell for actual-facts @Jeopardy host. #SNL40", :followers=>684, :user_id=>13450262, :retweet=>3}
+{:name=>"@TayTay4Life13", :text=>"RT @TODAYshow: Paul McCartney, Taylor Swift, Jimmy Fallon, &amp; Dan Aykroyd performed at #SNL40 after party! (via @shoemakermike) http://t.co/…", :followers=>188, :user_id=>1301973260, :retweet=>145}
+{:name=>"@NewsmanSilva", :text=>"The perfect Washington storm: One day off for presidents, another tomorrow for snow, #SNL40 tweets out-trend everything else @Twitter DC.", :followers=>1024, :user_id=>293048490, :retweet=>0}
+{:name=>"@ScottTrace", :text=>"#SNL40 Just a question on Miley Cyrus performance last night - does she smoke or has her voice always been that raw?", :followers=>3177, :user_id=>16892838, :retweet=>0}
+{:name=>"@llenrocipaim", :text=>"how could all these female celebrities wear a tube dress while it's fucking freezing??? #SNL40 #snapchat #stonerthoughts", :followers=>103, :user_id=>2669432918, :retweet=>0}
+{:name=>"@sexlox", :text=>"RT @MileyBRsite: Rolling Stone falou sobre a performance da Miley no #SNL40 e foi só elogios! ✨👏👌 http://t.co/C4cj0LRG1N", :followers=>3248, :user_id=>360218218, :retweet=>51}
+{:name=>"@ZachOsina", :text=>"Missed the #SNL40 Jeopardy last night... anyone got a video link?", :followers=>129, :user_id=>560783058, :retweet=>0}
+{:name=>"@noodlesunshine", :text=>"RT @AvSocialite: #SNL #afterparty #SNL40 #TaylorSwift #PaulMcCartney #jimmyfallon #plaza http://t.co/D0TA3NtSVg http://t.co/w0Z04HXstY", :followers=>1162, :user_id=>1604189893, :retweet=>3753}
+{:name=>"@CUSPIFALL", :text=>"RT @biebersmaniabr: \"Amei o #SNL40! Algumas das minhas lembranças mais especial foi quando toquei duas vezes nisso com JB\" - Dan Kanter htt…", :followers=>8469, :user_id=>230502636, :retweet=>201}
+{:name=>"@jennifermahfoud", :text=>"RT @TheMileyPromo: Miley performed a cover of “50 Ways to Leave Your Lover” on #SNL40! Watch it here: http://t.co/fyL2wjtjrq 💛🎤 http://t.co…", :followers=>295, :user_id=>637362862, :retweet=>9}
+{:name=>"@suzyqluvslove", :text=>"RT @TODAYshow: The #SNL40 show was quite something! http://t.co/NjCEjCbFI0 http://t.co/6ebe0C6jof", :followers=>2, :user_id=>1737427112, :retweet=>87}
+{:name=>"@LauriceF", :text=>"\"..a highschool renunion.. a highschool that is almost all white\" - Steve Martin #truth #SNL40", :followers=>19950, :user_id=>28700169, :retweet=>0}
+{:name=>"@jajadev", :text=>"Edward Norton as Stefon. Holy Shiznits! #SNL40", :followers=>183, :user_id=>25429436, :retweet=>0}
+{:name=>"@tayluckyswifty", :text=>"RT @yelyahwilliams: WOW #SNL40", :followers=>177, :user_id=>2760009769, :retweet=>1131}
+{:name=>"@Ina3121", :text=>"Prince Crashes The #SNL40 After Party! http://t.co/K5LCgWKSm6  #TeamPRINCE", :followers=>1348, :user_id=>30517073, :retweet=>0}
+{:name=>"@ryansatin", :text=>"The new Ghostbusters hanging out together at #SNL40 http://t.co/UnQLcxE0lW", :followers=>17600, :user_id=>98501332, :retweet=>1}
+{:name=>"@qisforquestion", :text=>"RT @nbcsnl: On the #SNL40 red carpet with #nasimpedrad http://t.co/x3FLpKVqOK", :followers=>165, :user_id=>2799661619, :retweet=>167}
+{:name=>"@WaitingRoomBflo", :text=>"RT @stereogum: Watch HAIM back Prince, Taylor Swift play w/ Paul McCartney + Jim Belushi at #SNL40 afterparty http://t.co/9gLomao3nh http:/…", :followers=>1327, :user_id=>1262856692, :retweet=>66}
+{:name=>"@yadiyzakwan", :text=>"RT @DailyMailCeleb: Emma Stone honors the late Gilda Radner as Roseanne Rosannadanna #SNL40 http://t.co/Ct7RIutbHn http://t.co/SlUEjhXjwR", :followers=>63, :user_id=>2919795422, :retweet=>5}
+{:name=>"@sweet_tooth19", :text=>"RT @usweekly: We got a fever, and the only prescription is more Jimmy Fallon and Justin Timberlake: http://t.co/kNjNjAyrhE #SNL40 http://t.…", :followers=>103, :user_id=>588783004, :retweet=>69}
+{:name=>"@wkyc", :text=>"#SNL40 | What was your favorite moment? http://t.co/Bds8w1Pyqc.", :followers=>71839, :user_id=>14296548, :retweet=>0}
+{:name=>"@lynnwayneNYC", :text=>"RT @kharyp: Jane Curtin Takes A Swipe At Fox News During #SNL40 Weekend Update \nhttp://t.co/3MfXpzkBrD #UniteBlue http://t.co/tRXovH8pSS", :followers=>1896, :user_id=>979259593, :retweet=>163}
+{:name=>"@AllAroundMBrown", :text=>"RT @kharyp: Jane Curtin Takes A Swipe At Fox News During #SNL40 Weekend Update \nhttp://t.co/3MfXpzkBrD #UniteBlue http://t.co/tRXovH8pSS", :followers=>1209, :user_id=>557304154, :retweet=>163}
+{:name=>"@darkprinceofpop", :text=>"RT @TheFix: Simply the best RT @mashable: Oh, hey, Bill Murray. #SNL40 http://t.co/xSXwa1s2nV", :followers=>2981, :user_id=>1974598783, :retweet=>87}
+{:name=>"@Aj_T13", :text=>"Did anyone else watch #SNL40", :followers=>208, :user_id=>2775995751, :retweet=>0}
+{:name=>"@NewSchoolSS", :text=>"RT @RDubThree: 915 @1053thefan - The best of last night’s #SNL40 show, and @newschoolss says THIS bit needs to be retired for good - @Rjcho…", :followers=>17324, :user_id=>132734157, :retweet=>1}
+{:name=>"@toyjsweetyar", :text=>"RT @nbcsnl: Excited to have @taylorswift13 join us Sunday, February 15 for #SNL40!\nhttps://t.co/ul8xH3WEzs", :followers=>9, :user_id=>903406070, :retweet=>2488}
+{:name=>"@Altospb", :text=>"dankanter: Loved #SNL40! Some of my most special memories were the 2 times I played on it with JB http://t.co/3ZDNLkDDzr", :followers=>1408, :user_id=>2290418743, :retweet=>0}
+{:name=>"@HoofitAndDonger", :text=>"RT peoplemag: We're still talking about those contacts KanyeWest wore for his #SNL40 performance … http://t.co/iNtI0ouxhI", :followers=>461, :user_id=>2848562508, :retweet=>0}
+{:name=>"@DisabilityVote", :text=>"RT @kharyp: Jane Curtin Takes A Swipe At Fox News During #SNL40 Weekend Update \nhttp://t.co/3MfXpzkBrD #UniteBlue http://t.co/tRXovH8pSS", :followers=>712, :user_id=>819936229, :retweet=>163}
+{:name=>"@VizualxArtist", :text=>"RT @HollywoodLife: Kanye West is performing on #SNL40 laying down. This is not a joke. http://t.co/87UuEibR5f", :followers=>262, :user_id=>526933858, :retweet=>102}
+{:name=>"@Zouk247Live", :text=>"RT @billboard: From @PaulMcCartney​ to @SteveMartinToGo &amp;​ @KanyeWest​, the #SNL40 special had it all. Check the top music moments http://t…", :followers=>53546, :user_id=>2783394462, :retweet=>28}
+{:name=>"@hollywoodglam", :text=>"RT @HuffPostWomen: It's ladies night on Weekend Update #SNL40", :followers=>78, :user_id=>15806114, :retweet=>16}
+{:name=>"@cmcklu", :text=>"#KanyeWest calls what he preformed on #SNL40 art?? I don't think so. Awful!!!", :followers=>6, :user_id=>2287237251, :retweet=>0}
+{:name=>"@AnnaMuckenfuss", :text=>"RT @nbcsnl: Goodnight, and have a pleasant tomorrow! #SNL40 http://t.co/edKC82pcco", :followers=>313, :user_id=>309921359, :retweet=>933}
+{:name=>"@sweetpea52677", :text=>"I like everyone else watched SNL 40th celebration although I feel it could have been better I was disappointed in Eddie Murphy #SNL40", :followers=>144, :user_id=>1606240550, :retweet=>0}
+{:name=>"@Jerrymeister", :text=>"RT @TODAYshow: Whoa! Betty White, Bradley Cooper's must-watch make-out on #SNL40 http://t.co/4aftSxVmaG http://t.co/9heP6npg8f", :followers=>262, :user_id=>17607340, :retweet=>37}
+{:name=>"@secondchance4oq", :text=>"RT @SpencerAlthouse: Taylor Swift, Paul McCartney, and Jimmy Fallon performing \"Shake It Off\" at the #SNL40 after-party http://t.co/rTMUete…", :followers=>499, :user_id=>2582854333, :retweet=>5}
+{:name=>"@HeadlineMedia", :text=>"RT @GerardMulligan1: Eddie Murphy's appearance was a real show-stopper. And not in a good way. #SNL40", :followers=>1139, :user_id=>336039864, :retweet=>3}
+{:name=>"@BrittaZisch", :text=>"These opening credits are never ending. Now I get why it had to be over two hours. #SNL40", :followers=>112, :user_id=>2855659127, :retweet=>0}
+{:name=>"@qrecknagle", :text=>"RT @TayylorrG: #SNL40 made my life complete 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍", :followers=>434, :user_id=>264040119, :retweet=>1}
+{:name=>"@KGrady40", :text=>"RT @OnlyInBOS: Spirit animals...#SNL40 http://t.co/9oad78LTDw", :followers=>36, :user_id=>1431171378, :retweet=>134}
+{:name=>"@AngelGPM", :text=>"RT @LuisAModoTenis: Thanks for the memories #SNL40", :followers=>232, :user_id=>132251208, :retweet=>3}
+{:name=>"@tworldy", :text=>"#SNL40 now trending in Columbus http://t.co/REi1Cr0Doa", :followers=>1268, :user_id=>2909648091, :retweet=>0}
+{:name=>"@NefariousNewt", :text=>"RT @morninggloria: Excessive #snl40 tributes to Lorne was like watching a bunch of snotty teens reluctantly hugging their rich uncle who pa…", :followers=>2220, :user_id=>213518581, :retweet=>2}
+{:name=>"@BizZlExemplar", :text=>": #SNL40 #askswiftie @taylorswift13 😂😂😂😂  a cara da Taylor mds http://t.co/u3rnAijU0T\"", :followers=>286, :user_id=>2502597493, :retweet=>0}
+{:name=>"@hontryx", :text=>"RT @RapUp: Kanye West performs \"Wolves\" with Sia and Vic Mensa on #SNL40 http://t.co/j3jrkdyK0V http://t.co/Ifxa3x1PJZ", :followers=>201, :user_id=>773641290, :retweet=>112}
+{:name=>"@hollywoodglam", :text=>"RT @NishaChittal: Can this happen on my TV every week? #amyandtinaforever #SNL40 http://t.co/Top2FQVeha", :followers=>78, :user_id=>15806114, :retweet=>251}

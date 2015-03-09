@@ -1,0 +1,3 @@
+{:text=>"RT @bbceastenders: 4 days to go... #EELive #WhoKilledLucy #EastEnders http://t.co/PQFooMg20F", :retweet=>764}
+{:text=>"RT @Callumx_: Eastenders got me wondering if i killed Lucy Beale", :retweet=>603}
+{:text=>"RT @bbceastenders: How many radio mics does it take to pull off #EELIVE? Your guess is good as ours, but there’s lots! #EastEnders http://t…", :retweet=>105}

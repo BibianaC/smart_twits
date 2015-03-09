@@ -1,0 +1,3 @@
+{:text=>"RT @davidschneider: Iain Duncan Smith claims Universal Credit will save £600m, a figure reached with the help of Tesco's accountants.", :retweet=>169}
+{:text=>"RT @WantEnglandBack: Universal credit is a success, six benefits into one, simplifying Labour's welfare mess. Tomorrow it will be rolled ou…", :retweet=>5}
+{:text=>"RT @secretspartacus: Beyond the Universal Credit \"good news\" headlines: What IDS Doesn't Say http://t.co/FJqf85tBBc via @tonyrcollins", :retweet=>3}

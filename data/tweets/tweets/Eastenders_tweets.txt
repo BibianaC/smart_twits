@@ -1,0 +1,100 @@
+{:name=>"@joebonthuys", :text=>"RT @Stwutter: My Mrs can't wait to watch EastEnders tonight. I can't wait to see her face when she realises the football's on instead.", :followers=>446, :user_id=>139475690, :retweet=>10}
+{:name=>"@HeartSussex", :text=>"Rickeeeeeeeey! We've been looking at the gobbiest and most loved TV couples ever of all time.. http://t.co/Jwlpy4255t http://t.co/EchkDG9HmQ", :followers=>11203, :user_id=>36024625, :retweet=>0}
+{:name=>"@trendinaliaGB", :text=>"6. Tony Hart\n7. Preston\n8. Lucy Beale\n9. London\n10. Eastenders\n\n2015/2/16 15:12 GMT #trndnl2015 http://t.co/do7Hdxwcnc", :followers=>5713, :user_id=>1266803563, :retweet=>0}
+{:name=>"@Kraaazykim", :text=>"RT @Stwutter: My Mrs can't wait to watch EastEnders tonight. I can't wait to see her face when she realises the football's on instead.", :followers=>190, :user_id=>977151985, :retweet=>10}
+{:name=>"@rickinyorkshire", :text=>"Decent odds for Jane #EastEnders #WhoKilledLucy http://t.co/hxXfLdP88q", :followers=>332, :user_id=>15111897, :retweet=>0}
+{:name=>"@RWhittleUk", :text=>"RT @JR_HarlemMickey: Eastenders is the only certy motive this whole week 💯", :followers=>412, :user_id=>588529909, :retweet=>5}
+{:name=>"@MadElleBUpdates", :text=>"RT @bbceastenders: How many radio mics does it take to pull off #EELIVE? Your guess is good as ours, but there’s lots! #EastEnders http://t…", :followers=>14096, :user_id=>1428162906, :retweet=>105}
+{:name=>"@Georgia_Travis", :text=>"So happy for that eastenders is on all week #life", :followers=>623, :user_id=>982626607, :retweet=>0}
+{:name=>"@_jessiecarr", :text=>"RT @Robertaaa_xo: Eastenders this week will have my full attention💅", :followers=>644, :user_id=>1662834882, :retweet=>41}
+{:name=>"@adainsoshanah", :text=>"RT @bbceastenders: 4 days to go... #EELive #WhoKilledLucy #EastEnders http://t.co/PQFooMg20F", :followers=>408, :user_id=>313515270, :retweet=>764}
+{:name=>"@Dylannnn_95", :text=>"@abbeybelll I can't wait for Thursday night just cause I have a bet on it never watch eastenders either 😂", :followers=>1634, :user_id=>310148535, :retweet=>0}
+{:name=>"@Megan_Marv", :text=>"RT @georgeygarrett: Can't wait for Eastenders this week 😁", :followers=>3643, :user_id=>120400781, :retweet=>22}
+{:name=>"@MadElleBUpdates", :text=>"RT @get_ross: EastEnders LIVE rehearsals almost upon us... So proud to be part of it all!!! @dominictc #EELive", :followers=>14096, :user_id=>1428162906, :retweet=>33}
+{:name=>"@lucyjs1985", :text=>"I scored 15/15 in the Mirror Definitive Who killed Lucy Beale? quiz, can you match me? http://t.co/EJmt0An6e6 @MirrorTV", :followers=>176, :user_id=>236750213, :retweet=>0}
+{:name=>"@HackneyLawCentr", :text=>"Despite being proud #Eastenders &amp; @bbceastenders fans, Lucy Beale murder plot has bored us to tears.Thank goodness this is final week of it!", :followers=>2852, :user_id=>211146073, :retweet=>0}
+{:name=>"@robga_", :text=>"Can Tony Blair be ruled out?! Looks pretty shifty.... #WhoDidntKillLucy #LucyBeale #EastEnders http://t.co/U2loQONK5L", :followers=>380, :user_id=>28640443, :retweet=>0}
+{:name=>"@ft_Onuoha", :text=>"RT @Robertaaa_xo: Eastenders this week will have my full attention💅", :followers=>204, :user_id=>1191080700, :retweet=>41}
+{:name=>"@samchristie_", :text=>"RT @georgeygarrett: Can't wait for Eastenders this week 😁", :followers=>1177, :user_id=>527412771, :retweet=>22}
+{:name=>"@ianbennett477", :text=>"Lucy Beale's killer is revealed! - EastEnders - BBC One: http://t.co/EFWm2J7Taw via @YouTube", :followers=>242, :user_id=>946796749, :retweet=>0}
+{:name=>"@MkeAllison", :text=>"RT @Stwutter: My Mrs can't wait to watch EastEnders tonight. I can't wait to see her face when she realises the football's on instead.", :followers=>345, :user_id=>294177627, :retweet=>10}
+{:name=>"@blvkzombie_", :text=>"RT @JR_HarlemMickey: Eastenders is the only certy motive this whole week 💯", :followers=>1136, :user_id=>91635757, :retweet=>5}
+{:name=>"@summiii_xo", :text=>"RT @itsneeshat: Thursdays Eastenders episode best be mad. We haven't been waiting for months for a shitty episode", :followers=>117, :user_id=>2976789977, :retweet=>2}
+{:name=>"@HFB2001", :text=>"I liked a @YouTube video http://t.co/e50wWxKmYb Lucy Beale's killer is revealed! - EastEnders - BBC One", :followers=>626, :user_id=>914252720, :retweet=>0}
+{:name=>"@lenkennedyy", :text=>"RT @em_paget17: So excited for Eastenders live week this week omg😆", :followers=>386, :user_id=>337161621, :retweet=>12}
+{:name=>"@plsconnorball", :text=>"RT @EastEndersUltra: NEWS! #EastEnders' Jacqueline Jossa welcomes baby girl in time for ‘Live Week’! SEE: http://t.co/OA89iEUxDS http://t.c…", :followers=>5210, :user_id=>433499337, :retweet=>25}
+{:name=>"@_itshollie_", :text=>"RT @amiereed_: Stupidly excited for Eastenders this week I don't even care", :followers=>278, :user_id=>1007115482, :retweet=>8}
+{:name=>"@westboyzpromo", :text=>"RT @abelwest_: Eastenders this week yeah; im staying at home for this holiday ngl. If it ain't about eastenders, don't Holla at my line", :followers=>4977, :user_id=>183192205, :retweet=>1}
+{:name=>"@Singhatron", :text=>"I know who killed Lucy Beale in Eastenders... https://t.co/qDCY5JStDr", :followers=>2355, :user_id=>1425189204, :retweet=>0}
+{:name=>"@CreativeGuy74", :text=>"RT @Natalieblyth80: I've changed my mind I think it's Dot's sidekick Ethel skinner and Willy the dog who killed Lucy #EastEnders", :followers=>3889, :user_id=>258976292, :retweet=>1}
+{:name=>"@Susantyuydwar", :text=>"Eastenders #CNN EastEnders: 30 years of booze, fights and faaaamily - The Guardian  http://t.co/DPYwJ1uBcQ", :followers=>331, :user_id=>2656374655, :retweet=>0}
+{:name=>"@laurentobinx", :text=>"RT @georgeygarrett: Can't wait for Eastenders this week 😁", :followers=>1489, :user_id=>733027424, :retweet=>22}
+{:name=>"@MarlowEvan", :text=>"RT @Robertaaa_xo: Eastenders this week will have my full attention💅", :followers=>305, :user_id=>1395482066, :retweet=>41}
+{:name=>"@georginahainesx", :text=>"I'm dead excited for Eastenders ffs", :followers=>2095, :user_id=>1597020248, :retweet=>0}
+{:name=>"@MikesMajor", :text=>"Should i start watching eastenders again? Sounds like i've missed out on a lot", :followers=>254, :user_id=>1018201146, :retweet=>0}
+{:name=>"@rachfitzgerald_", :text=>"RT @amiereed_: Stupidly excited for Eastenders this week I don't even care", :followers=>2276, :user_id=>471558028, :retweet=>8}
+{:name=>"@mezjen1", :text=>"@bbceastenders how come eastenders isn't on tonight 😢", :followers=>616, :user_id=>46628321, :retweet=>0}
+{:name=>"@Natalieblyth80", :text=>"I've changed my mind I think it's Dot's sidekick Ethel skinner and Willy the dog who killed Lucy #EastEnders", :followers=>1037, :user_id=>269804130, :retweet=>1}
+{:name=>"@dale_1402", :text=>"RT @imhereforever_: We're trending above pancake day and Eastenders hahaha! love you guys. This video is gonna be awesome!", :followers=>1056, :user_id=>2887044695, :retweet=>42}
+{:name=>"@CjSainey", :text=>"RT @JR_HarlemMickey: Eastenders is the only certy motive this whole week 💯", :followers=>206, :user_id=>233439847, :retweet=>5}
+{:name=>"@RozieeMahmood", :text=>"RT @itsneeshat: Thursdays Eastenders episode best be mad. We haven't been waiting for months for a shitty episode", :followers=>1344, :user_id=>617194067, :retweet=>2}
+{:name=>"@yummymel1981", :text=>"@bbceastenders @BBCiPlayer what time will EastEnders 1st ep be available on the iplayer?? #EastEnders30 #EELive #firsteverep", :followers=>175, :user_id=>148389539, :retweet=>0}
+{:name=>"@1Arda_Luke", :text=>"RT @StellaLele: The Wait Is Finally Over! This Week A Killer Is Unveiled....Who Killed Lucy ! #EastEnders \n\nhttp://t.co/x8JQec0Cqt", :followers=>688, :user_id=>1557938605, :retweet=>4}
+{:name=>"@Iced_Jem", :text=>"3 weeks of EastEnders to catch up on before THE BIG DAY #WhoKilledLucy #EastEnders", :followers=>33, :user_id=>25731715, :retweet=>0}
+{:name=>"@mabzymander", :text=>"RT @AvneetKSahota: It worries be just how excited I am to find out who killed lucy on Eastenders 😩😩", :followers=>289, :user_id=>217847293, :retweet=>2}
+{:name=>"@itsneeshat", :text=>"Thursdays Eastenders episode best be mad. We haven't been waiting for months for a shitty episode", :followers=>2031, :user_id=>265619727, :retweet=>2}
+{:name=>"@Jinmillion_", :text=>"RT @davinapetite: Eastenders is gonna be fire this week🙊🔥", :followers=>125, :user_id=>2748390616, :retweet=>33}
+{:name=>"@IanStraus", :text=>"RT @JR_HarlemMickey: Eastenders is the only certy motive this whole week 💯", :followers=>1134, :user_id=>398242567, :retweet=>5}
+{:name=>"@verado90", :text=>"RT @BBCRadio2: To find out what else @BBCRadio2\nis up to for @bbceastenders 30th, just click! http://t.co/mU7k2lIbAP #EELive http://t.co/8o…", :followers=>173, :user_id=>509689241, :retweet=>2}
+{:name=>"@JBainsy007", :text=>"RT @ISwearThatsMia: eastenders is gonna be so dead after we find out who killed lucy", :followers=>285, :user_id=>635640275, :retweet=>48}
+{:name=>"@ItsTheSoaps", :text=>"RT @corriespoil: Althought I hate Eastenders with a passion I actually found this quite funny 😂👊🙈 #corrie #eastenders http://t.co/PX02LtK8yF", :followers=>387, :user_id=>2942848978, :retweet=>1}
+{:name=>"@Mackay002", :text=>"#EastEnders  can't believe people watch this show still,will it ever end!", :followers=>42, :user_id=>215046989, :retweet=>0}
+{:name=>"@sophiedottx", :text=>"RT @BradleyManlow: Can't wait for Eastenders all this week!", :followers=>556, :user_id=>1716897126, :retweet=>1}
+{:name=>"@saskiabooker", :text=>"#EastEnders live week buzzing 💥🙀", :followers=>264, :user_id=>2212780594, :retweet=>0}
+{:name=>"@fergu78", :text=>"RT @BBCNewsbeat: If EastEnders is the reason your week will be amazing, here's how to have a Lucy Beale party http://t.co/jyvfVfxao9 http:/…", :followers=>11019, :user_id=>972396618, :retweet=>89}
+{:name=>"@Jamie_Begeman", :text=>"RT @NicoleAimeeP: This weeks eastenders is going to be amazing 😍😍", :followers=>599, :user_id=>49304981, :retweet=>8}
+{:name=>"@JosephMiller96", :text=>"\"Who killed Lucy Beale\" has a new favourite! #eastenders #bbceastenders http://t.co/5XwChYY8HY", :followers=>1380, :user_id=>273123532, :retweet=>0}
+{:name=>"@my_own_room", :text=>"@TheSunShowbiz Does that mean she won't be on the live #Eastenders and didn't kill Lucy?", :followers=>220, :user_id=>1409757740, :retweet=>0}
+{:name=>"@LeVonVon_", :text=>"RT @EastenderReacts: I never, ever saw Lucy Beale as such an important character that they'd drag her murder case for 10 months. Lol Easten…", :followers=>119, :user_id=>1686802520, :retweet=>92}
+{:name=>"@karisdemilouise", :text=>"RT @JR_HarlemMickey: Eastenders is the only certy motive this whole week 💯", :followers=>1955, :user_id=>121808857, :retweet=>5}
+{:name=>"@LiamFerdi_", :text=>"So Exited for Eastenders this week 😁☺️😅😋", :followers=>638, :user_id=>373281447, :retweet=>0}
+{:name=>"@wright_ali", :text=>"RT @shaunieleigh: It ridiculous how excited I am for this weeks eastenders! #WhoKilledLucy", :followers=>147, :user_id=>545404312, :retweet=>6}
+{:name=>"@MattZeeMiller", :text=>"Its EastEnders live week on BBC &amp; surprises promised..could the Mitchell brothers be united again?? ⚡ http://t.co/T8n4eknp6Z", :followers=>5962, :user_id=>2238788086, :retweet=>0}
+{:name=>"@cxshley", :text=>"RT @StellaLele: The Wait Is Finally Over! This Week A Killer Is Unveiled....Who Killed Lucy ! #EastEnders \n\nhttp://t.co/x8JQec0Cqt", :followers=>1692, :user_id=>215440197, :retweet=>4}
+{:name=>"@BBCEastenders__", :text=>"@bbceastenders Times running out for the killer... \n#EastEnders #EELive @bbceastenders @bbceastenders http://t.co/IEDr3M5czC", :followers=>906, :user_id=>2746379494, :retweet=>1}
+{:name=>"@simonhawker34", :text=>"RT @daniel_fairley1: FA Cup should not be played on a Monday night. Ruining my Eastenders.", :followers=>0, :user_id=>3030799959, :retweet=>1}
+{:name=>"@sabryalejandr", :text=>"Eastenders #FOLLOWXFOLLOW Why posh girls love EastEnders - Telegraph #co #uk  http://t.co/ow8fndSJzk", :followers=>753, :user_id=>2690042948, :retweet=>0}
+{:name=>"@AshleyElliott5", :text=>"Good luck to Eastenders doing their live episode it's a very hard thing to do act live and without any mistakes so hope it all goes well", :followers=>416, :user_id=>320864283, :retweet=>0}
+{:name=>"@bhavvy_x", :text=>"RT @Robertaaa_xo: Eastenders this week will have my full attention💅", :followers=>199, :user_id=>394150227, :retweet=>41}
+{:name=>"@abelwest_", :text=>"Eastenders this week yeah; im staying at home for this holiday ngl. If it ain't about eastenders, don't Holla at my line", :followers=>447, :user_id=>3033350631, :retweet=>1}
+{:name=>"@DeeEdward__", :text=>"How's Lauren gonna be in the live episodes of Eastenders if she had her baby today??", :followers=>2195, :user_id=>147661312, :retweet=>0}
+{:name=>"@dani_oxo", :text=>"RT @daled078: What if Lucy commuted suicide? #EastEnders", :followers=>804, :user_id=>361822931, :retweet=>1}
+{:name=>"@Pois0nedivy", :text=>"@bbceastenders awe. Why,why, why? He was the best character in Eastenders.... Killing him off is a big mistake... HUGE! #nastynick", :followers=>5, :user_id=>2513551533, :retweet=>0}
+{:name=>"@JR_HarlemMickey", :text=>"Eastenders is the only certy motive this whole week 💯", :followers=>973, :user_id=>372192578, :retweet=>5}
+{:name=>"@JemimaPrempeh", :text=>"RT @Robertaaa_xo: Eastenders this week will have my full attention💅", :followers=>545, :user_id=>587475390, :retweet=>41}
+{:name=>"@_isabelmary", :text=>"RT @Callumx_: Eastenders got me wondering if i killed Lucy Beale", :followers=>54, :user_id=>2855338797, :retweet=>603}
+{:name=>"@osho2015ok", :text=>"Lucy Beale #CNN EastEnders: Richard Blackwood talks Who killed Lucy Beale set secrecy - Metro  http://t.co/RKW4CQoKj2", :followers=>143, :user_id=>1547028763, :retweet=>0}
+{:name=>"@donaddtre", :text=>"Eastenders #teamfollowback EastEnders: 30 years of booze, fights and faaaamily - The Guardian  http://t.co/8fOQPB0wPx", :followers=>892, :user_id=>305606598, :retweet=>0}
+{:name=>"@Lissssas", :text=>"Eastenders ❤ #followme Who killed Lucy Beale? EastEnders 30th anniversary schedule and  # # # - Mirror #co #uk  http://t.co/IsVt1uji7H", :followers=>973, :user_id=>2869572173, :retweet=>0}
+{:name=>"@olivia_reneee", :text=>"Eastenders is gonna be a madness this week ☺️👀", :followers=>960, :user_id=>703532502, :retweet=>0}
+{:name=>"@AshleyElliott5", :text=>"My Eastenders who killed Lucy Beale prediction is either Whitney or Jane I'm going for Jane to be the killer", :followers=>416, :user_id=>320864283, :retweet=>0}
+{:name=>"@washedOLdfieLD", :text=>"I liked a @YouTube video http://t.co/R7uJdGPnxf Lucy Beale's killer is revealed! - EastEnders - BBC One", :followers=>1113, :user_id=>185572988, :retweet=>0}
+{:name=>"@lydiejohnson_", :text=>"RT @amiereed_: Stupidly excited for Eastenders this week I don't even care", :followers=>844, :user_id=>449404613, :retweet=>8}
+{:name=>"@sophiewarrenxxx", :text=>"I just want to know who killed Lucy beale 😭😭 #eastenders #LucyBeale", :followers=>53, :user_id=>2819647749, :retweet=>0}
+{:name=>"@bieberftconnor", :text=>"hoLY shit eastenders is live this week im so pumped", :followers=>25187, :user_id=>599637333, :retweet=>0}
+{:name=>"@officialanjelly", :text=>"RT @imhereforever_: We're trending above pancake day and Eastenders hahaha! love you guys. This video is gonna be awesome!", :followers=>839, :user_id=>603589749, :retweet=>42}
+{:name=>"@MadElleBUpdates", :text=>"RT @BBCNewsbeat: If EastEnders is the reason your week will be amazing, here's how to have a Lucy Beale party http://t.co/jyvfVfxao9 http:/…", :followers=>14096, :user_id=>1428162906, :retweet=>89}
+{:name=>"@TommyTottenham1", :text=>"RT @CallumGoodman97: Lauren off Eastenders just had her baby but she's supposed to be on Eastenders live week, how's that gonna work?", :followers=>91, :user_id=>703719415, :retweet=>1}
+{:name=>"@MrNashy", :text=>"As if Bobby Beale is actually odds on to of killed Lucy... #Eastenders", :followers=>338, :user_id=>89222458, :retweet=>0}
+{:name=>"@katebeaglecf888", :text=>"RT @narrysdancer: SO EXCITED FOR EASTENDERS THIS WEEK", :followers=>133, :user_id=>341124656, :retweet=>1}
+{:name=>"@vickyhuntxx", :text=>"RT @TafariDownes: Eastenders is going to bang this week 😄", :followers=>473, :user_id=>200815290, :retweet=>5}
+{:name=>"@TrendieUK", :text=>"\"Trending UK:03:14 PM GMT\"\n6. Tony Hart\n7. Preston\n8. Lucy Beale\n9. Eastenders\n10. London", :followers=>4560, :user_id=>2797973256, :retweet=>0}
+{:name=>"@SomebodiiPr", :text=>"RT @Robertaaa_xo: Eastenders this week will have my full attention💅", :followers=>443, :user_id=>2930064585, :retweet=>41}
+{:name=>"@MissCutifull", :text=>"Put a bet on #WhoKilledLucyBeale I'm that confident lol #EastEnders", :followers=>121, :user_id=>1080193237, :retweet=>0}
+{:name=>"@EdwardAshton30", :text=>"RT @BBCRadio2: To find out what else @BBCRadio2\nis up to for @bbceastenders 30th, just click! http://t.co/mU7k2lIbAP #EELive http://t.co/8o…", :followers=>72661, :user_id=>730510490, :retweet=>2}
+{:name=>"@WadeyWade", :text=>"I have done a quiz about @bbceastenders and 30 years of magic for @BluffersGuide http://t.co/vkanLzlgyt", :followers=>2138, :user_id=>19533047, :retweet=>0}
+{:name=>"@marymoox2", :text=>"I'm pretty much past caring who killed Lucy Beale.. #EastEnders #goneontoolong", :followers=>32, :user_id=>276903516, :retweet=>0}
+{:name=>"@kiz4breakfast", :text=>"eastEnders is just a waste of time Imo", :followers=>1702, :user_id=>43985108, :retweet=>0}
+{:name=>"@narrysdancer", :text=>"but I'm having friends over for a sleepover this friday and I'm going to miss eastenders aka who killed lucy", :followers=>9270, :user_id=>558701930, :retweet=>0}
+{:name=>"@djdproductions", :text=>"RT @priyaamistryy: All im looking forward to this week is Eastenders tbh", :followers=>143, :user_id=>239011151, :retweet=>3}
+{:name=>"@beth_coxon19", :text=>"Absoulutely excted for this week of eastenders, is that wrong", :followers=>785, :user_id=>631457832, :retweet=>0}

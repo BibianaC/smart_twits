@@ -1,0 +1,3 @@
+{:name=>"@Daminous_Purity", :text=>"RT @DitchtheLabel: Are you comfortable in your own skin? #DyingForATan #BBloggers http://t.co/OJZcpj9jT8", :followers=>1114565, :user_id=>99943864, :retweet=>17}
+{:name=>"@Daminous_Purity", :text=>"RT @ItTakes7: Our advice for Ryan from @DrAnjaliMahto in yesterday's Sunday Mirror! #Melanotan #DyingForATan #Skincancer http://t.co/M3f3QH…", :followers=>1114565, :user_id=>99943864, :retweet=>4}
+{:name=>"@HuffPostUK", :text=>"RT @HuffPoLifestyle: Ryan Ruckledge says he'd rather die than be pale. Twitter thinks he's a 'tw*t' #DyingForATan http://t.co/YW69oMCcZT ht…", :followers=>120960, :user_id=>271413771, :retweet=>7}

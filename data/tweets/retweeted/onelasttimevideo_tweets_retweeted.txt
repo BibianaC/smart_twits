@@ -1,0 +1,3 @@
+{:text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :retweet=>30648}
+{:text=>"RT @ArianaGrande: 2 hours #onelasttimevideo!!!", :retweet=>15201}
+{:text=>"RT @FrankieJGrande: SO UNBELIEVABLY PROUD OF MY SISTER FOR THIS INCREDIBLE VIEDO!!! @ArianaGrande http://t.co/GT4re2Iu8g #onelasttimevideo", :retweet=>1961}

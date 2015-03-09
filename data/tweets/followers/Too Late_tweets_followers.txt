@@ -1,3 +1,0 @@
-{:name=>"@djenuff", :text=>"Drake Hit's A Beyonce!! Drops New Album 'If You're Reading This It's Too Late' (Details)  - http://t.co/8Kg7u6ynGV", :followers=>307418, :user_id=>16621413, :retweet=>0}
-{:name=>"@GlobalVitoHH", :text=>"Drake Hit's A Beyonce!! Drops New Album 'If You're Reading This It's Too Late' (Details)  - http://t.co/dg7rmApFkQ", :followers=>33888, :user_id=>16445089, :retweet=>0}
-{:name=>"@BINGBINGCELEB", :text=>"Dr. Luke Kesha Lawsuit Alleges It’s Too Late To Claim … : http://t.co/NqVl1z6EzY .,,", :followers=>17146, :user_id=>2477446434, :retweet=>0}

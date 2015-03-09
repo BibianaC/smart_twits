@@ -1,3 +1,0 @@
-{:name=>"@FITNESSTIPS_365", :text=>"RT @funnypictures27: ⛪ #BritishSexPositions  👸 Cutest Ryan Gosling Pics http://t.co/bgee3bUomq http://t.co/Zp1TLDt3Qp", :followers=>112459, :user_id=>2226839804, :retweet=>74}
-{:name=>"@Sianwelby", :text=>"'Bodge' her and 'badge' her.\n\n#britishsexpositions http://t.co/JAcIbAU1RY", :followers=>19691, :user_id=>39079092, :retweet=>0}
-{:name=>"@GauravYugal", :text=>"RT @funnypictures27: ⛪ #BritishSexPositions  👸 Cutest Ryan Gosling Pics http://t.co/bgee3bUomq http://t.co/Zp1TLDt3Qp", :followers=>10771, :user_id=>1087937317, :retweet=>74}

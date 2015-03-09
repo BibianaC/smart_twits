@@ -1,3 +1,0 @@
-{:name=>"@NintendoFrance", :text=>"RT @malolebreton: Da da da daaaaaa ! @NintendoFrance #New3DS #Zelda #Nintendo3DSDay http://t.co/970qLAKhds", :followers=>60541, :user_id=>491500016, :retweet=>2}
-{:name=>"@britishgaming", :text=>"Happy #Nintendo3DSDay http://t.co/HKoRow77ys", :followers=>6876, :user_id=>10211472, :retweet=>0}
-{:name=>"@letha_dorado", :text=>"TT UK\n3 #FridayThe13th\n4 #Nintendo3DSDay\n5 #STYLEmusicvideo\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/WPXUyuW6B2 http://t.co/ZJogPeJ6S5", :followers=>5584, :user_id=>2922003072, :retweet=>0}

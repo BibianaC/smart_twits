@@ -1,3 +1,0 @@
-{:name=>"@RealNealMayhem", :text=>"RT @caroldecker: Gutted to hear the my pal Steve Strange has died , what a terrible shame .he goes down in history as part of  a cultural c…", :followers=>53076, :user_id=>1072359836, :retweet=>73}
-{:name=>"@DKultur", :text=>"Er war das Idol der New Romantics: Visage-Sänger Steve Strange ist gestorben http://t.co/QQQYu2OUlb (mp3-Audio) http://t.co/ewdpt31pWs", :followers=>50705, :user_id=>320412967, :retweet=>2}
-{:name=>"@SeanBorgLA", :text=>"Back in the day with Steve Strange and @nathanmoore 1993... RIP Stevie xo http://t.co/uSaosckHb5", :followers=>18062, :user_id=>69955245, :retweet=>0}

@@ -1,3 +1,0 @@
-{:text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :retweet=>500}
-{:text=>"RT @BillBailey: Quantitative Easing #BritishSexPositions", :retweet=>294}
-{:text=>"RT @eddbaIlsmp: The taxpayer #BritishSexPositions http://t.co/uG3pnKA0Wt", :retweet=>187}

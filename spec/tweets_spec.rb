@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'tweets'
+require './app/lib/tweets'
 
 describe 'Tweets' do
 

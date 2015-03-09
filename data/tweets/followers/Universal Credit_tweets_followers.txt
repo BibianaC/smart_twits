@@ -1,0 +1,3 @@
+{:name=>"@DWPgovuk", :text=>"Want to know more about #UniversalCredit? Visit our online resource here: http://t.co/SzL2L0ajRL http://t.co/FH4iFDL3B7", :followers=>26971, :user_id=>274569960, :retweet=>2}
+{:name=>"@HomelessLink", :text=>"Want to know if @UniversalCredi1 is coming to your area soon? Here are the latest timetables http://t.co/hAj2uVY9Ns", :followers=>16729, :user_id=>34581425, :retweet=>0}
+{:name=>"@CollectedN", :text=>"With Universal Credit, work might finally pay http://t.co/tQj4vKvrB4 [Books http://t.co/cQGkNvgblr ] #opinion", :followers=>14684, :user_id=>1228840274, :retweet=>0}

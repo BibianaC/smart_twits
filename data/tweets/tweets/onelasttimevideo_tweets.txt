@@ -1,0 +1,100 @@
+{:name=>"@lovinyoubutera", :text=>"RT @FrankieJGrande: SO UNBELIEVABLY PROUD OF MY SISTER FOR THIS INCREDIBLE VIEDO!!! @ArianaGrande http://t.co/GT4re2Iu8g #onelasttimevideo", :followers=>8644, :user_id=>861761190, :retweet=>1961}
+{:name=>"@xoxo_butera", :text=>"RT @FrankieJGrande: SO UNBELIEVABLY PROUD OF MY SISTER FOR THIS INCREDIBLE VIEDO!!! @ArianaGrande http://t.co/GT4re2Iu8g #onelasttimevideo", :followers=>8348, :user_id=>2746641269, :retweet=>1961}
+{:name=>"@RiccardoGuiduc", :text=>"RT @mtvitaly: Noi hai ancora visto il nuovo video di Ariana Grande? Ripara SUBITO http://t.co/B4ug151oFs #onelasttimevideo http://t.co/z7kJ…", :followers=>140, :user_id=>2233267904, :retweet=>7}
+{:name=>"@MariaCamilaw", :text=>"https://t.co/h5cU4rMDFc ♥ #onelasttimevideo", :followers=>152, :user_id=>1574122154, :retweet=>0}
+{:name=>"@buteraismile", :text=>"RT @drewithbutera: quem foi otaria de achar que eles iam se beijar?? #OneLastTimeVideo http://t.co/UIcviGDXjl", :followers=>1680, :user_id=>2285837365, :retweet=>222}
+{:name=>"@LoveMyBbeAriana", :text=>"My girl I love her music is amazing follow me please charming princess 😍💕 @ArianaGrande #OneLastTimeViDEO 13", :followers=>352, :user_id=>1917882732, :retweet=>0}
+{:name=>"@lovezbutera", :text=>"Watch the new music video of\n@arianagrande One Last Time\n(Official): http://t.co/DjwYFoxYIZ #onelasttimevideo /35", :followers=>2016, :user_id=>904819267, :retweet=>0}
+{:name=>"@grandeisfab101", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>996, :user_id=>3025687179, :retweet=>30648}
+{:name=>"@OJohnnyTwittou", :text=>"#onelasttimevideo no topo dos trends, amo 💞", :followers=>241, :user_id=>615301911, :retweet=>0}
+{:name=>"@arianasxlovely", :text=>"RT @INSPIREDINAH: I LOVE HER SO MUCH #WatchOLTonVEVO #onelasttimevideo http://t.co/HeTC91rr5A", :followers=>197, :user_id=>2965605658, :retweet=>105}
+{:name=>"@Larissa_grande", :text=>"RT @CocaCola_Br: Carnaval ta aí e hoje só vou com essa marchinha no repeat. #BebendoUmaCocaCom a musa do Pop. #onelasttimevideo http://t.co…", :followers=>159, :user_id=>1644156499, :retweet=>189}
+{:name=>"@mgcftjustin", :text=>"HEY ARIANA ONE LAST TIME VIDEO IS PERFECT I LOVE IT!! PLEASE FOLLOW ME? @ArianaGrande  #OneLastTimeVideo etif", :followers=>5556, :user_id=>1415792766, :retweet=>0}
+{:name=>"@virgemkaty", :text=>"😍😍😍💗💗💗🙏🙏🙏\nHI @arianagrande\nFOLLOW ME PLEASE\nI LOVE YOU VERY MUCH\nDO NOT IGNORE\nYOU ARE VERY IMPORTANT TO ME\n🎉🎉🎉✨✨✨💅💅💅\n#onelasttimevideo 228x", :followers=>17458, :user_id=>2700917806, :retweet=>0}
+{:name=>"@CatarinaPeixot3", :text=>"☁️Hi @ArianaGrande ☁️\n👼You are my idol, because you are so sweet and lovely.👼\n🙊Follow me please honey🙊\n💕 love you 💕\n#OneLastTimeVideo\nx22", :followers=>1063, :user_id=>1344618853, :retweet=>0}
+{:name=>"@Girl_Maddox", :text=>"ME E N C A N T O :3 #onelasttimevideo", :followers=>1263, :user_id=>1274098706, :retweet=>0}
+{:name=>"@probremadariana", :text=>"#onelasttimevideo Essa capture &lt;3 http://t.co/7rMRr4XHUk", :followers=>1382, :user_id=>727831897, :retweet=>0}
+{:name=>"@fifthvoices", :text=>"@ArianaGrande I'M SO PROUD OF YOU QUEEN 👏 #onelasttimevideo", :followers=>4440, :user_id=>389543663, :retweet=>0}
+{:name=>"@roromattos_", :text=>"Cadê o beijo?? #onelasttimevideo", :followers=>147, :user_id=>59221631, :retweet=>0}
+{:name=>"@zoemarsh_", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>330, :user_id=>2312099323, :retweet=>30648}
+{:name=>"@BrianYauCW", :text=>"RT @LuvButeraAvenue: It will never change me and you #OneLastTimeVideo http://t.co/2lRiwd8A1j @ArianaGrande @MattBennett http://t.co/iAa4dS…", :followers=>225, :user_id=>47325792, :retweet=>45}
+{:name=>"@bishirwin", :text=>"RT @drewsambitions: this is where the comet came from #OneLastTimeVideo http://t.co/rjqjPpCGOT", :followers=>2159, :user_id=>2427543471, :retweet=>196}
+{:name=>"@ilaz222", :text=>"#CongratsNiallAndMelissa\n#WeLoveYouEleanor\n#onelasttimevideo\n#Chileapruebadejiles\nNihat Doğan\n\nPorn Video\nhttp://t.co/9ptZYG4CdH", :followers=>8071, :user_id=>2382224588, :retweet=>0}
+{:name=>"@trendinaliaCL", :text=>"1. #festivaldeantofagasta\n2. #Chileapruebadejiles\n3. #onelasttimevideo\n4. Dávalos\n5. #Davalos\n\n2015/2/16 12:16 CLST http://t.co/xGRvgIQjMk", :followers=>18490, :user_id=>1182010928, :retweet=>0}
+{:name=>"@xvideosariana", :text=>"RT @arianadefence: Será que conseguimos 5 milhões de views ainda hoje? Hahah #onelasttimevideo http://t.co/2F0UBqbUfH", :followers=>31928, :user_id=>1257169514, :retweet=>6}
+{:name=>"@iamlightweight_", :text=>"ameeeeeei #onelasttimevideo", :followers=>390, :user_id=>327046806, :retweet=>0}
+{:name=>"@trendinaliaVE", :text=>"1. Alí Primera\n2. #onelasttimevideo\n3. #NBAAllStarNYC\n4. Carnaval\n5. #Carnavales2015\n\n2015/2/16 10:42 VET http://t.co/TZZWvFfY1p", :followers=>29969, :user_id=>17916058, :retweet=>0}
+{:name=>"@lovezbutera", :text=>"Watch the new music video of\n@arianagrande One Last Time\n(Official): http://t.co/DjwYFoxYIZ #onelasttimevideo /33", :followers=>2016, :user_id=>904819267, :retweet=>0}
+{:name=>"@mgcftjustin", :text=>"HEY ARIANA ONE LAST TIME VIDEO IS PERFECT I LOVE IT!! PLEASE FOLLOW ME? @ArianaGrande  #OneLastTimeVideo bkgs", :followers=>5556, :user_id=>1415792766, :retweet=>0}
+{:name=>"@StreamBeamer", :text=>"\"#OneLastTimeVideo ... directed by my friend, the incredible uptomyknees.\n\n ...\"  http://t.co/ZzGEftHIOS", :followers=>74, :user_id=>210104182, :retweet=>0}
+{:name=>"@backtobaby", :text=>"RT @naruhinaz: quem achou que ia ter beijo e foi otária levanta a mão  #onelasttimevideo http://t.co/upBmpjVrto", :followers=>3565, :user_id=>785618328, :retweet=>54}
+{:name=>"@ArianaZignagoRR", :text=>"RT @BrendaFrere: This is so cute omg ❤️ #onelasttimevideo http://t.co/uLAWwZDOG5", :followers=>2441, :user_id=>2296453085, :retweet=>104}
+{:name=>"@LoveMyBbeAriana", :text=>"My girl I love her music is amazing follow me please charming princess 😍💕 @ArianaGrande #OneLastTimeViDEO 12", :followers=>352, :user_id=>1917882732, :retweet=>0}
+{:name=>"@myeveirthing", :text=>"RT @RafaDirecionada: Fui trouxa de novo, ninguém merece... #OneLastTimeVideo http://t.co/1aI6nWS2wL", :followers=>136, :user_id=>2973802305, :retweet=>4}
+{:name=>"@percynaoexiste", :text=>"RT @fallenforsos: DESCULPA, MAS EU TIVE QUE FAZER ISSO #onelasttimevideo #OneLastTimeMusicVideo http://t.co/mC5OXZ3D1Z", :followers=>2561, :user_id=>547210839, :retweet=>99}
+{:name=>"@xvideosariana", :text=>"RT @arianakenga: eu achei o clipe bem original, gostei #OneLastTimeVideo", :followers=>31928, :user_id=>1257169514, :retweet=>7}
+{:name=>"@trendinaliaBR", :text=>"1. #WeLoveYouEleanor\n2. #onelasttimevideo\n3. #CongratsNiallAndMelissa\n4. Chace\n5. #askkpopper\n\n2015/2/16 13:08 BRST http://t.co/MffVmqH2oJ", :followers=>13114, :user_id=>1266909829, :retweet=>0}
+{:name=>"@WWEJPDiamond", :text=>"RT @BrendaFrere: WHO GAVE U THE RIGHT 😭 #onelasttimevideo https://t.co/h8mKWTLh3S", :followers=>975, :user_id=>1164363247, :retweet=>67}
+{:name=>"@ScarlettShay3", :text=>"RT @arisjournaI: uwielbiam arianę w takim zwyczajnym wydaniu, ona zawsze wygląda perfekcyjnie, moja🙆💞#onelasttimevideo http://t.co/xmRbvyoZ…", :followers=>1631, :user_id=>1449608324, :retweet=>75}
+{:name=>"@BadeLoveee", :text=>"RT @immortauhl: THE END IS CAT AND ROBBIE AND THIS IS HOW THEIR LOVE STORY ENDS OMG  #onelasttimevideo http://t.co/luOWQ7fngq", :followers=>3688, :user_id=>482997433, :retweet=>34}
+{:name=>"@shotariana", :text=>"RT @whxharry: scrr o clipe ficou maravilhoso  #onelasttimevideo", :followers=>40514, :user_id=>2194595677, :retweet=>2}
+{:name=>"@anythingforjdb", :text=>"RT @TwerkBieber25: @arianagrande \n#onelasttimevideo get me like : http://t.co/zhnPyyJl9t", :followers=>1079, :user_id=>2431857405, :retweet=>7}
+{:name=>"@QUEENOFLAJE", :text=>"RT @Arianizando: Se até aquela baladinha de Break Free fez sucesso, OLT também vai #onelasttimevideo", :followers=>1262, :user_id=>360254934, :retweet=>2}
+{:name=>"@xvideosariana", :text=>"RT @arianakenga: jurei que eles iriam se beijar nessa parte, fui otária #OneLastTimeVideo http://t.co/0cj25c7zJU", :followers=>31928, :user_id=>1257169514, :retweet=>41}
+{:name=>"@lovezbutera", :text=>"Watch the new music video of\n@arianagrande One Last Time\n(Official): http://t.co/DjwYFoxYIZ #onelasttimevideo /32", :followers=>2016, :user_id=>904819267, :retweet=>0}
+{:name=>"@nikosolympiaka2", :text=>"EVERYONE WHO RT THIS WILL GET 49 FOLLOWERS.FOLLOW EVERY1 WHO RT THIS TOO. #onelasttimevideo \nNEXT GO FOLLOW @PromoteOLT  &lt;3", :followers=>564, :user_id=>2899251161, :retweet=>0}
+{:name=>"@buteraismile", :text=>"como existe alguém que não gostou do clipe???? #onelasttimevideo", :followers=>1680, :user_id=>2285837365, :retweet=>0}
+{:name=>"@ariwhoo", :text=>"Eu não espero top 10 #onelasttimevideo", :followers=>2598, :user_id=>442152959, :retweet=>0}
+{:name=>"@foxyscarz", :text=>"RT @arianasdilemma: Started from the bottom now we're here #OneLastTimeVideo http://t.co/T0H76lwX9l", :followers=>53186, :user_id=>55517080, :retweet=>52}
+{:name=>"@mgcftjustin", :text=>"HEY ARIANA ONE LAST TIME VIDEO IS PERFECT I LOVE IT!! PLEASE FOLLOW ME? @ArianaGrande  #OneLastTimeVideo khds", :followers=>5556, :user_id=>1415792766, :retweet=>0}
+{:name=>"@Jul_1D", :text=>"RT @ArianaGrande: 2 hours #onelasttimevideo!!!", :followers=>5959, :user_id=>1534664744, :retweet=>15201}
+{:name=>"@vituswift13", :text=>"@evidencestyles viu o video sambastico e destruidor de #onelasttimevideo http://t.co/WRVB8O0wVv", :followers=>1120, :user_id=>2846710277, :retweet=>0}
+{:name=>"@brotherzayn", :text=>"Não sou do fandom mas o clipe ta demais #onelasttimevideo", :followers=>314, :user_id=>1265834911, :retweet=>0}
+{:name=>"@likesp0tter", :text=>"RT @NevesVitorr: Eu achando, que no final eles iriam se beijar,,,,,,Fui trouxa 😪\n#onelasttimevideo  #askarianator", :followers=>1715, :user_id=>1250071045, :retweet=>1}
+{:name=>"@girlofdrew1", :text=>"RT @arianapopozuda: o clipe de olt tem uma mensagem muito boa, isso foi o q eu mais gostei no clipe #OneLastTimeVideo", :followers=>926, :user_id=>561364011, :retweet=>2}
+{:name=>"@xvideosariana", :text=>"RT @swaxsgjb: ISSO TA MUITO PERFEITO #onelasttimevideo", :followers=>31928, :user_id=>1257169514, :retweet=>1}
+{:name=>"@TiaD_1997", :text=>"RT @ArianaisAngelic: \"robbie, are we gonna go to heaven?\"\n\n\"yeah..\"\n\n\"would there be meatballs?\"\n\n\"there would.\" #onelasttimevideo http://t…", :followers=>596, :user_id=>280522893, :retweet=>26}
+{:name=>"@PaferYief", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>672, :user_id=>158494419, :retweet=>30648}
+{:name=>"@1desinho", :text=>"AMEEEI. SENHOR, É PECADO RIR DAQUELE VELHO LOUCO BARBUDO? 😂😂💕 https://t.co/SUPr9wnhha #onelasttimevideo", :followers=>2454, :user_id=>1058821040, :retweet=>0}
+{:name=>"@CupcakeeAriana", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>10430, :user_id=>1341455646, :retweet=>30648}
+{:name=>"@2015_Hopeful", :text=>"RT @Lucia1D_11: RT IF YOU LOVE THIS VIDEO ARIANATORS \n#onelasttimevideo \n#onelasttime http://t.co/lMgcF5uyus", :followers=>11483, :user_id=>2257686338, :retweet=>8}
+{:name=>"@xvideosariana", :text=>"RT @arianadefence: One Last time está quase chegando em 600 mil views #onelasttimevideo http://t.co/05iYYZSuSP", :followers=>31928, :user_id=>1257169514, :retweet=>4}
+{:name=>"@BiimaPraadnyaa", :text=>"RT @ArianaGrande: 2 hours #onelasttimevideo!!!", :followers=>115, :user_id=>2875101273, :retweet=>15201}
+{:name=>"@TinyElephant22", :text=>"RT @ArianaGrande: 2 hours #onelasttimevideo!!!", :followers=>3359, :user_id=>1342492848, :retweet=>15201}
+{:name=>"@mgcftjustin", :text=>"HEY ARIANA ONE LAST TIME VIDEO IS PERFECT I LOVE IT!! PLEASE FOLLOW ME? @ArianaGrande  #OneLastTimeVideo Wyjg", :followers=>5556, :user_id=>1415792766, :retweet=>0}
+{:name=>"@LoveMyBbeAriana", :text=>"My girl I love her music is amazing follow me please charming princess 😍💕 @ArianaGrande #OneLastTimeViDEO 11", :followers=>352, :user_id=>1917882732, :retweet=>0}
+{:name=>"@lovezbutera", :text=>"Watch the new music video of\n@arianagrande One Last Time\n(Official): http://t.co/DjwYFoxYIZ #onelasttimevideo /31", :followers=>2016, :user_id=>904819267, :retweet=>0}
+{:name=>"@GloomyGrande", :text=>"RT @minimes98: The Fandom Right Now After Seeing The Video. 👍\n#onelasttimevideo http://t.co/N0WOfpVF9E", :followers=>4127, :user_id=>1369473151, :retweet=>45}
+{:name=>"@CatarinaPeixot3", :text=>"☁️Hi @ArianaGrande ☁️\n👼You are my idol, because you are so sweet and lovely.👼\n🙊Follow me please honey🙊\n💕 love you 💕\n#OneLastTimeVideo\nx21", :followers=>1063, :user_id=>1344618853, :retweet=>0}
+{:name=>"@lazara_mercedes", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>182, :user_id=>2754818073, :retweet=>30648}
+{:name=>"@AriGBieberSpain", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>4052, :user_id=>2202177933, :retweet=>30648}
+{:name=>"@Belieber04Drew", :text=>"diva lacradora #onelasttimevideo I love you @ArianaGrande amei o video", :followers=>46, :user_id=>2823072831, :retweet=>0}
+{:name=>"@betterthanvoce", :text=>"odeio quando meu moletom começa a brilhar no meio do apocalipse #onelasttimevideo", :followers=>8, :user_id=>703344219, :retweet=>0}
+{:name=>"@TinyElephant22", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>3359, :user_id=>1342492848, :retweet=>30648}
+{:name=>"@2015_Hopeful", :text=>"RT @arianasdilemma: Started from the bottom now we're here #OneLastTimeVideo http://t.co/T0H76lwX9l", :followers=>11483, :user_id=>2257686338, :retweet=>52}
+{:name=>"@mgcftjustin", :text=>"HEY ARIANA ONE LAST TIME VIDEO IS PERFECT I LOVE IT!! PLEASE FOLLOW ME? @ArianaGrande  #OneLastTimeVideo", :followers=>5556, :user_id=>1415792766, :retweet=>0}
+{:name=>"@ButeraDoHazza", :text=>"RT @RafaDirecionada: Fui trouxa de novo, ninguém merece... #OneLastTimeVideo http://t.co/1aI6nWS2wL", :followers=>866, :user_id=>2835390131, :retweet=>4}
+{:name=>"@swiftribufu", :text=>"RT @liamgraciosa: me achava otaria por querer que a cat e o robbie ficassem juntos mas não é que a macumba deu certo #onelasttimevideo http…", :followers=>1830, :user_id=>2922054928, :retweet=>164}
+{:name=>"@xvideosariana", :text=>"RT @Arianizando: Se até aquela baladinha de Break Free fez sucesso, OLT também vai #onelasttimevideo", :followers=>31928, :user_id=>1257169514, :retweet=>2}
+{:name=>"@OOkayRobs", :text=>"RT @righthere4ari: em 10 hrs One Last Time alcançou 679.505 visualizações... primeiramente bom dia haters 🙆👏 #OneLastTimeVideo http://t.co/…", :followers=>210, :user_id=>2850845615, :retweet=>10}
+{:name=>"@1dzaynmyhero", :text=>"RT @shotariana: ficou perfeito #onelasttimevideo", :followers=>946, :user_id=>2974955315, :retweet=>2}
+{:name=>"@amalxariana", :text=>"The amount of times Ive replayed the OLT music video is concerning #WatchOneLastTimeVideoOnVEVO #onelasttimevideo @ArianaGrande", :followers=>1027, :user_id=>1636625443, :retweet=>0}
+{:name=>"@Sweet_PandaM", :text=>"RT @EienSeyma: @ArianaGrande a boss ass bitch👑😎 #ArianaGrande #onelasttimevideo #onelasttime #arianatorsfamily #ArianatorForever http://t.c…", :followers=>2019, :user_id=>2865590669, :retweet=>23}
+{:name=>"@goztepeliyizaga", :text=>"RT @EienSeyma: @ArianaGrande a boss ass bitch👑😎 #ArianaGrande #onelasttimevideo #onelasttime #arianatorsfamily #ArianatorForever http://t.c…", :followers=>134, :user_id=>3012234623, :retweet=>23}
+{:name=>"@lazara_mercedes", :text=>"RT @AdamJCertified: The whole Fandom right now #OneLastTimeVideo #Arianators 💜 http://t.co/MEFBwhoA6z", :followers=>182, :user_id=>2754818073, :retweet=>181}
+{:name=>"@busecinarrrr", :text=>"RT @EienSeyma: @ArianaGrande a boss ass bitch👑😎 #ArianaGrande #onelasttimevideo #onelasttime #arianatorsfamily #ArianatorForever http://t.c…", :followers=>63, :user_id=>3015801050, :retweet=>23}
+{:name=>"@ItzJade_", :text=>"☁1621 @ArianaGrande Hey!,I luv u so much,did u knew it?,U re my inspiration for be a singer,can u PLZ follow me babe?#onelasttimevideo", :followers=>1842, :user_id=>2580698143, :retweet=>0}
+{:name=>"@AriGBieberSpain", :text=>"RT @ArianaGrande: 2 hours #onelasttimevideo!!!", :followers=>4052, :user_id=>2202177933, :retweet=>15201}
+{:name=>"@xvideosariana", :text=>"RT @liamgraciosa: me achava otaria por querer que a cat e o robbie ficassem juntos mas não é que a macumba deu certo #onelasttimevideo http…", :followers=>31928, :user_id=>1257169514, :retweet=>164}
+{:name=>"@CarlyRoseFnClub", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>47996, :user_id=>418253923, :retweet=>30648}
+{:name=>"@Jose36368", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>244, :user_id=>2247286769, :retweet=>30648}
+{:name=>"@KubissTolan", :text=>"RT @EienSeyma: @ArianaGrande a boss ass bitch👑😎 #ArianaGrande #onelasttimevideo #onelasttime #arianatorsfamily #ArianatorForever http://t.c…", :followers=>72, :user_id=>2986155563, :retweet=>23}
+{:name=>"@flavizzzzle", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>523, :user_id=>1017745057, :retweet=>30648}
+{:name=>"@cutearxana", :text=>"RT @arianasdilemma: Started from the bottom now we're here #OneLastTimeVideo http://t.co/T0H76lwX9l", :followers=>113, :user_id=>2879222081, :retweet=>52}
+{:name=>"@buterabaranga", :text=>"RT @arianakenga: AMEI ESSA PARTE #OneLastTimeVideo http://t.co/aWiwauxYyJ", :followers=>2085, :user_id=>548700604, :retweet=>42}
+{:name=>"@killeroftexas", :text=>"RT @EienSeyma: @ArianaGrande a boss ass bitch👑😎 #ArianaGrande #onelasttimevideo #onelasttime #arianatorsfamily #ArianatorForever http://t.c…", :followers=>2116, :user_id=>1433346445, :retweet=>23}
+{:name=>"@wjmb_", :text=>"RT @CaburpleGiraffe: Ariana had the ending bit with Cabbie planned out #onelasttimevideo http://t.co/zwWTPPUJ96", :followers=>145, :user_id=>428214506, :retweet=>2}
+{:name=>"@httpzdrewbieber", :text=>"RT @bandlerdos: o choro é livre #onelasttimevideo http://t.co/HmUnlNc3ne", :followers=>980, :user_id=>1681554163, :retweet=>50}
+{:name=>"@princesmariag", :text=>"#OneLastTimeVideo The besst !!!! omg she looks so spectacular ! @arianagrande #arianagrande #arianator #loveyousosososososomuch", :followers=>518, :user_id=>2791624327, :retweet=>0}
+{:name=>"@michaelego", :text=>"Lipstick Instrumentals R&amp;b Divas Edition  http://t.co/YwDfqGmPYp via @DatPiff #WeLoveYouEleanor\n#onelasttimevideo", :followers=>71631, :user_id=>118202849, :retweet=>0}
+{:name=>"@sarahfelix13", :text=>"RT @shotariana: ficou perfeito #onelasttimevideo", :followers=>204, :user_id=>2805009220, :retweet=>2}

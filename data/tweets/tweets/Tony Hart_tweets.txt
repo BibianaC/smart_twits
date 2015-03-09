@@ -1,0 +1,100 @@
+{:name=>"@trendinaliaGB", :text=>"6. Tony Hart\n7. Preston\n8. Lucy Beale\n9. London\n10. Eastenders\n\n2015/2/16 15:12 GMT #trndnl2015 http://t.co/do7Hdxwcnc", :followers=>5713, :user_id=>1266803563, :retweet=>0}
+{:name=>"@Malc_Hadley", :text=>"RT @studioexec1: Sheer Hart attack - CHRISTIAN BALE TO PLAY TONY HART: http://t.co/4J7l89BW8C #tonyhart http://t.co/5SbVIQOKLy", :followers=>781, :user_id=>22123241, :retweet=>7}
+{:name=>"@PaulHiggitt1", :text=>"RT @sam_bambs: Tony Hart was my favourite celebrity to be named after three body parts.", :followers=>43, :user_id=>472100351, :retweet=>11}
+{:name=>"@NikiInStyle", :text=>"RT @MetroUK: Internet mourns for Tony Hart, despite the fact he died six years ago  http://t.co/bgdNZ5relG http://t.co/syt4jz7xzK", :followers=>1158, :user_id=>22781533, :retweet=>16}
+{:name=>"@esthervanheel", :text=>"RT @studioexec1: Sheer Hart attack - CHRISTIAN BALE TO PLAY TONY HART: http://t.co/4J7l89BW8C #tonyhart http://t.co/5SbVIQOKLy", :followers=>735, :user_id=>2389717004, :retweet=>7}
+{:name=>"@Newsagentprovoc", :text=>"I miss Tony Hart and I love him even more for being the only one who wasn't a nonce", :followers=>2559, :user_id=>156166032, :retweet=>0}
+{:name=>"@littlenymph1", :text=>"RT @TheSunNewspaper: Tony Hart dies - twice, according to a very confused internet http://t.co/VoqA0gXtA0 http://t.co/SAZi7Q4R3J", :followers=>58, :user_id=>129567238, :retweet=>10}
+{:name=>"@ET_News", :text=>"Twitter tributes pour in for artist Tony Hart - but he died six years ago...: Tributes have been pouring in on... http://t.co/VXxGLpdagy", :followers=>812, :user_id=>919154330, :retweet=>0}
+{:name=>"@LadyCarolynemma", :text=>"RT @studioexec1: Sheer Hart attack - CHRISTIAN BALE TO PLAY TONY HART: http://t.co/4J7l89BW8C #tonyhart http://t.co/5SbVIQOKLy", :followers=>131, :user_id=>741643016, :retweet=>7}
+{:name=>"@medavia", :text=>"RT @TheSunNewspaper: Tony Hart dies - twice, according to a very confused internet http://t.co/VoqA0gXtA0 http://t.co/SAZi7Q4R3J", :followers=>2051, :user_id=>108610028, :retweet=>10}
+{:name=>"@Merl1Enchd", :text=>"Tony Hart ❤ #RT Reports of Tony Hart's second death are greatly exaggerated - The Guardian  http://t.co/HvIs8VckzY", :followers=>201, :user_id=>2966026936, :retweet=>0}
+{:name=>"@tworldy", :text=>"Tony Hart now trending in London http://t.co/oK7XRCN3cN", :followers=>1268, :user_id=>2909648091, :retweet=>0}
+{:name=>"@MazLutonAid", :text=>"Reports of Tony Hart's second death are greatly exaggerated http://t.co/HhZPVCSocR Hilarious! Couple of mates got caught out by this!", :followers=>232, :user_id=>51709349, :retweet=>0}
+{:name=>"@Dukenfield", :text=>"@lushattic Q : How do you kill Zombie Tony Hart?\n\nA : Inject him with Morph-ine", :followers=>238, :user_id=>239592745, :retweet=>0}
+{:name=>"@MrLeeMason", :text=>"RT @AmazingMorph: Over the past 24 hrs, many people on Twitter have reported that Tony Hart has recently died. Tony sadly died in 2009. htt…", :followers=>521, :user_id=>15157664, :retweet=>360}
+{:name=>"@swiftstory", :text=>"RT @ldobsonhughes: Fascinating - much-loved children’s artist Tony Hart died in 2009. Yet his death went viral this weekend http://t.co/1vo…", :followers=>4452, :user_id=>158697583, :retweet=>7}
+{:name=>"@SempreSami", :text=>"Thank God zombie Tony Hart was put to rest yesterday.", :followers=>328, :user_id=>124377537, :retweet=>0}
+{:name=>"@Mnrrnt", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>733, :user_id=>1650685638, :retweet=>8}
+{:name=>"@Lizzie_Jarvis", :text=>"Reports of Tony Hart's second death are greatly exaggerated http://t.co/flpNAJCBj3", :followers=>325, :user_id=>190603884, :retweet=>0}
+{:name=>"@mrveltre", :text=>"Tony Hart #follow 'SNL' 40th Anniversary show's top 10 moments - New York Daily News  http://t.co/I4DkvCrkyo", :followers=>918, :user_id=>1361758392, :retweet=>0}
+{:name=>"@Evening_Tele", :text=>"RT @Tele_Scott: Tributes pour in for #TonyHart - six years after his death: http://t.co/1H5Gjq1Kep http://t.co/KQMslhKcqp", :followers=>6526, :user_id=>284465885, :retweet=>1}
+{:name=>"@YahooNewsUK", :text=>"Tony Hart's death is still trending on Twitter... six years after it happened: http://t.co/MMxt11bu3k http://t.co/jmp2IhCP18", :followers=>37213, :user_id=>20779110, :retweet=>0}
+{:name=>"@Tele_Scott", :text=>"Tributes pour in for #TonyHart - six years after his death: http://t.co/1H5Gjq1Kep http://t.co/KQMslhKcqp", :followers=>148, :user_id=>1435387249, :retweet=>1}
+{:name=>"@CreweCitizen", :text=>"RT @Daily_Express: Tory MP among confused Twitter users paying tribute to Tony Hart – who died SIX YEARS ago http://t.co/0fwhDTadsO", :followers=>117, :user_id=>2851539231, :retweet=>2}
+{:name=>"@RetseyBaba", :text=>"RT @Telegraph: Twitter gets really confused over the death of artist Tony Hart http://t.co/fR7OjALVF8 http://t.co/iEP1IJ0ZTu", :followers=>61, :user_id=>44387833, :retweet=>14}
+{:name=>"@Karina079ds", :text=>"Tony Hart #FOLLOWXFOLLOW Entertainment Live: 16 February 2015 - BBC News  http://t.co/JTEWzMkNHo", :followers=>531, :user_id=>2557261454, :retweet=>0}
+{:name=>"@ACochrane10", :text=>"RT @ShowbizSimon: Tony Hart. Died 2009. Died Harter in 2015. In 2021 he'll Die Hart With A Vengeance. #RIPTonyHart", :followers=>270, :user_id=>549424220, :retweet=>28}
+{:name=>"@realmikefleming", :text=>"@MirrorWeirdNews @DailyMirror Is it Tony Hart's?", :followers=>567, :user_id=>58437106, :retweet=>0}
+{:name=>"@simonsaysyow", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>437, :user_id=>176512053, :retweet=>8}
+{:name=>"@HashtagFutures", :text=>"The trending history of Tony Hart is interactively charted at http://t.co/PZrNRQzbH9 #Futures UK", :followers=>2088, :user_id=>2240504065, :retweet=>0}
+{:name=>"@cllrdianne", :text=>"RT @AmazingMorph: Over the past 24 hrs, many people on Twitter have reported that Tony Hart has recently died. Tony sadly died in 2009. htt…", :followers=>476, :user_id=>31140413, :retweet=>360}
+{:name=>"@TrendieUK", :text=>"\"Trending UK:03:14 PM GMT\"\n6. Tony Hart\n7. Preston\n8. Lucy Beale\n9. Eastenders\n10. London", :followers=>4560, :user_id=>2797973256, :retweet=>0}
+{:name=>"@AhmadTX", :text=>"Tony Hart mourned twice on Twitter | http://t.co/Bo6DcJbC1m | http://t.co/Ec3bf8HuY4 via #BBCTrending", :followers=>177, :user_id=>284605179, :retweet=>0}
+{:name=>"@bntyuyi20", :text=>"Tony Hart #news 'SNL' 40th Anniversary show's top 10 moments - New York Daily News  http://t.co/zfhwhhFJhO", :followers=>641, :user_id=>2784653083, :retweet=>0}
+{:name=>"@dailyinside", :text=>"British TV presenter Tony Hart 'dies' for a second time on Twitter #Uk", :followers=>61487, :user_id=>311654967, :retweet=>0}
+{:name=>"@famyuyi", :text=>"Tony Hart #CNN Entertainment Live: 16 February 2015 - BBC News  http://t.co/mt0O82LeEv", :followers=>359, :user_id=>2946364316, :retweet=>0}
+{:name=>"@alvysingerUK", :text=>"Lovely quote from Rolf Harris in this subtly retracted Guardian tribute to the very late #tonyhart http://t.co/gwBKYvif8w", :followers=>218, :user_id=>22819544, :retweet=>0}
+{:name=>"@Tutkular16", :text=>"EDM Girls are beautiful\n\nhttps://t.co/9wkHg8SlZX\nTony Hart \nPreston \nLucy Beale \nLondon \nEastenders", :followers=>8185, :user_id=>2428704842, :retweet=>0}
+{:name=>"@Ianspirational", :text=>"http://t.co/QyarQIDFU2 - yes even his sad death should Morph. So worth remembering - his gentle great contribution. http://t.co/N4hmr6vLin", :followers=>2388, :user_id=>34689352, :retweet=>0}
+{:name=>"@seedotsaw", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>313, :user_id=>2475833041, :retweet=>8}
+{:name=>"@eljuridicon", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>27, :user_id=>2939105877, :retweet=>8}
+{:name=>"@fivshit", :text=>"Tony Hart #CNN Reports of Tony Hart's second death are greatly exaggerated - The Guardian  http://t.co/ZEEdN9F6QM", :followers=>628, :user_id=>2909801126, :retweet=>0}
+{:name=>"@donadavos", :text=>"RT @grumpcrusader: RIP Tony Hart, who sadly passed away again this weekend. #tonyhart #morph http://t.co/80Q1Z0YUBm", :followers=>52, :user_id=>23474042, :retweet=>111}
+{:name=>"@osho2015ok", :text=>"Tony Hart #follow 'SNL' 40th Anniversary show's top 10 moments - New York Daily News  http://t.co/MloMpqHi2q", :followers=>143, :user_id=>1547028763, :retweet=>0}
+{:name=>"@garyrodger", :text=>"RT @mediaguardian: Reports of Tony Hart's second death are greatly exaggerated http://t.co/pvqNo3QGcf http://t.co/Z4820dCouS", :followers=>286, :user_id=>138081358, :retweet=>4}
+{:name=>"@MartynStead", :text=>"RT @bitesocialmedia: A strange cautionary tale for social media as Tony Hart does twice http://t.co/sSSMm63lRp", :followers=>74, :user_id=>1418076968, :retweet=>0}
+{:name=>"@beardo1969", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>117, :user_id=>420479328, :retweet=>8}
+{:name=>"@NisCAPE", :text=>"RT @mediaguardian: Reports of Tony Hart's second death are greatly exaggerated http://t.co/pvqNo3QGcf http://t.co/Z4820dCouS", :followers=>174, :user_id=>144544169, :retweet=>4}
+{:name=>"@kingstonnewsed", :text=>"@DailyMirror Tony Hart didn't create Morph. Peter Lord and David Sproxton did.", :followers=>1143, :user_id=>927381512, :retweet=>0}
+{:name=>"@RigsbyMachin", :text=>"Read all about it, read all about it!  Tony Hart still dead. That's right folks, six years on and still no change.  #morph", :followers=>22, :user_id=>72084501, :retweet=>0}
+{:name=>"@MemoirsOfAMetro", :text=>"So loads of people are mourning Tony Hart on Twitter today... who died in January 2009 http://t.co/Ig39EC67Qg", :followers=>699, :user_id=>579336046, :retweet=>0}
+{:name=>"@lalulami", :text=>"RT @digitalspytv: Morph sets the record straight and remembers Tony Hart http://t.co/IAqydDubM5", :followers=>165, :user_id=>414123501, :retweet=>1}
+{:name=>"@souluhane", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>635, :user_id=>234063517, :retweet=>8}
+{:name=>"@ArttuKesanto", :text=>"RT @mediaguardian: Reports of Tony Hart's second death are greatly exaggerated http://t.co/pvqNo3QGcf http://t.co/Z4820dCouS", :followers=>289, :user_id=>455748963, :retweet=>4}
+{:name=>"@AnaglogsDaughtr", :text=>"he were dead, yet shall he live: And whosoever liveth and believeth in me shall never die Tony Hart has died again. 2/2", :followers=>2516, :user_id=>395514224, :retweet=>0}
+{:name=>"@BankersUmbrella", :text=>"Reports of Tony Hart's second death are greatly exaggerated http://t.co/Ih6M5iHVwO", :followers=>18900, :user_id=>1086538034, :retweet=>0}
+{:name=>"@sotrere", :text=>"Tony Hart ❤❤❤❤❤ 'Saturday Night Live' Celebrates 40 Years - ABC News  http://t.co/brdxTd9elE", :followers=>687, :user_id=>2840610441, :retweet=>0}
+{:name=>"@DanMoorePiano", :text=>"Reports of Tony Hart's second death are greatly exaggerated | Media | The Guardian http://t.co/Zs3dqQXhGB", :followers=>1074, :user_id=>33552290, :retweet=>0}
+{:name=>"@alroz1", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>1786, :user_id=>27350158, :retweet=>8}
+{:name=>"@cafenerogill", :text=>"RT @BristolPost: Morph forced to take to Twitter over rumours Tony Hart had died - six years after he actually passed away http://t.co/O1nK…", :followers=>46, :user_id=>166275155, :retweet=>6}
+{:name=>"@Andrew_Social", :text=>"RT @SnoozeInBrief: I'm disgusted to hear they're doing a remake of Tony Hart's death. They'll probably even cast a woman.", :followers=>335, :user_id=>462123979, :retweet=>34}
+{:name=>"@RufusGuitars", :text=>"RT @OrkneyLibrary: New title in stock. This wonderful book by Tony Hart.\n\nNo wait, we've had it for 27 years http://t.co/GhnZV7AKgl", :followers=>14232, :user_id=>782678556, :retweet=>26}
+{:name=>"@bristoltory", :text=>"Flashback: Osborne on How to Avoid Tax: \n \nTony Hart died for the second time today and thi... http://t.co/3tzErzTJxw (via @GuidoFawkes)", :followers=>44, :user_id=>109283143, :retweet=>0}
+{:name=>"@thebluecampaign", :text=>"Flashback: Osborne on How to Avoid Tax: \n \nTony Hart died for the second time today and this clip of Osborne f... http://t.co/DONOrG4XfK", :followers=>627, :user_id=>126456165, :retweet=>0}
+{:name=>"@acereject", :text=>"RT @HouseOfGubbins: Meanwhile, the village idiots of Facebook are lamenting the passing of Tony Hart... who died in 2009.", :followers=>469, :user_id=>19816267, :retweet=>3}
+{:name=>"@lushattic", :text=>"Zombie Tony Hart has risen and been killed again?", :followers=>202, :user_id=>20761860, :retweet=>0}
+{:name=>"@epixradio", :text=>"RT @Telegraph: Twitter gets really confused over the death of artist Tony Hart http://t.co/fR7OjALVF8 http://t.co/iEP1IJ0ZTu", :followers=>160, :user_id=>2227077181, :retweet=>14}
+{:name=>"@lindenshaun", :text=>"RT @Independent: Tony Hart dies twice, Morph forced to intervene\nhttp://t.co/bdQBebCchT http://t.co/f9AAjbPJlc", :followers=>374, :user_id=>142311765, :retweet=>32}
+{:name=>"@syruspraka", :text=>"RT @Telegraph: Twitter gets really confused over the death of artist Tony Hart http://t.co/fR7OjALVF8 http://t.co/iEP1IJ0ZTu", :followers=>334, :user_id=>139862643, :retweet=>14}
+{:name=>"@mrskitcampbell", :text=>"RT @TheSunNewspaper: Tony Hart dies - twice, according to a very confused internet http://t.co/VoqA0gXtA0 http://t.co/SAZi7Q4R3J", :followers=>43, :user_id=>92518727, :retweet=>10}
+{:name=>"@molloy_ali", :text=>"RT @Telegraph: Twitter users get very confused over the death of artist Tony Hart http://t.co/vLielzGxsY by @MarkMolloy99 http://t.co/yE5Py…", :followers=>219, :user_id=>21568313, :retweet=>131}
+{:name=>"@TTMobile_uk", :text=>"TT UK 15:04\n1.#AskEmily\n2.#PancakeDay\n3.#MinistersYoutubeInterview\n4.#WeLoveYouEleanor\n5.#WhoDidntKillLucy\n6.Tony Hart\n7.Preston", :followers=>1089, :user_id=>2645038507, :retweet=>0}
+{:name=>"@waterloore", :text=>"Tony Hart #CNN Eleven Alabama Crimson Tide Players Invited to the 2015 NFL Draft Combine - Roll 'Bama Roll  http://t.co/IC3yrmdyL5", :followers=>846, :user_id=>2855853771, :retweet=>0}
+{:name=>"@NoobEnforcer", :text=>"RT @DailyMirror: Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>1719, :user_id=>14282674, :retweet=>8}
+{:name=>"@FlamingBobby", :text=>"Spot-on photo. RT @mediaguardian\nReports of Tony Hart's second death are greatly exaggerated http://t.co/jdSVPsyqtC  http://t.co/zHtxPXmqUv", :followers=>427, :user_id=>33198399, :retweet=>0}
+{:name=>"@Tutkular16", :text=>"sex exhibition \nhttps://t.co/7u2MZ1sUMJ\n\nTony Hart \nPreston \nLucy Beale \nLondon \nEastenders", :followers=>8185, :user_id=>2428704842, :retweet=>0}
+{:name=>"@alexhodby", :text=>"RT @OrkneyLibrary: New title in stock. This wonderful book by Tony Hart.\n\nNo wait, we've had it for 27 years http://t.co/GhnZV7AKgl", :followers=>787, :user_id=>43857306, :retweet=>26}
+{:name=>"@DailyMirror", :text=>"Rumours of Morph creator Tony Hart's SECOND death greatly exaggerated http://t.co/g6qpl9BfT8 http://t.co/MQl2YmZhNM", :followers=>315664, :user_id=>16887175, :retweet=>8}
+{:name=>"@jacapo47", :text=>"Reports of Tony Hart's second death are greatly exaggerated http://t.co/EZgE2R28n8 &gt; Something to discuss with students in infolit sessions!", :followers=>115, :user_id=>41655569, :retweet=>0}
+{:name=>"@miss_scottie", :text=>"RT @digitalspy: Morph has spoken out about Tony Hart, who is sadly still dead http://t.co/lZTxf2CZfu http://t.co/PUTpAUhCv6", :followers=>129, :user_id=>82933885, :retweet=>18}
+{:name=>"@markalexpreston", :text=>"RIP Tony Hart http://t.co/uEK064oj8K", :followers=>801, :user_id=>493169081, :retweet=>0}
+{:name=>"@Rekeiji", :text=>"RT @DMReporter: ED MILIBAND: “Very sad to hear of the death of Tony Hart. I remember him fondly from Blackbusters, and the first time he di…", :followers=>688, :user_id=>106079513, :retweet=>5}
+{:name=>"@hjones2061a", :text=>"RT @ThPositiveTroll: Hey Tony Hart, no matter how many times you die I'll always remember you as a hero of my positive childhood. Keep rest…", :followers=>208, :user_id=>2949655721, :retweet=>8}
+{:name=>"@anny_where1", :text=>"@BuzzFeedUK Tony Hart not the only one who has 'died' twice - there has been loads of others.#MessingWithHistory.", :followers=>2, :user_id=>1522019402, :retweet=>0}
+{:name=>"@Rivermansky63", :text=>"RT @studioexec1: Sheer Hart attack - CHRISTIAN BALE TO PLAY TONY HART: http://t.co/4J7l89BW8C #tonyhart http://t.co/5SbVIQOKLy", :followers=>1674, :user_id=>154584170, :retweet=>7}
+{:name=>"@brooza664", :text=>"RT @AmazingMorph: Over the past 24 hrs, many people on Twitter have reported that Tony Hart has recently died. Tony sadly died in 2009. htt…", :followers=>232, :user_id=>92828148, :retweet=>360}
+{:name=>"@IsoDK", :text=>"RT @mashable: British TV presenter Tony Hart 'dies' for a second time on Twitter http://t.co/UCZe2YJOay", :followers=>527, :user_id=>239071844, :retweet=>47}
+{:name=>"@TrendieUK", :text=>"\"Trending UK:03:01 PM GMT\"\n6. Tony Hart\n7. Preston\n8. Lucy Beale\n9. London\n10. Eastenders", :followers=>4560, :user_id=>2797973256, :retweet=>0}
+{:name=>"@HotwireRepairs", :text=>"RT @Telegraph: Twitter gets really confused over the death of artist Tony Hart http://t.co/fR7OjALVF8 http://t.co/iEP1IJ0ZTu", :followers=>177, :user_id=>2981418273, :retweet=>14}
+{:name=>"@tworldy", :text=>"Tony Hart now trending in Birmingham http://t.co/oK7XRCN3cN", :followers=>1268, :user_id=>2909648091, :retweet=>0}
+{:name=>"@dmansfield78", :text=>"Tony Hart, artist and inspiration for children, dies at 83 | From 2009 http://t.co/vDU22Rgm7T", :followers=>183, :user_id=>2847993333, :retweet=>0}
+{:name=>"@cynicalmonkey", :text=>"@mediaguardian was Tony Hart Reincarnated as a female Ukip Supporter?", :followers=>149, :user_id=>42368741, :retweet=>0}
+{:name=>"@Fraiselabd", :text=>"Tony Hart #FOLLOWXFOLLOW Entertainment Live: 16 February 2015 - BBC News  http://t.co/4kt4pv5dLy", :followers=>313, :user_id=>1427174521, :retweet=>0}
+{:name=>"@ZoeButt09", :text=>"RT @Independent: Morph sets the record straight on those Tony Hart death rumours: http://t.co/Vpq0paUQY5 http://t.co/3FdwOA7dYg", :followers=>1583, :user_id=>164288993, :retweet=>18}
+{:name=>"@Miss_Macabre", :text=>"Twitter gets very confused over death of artist Tony Hart | via @Telegraph http://t.co/KuULE2jZeo", :followers=>2686, :user_id=>59247302, :retweet=>0}
+{:name=>"@shoorayner", :text=>"Reports of Tony Hart's second death are greatly exaggerated http://t.co/OtwtTvOdzJ", :followers=>2299, :user_id=>117038655, :retweet=>0}
+{:name=>"@Chris_Pickering", :text=>"RT @mediaguardian: Reports of Tony Hart's second death are greatly exaggerated http://t.co/pvqNo3QGcf http://t.co/Z4820dCouS", :followers=>1283, :user_id=>166556632, :retweet=>4}
+{:name=>"@trendinaliaGB", :text=>"6. Tony Hart\n7. Wembley Stadium\n8. Preston\n9. Eastenders\n10. London\n\n2015/2/16 14:55 GMT #trndnl2015 http://t.co/do7Hdxwcnc", :followers=>5713, :user_id=>1266803563, :retweet=>0}
+{:name=>"@DanielNothing", :text=>"Thinking about the Tony Hart thing. It can happen. I found out John Sullivan was dead approximately two years after it happened.", :followers=>2321, :user_id=>29679548, :retweet=>0}
+{:name=>"@Harps1981", :text=>"Did not know Tony Hart died some years ago. He will always be my childhood hero. Even if I was shit at art. http://t.co/URhr1rocGL", :followers=>1933, :user_id=>325504838, :retweet=>0}

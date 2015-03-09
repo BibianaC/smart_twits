@@ -1,3 +1,0 @@
-{:text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :retweet=>92756}
-{:text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :retweet=>8635}
-{:text=>"RT @camerondallas: Drake mixtape just dropped 🔥", :retweet=>6858}

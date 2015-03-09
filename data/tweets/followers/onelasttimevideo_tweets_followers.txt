@@ -1,0 +1,3 @@
+{:name=>"@michaelego", :text=>"Lipstick Instrumentals R&amp;b Divas Edition  http://t.co/YwDfqGmPYp via @DatPiff #WeLoveYouEleanor\n#onelasttimevideo", :followers=>71631, :user_id=>118202849, :retweet=>0}
+{:name=>"@foxyscarz", :text=>"RT @arianasdilemma: Started from the bottom now we're here #OneLastTimeVideo http://t.co/T0H76lwX9l", :followers=>53186, :user_id=>55517080, :retweet=>52}
+{:name=>"@CarlyRoseFnClub", :text=>"RT @ArianaGrande: #OneLastTimeVideo ... directed by my friend, the incredible @uptomyknees.\n\n °₊·ˈ∗ http://t.co/1qAxg15KCS ∗ˈ‧ °☆ˈ∗ˈ‧₊° \n\n …", :followers=>47996, :user_id=>418253923, :retweet=>30648}

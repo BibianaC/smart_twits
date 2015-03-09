@@ -1,3 +1,0 @@
-{:name=>"@visitlondon", :text=>"101 romantic things to do in London, incl. drinks @Loungelover2003 http://t.co/z0ho2vztG6 #ValentinesDay http://t.co/F3dyHTyXv7", :followers=>300782, :user_id=>36054262, :retweet=>0}
-{:name=>"@thequote", :text=>"We need not think alike to love alike. - Francis David #ValentinesDay", :followers=>280404, :user_id=>30767393, :retweet=>0}
-{:name=>"@MiamiNewTimes", :text=>"The best eats and drinks for the #ValentinesDay weekend ahead. http://t.co/OXxcz9aV6C http://t.co/H5NDt7VjGV", :followers=>79675, :user_id=>16861311, :retweet=>0}

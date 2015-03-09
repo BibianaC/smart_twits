@@ -1,0 +1,3 @@
+{:name=>"@Channel4", :text=>"Don't miss the boat! Watch the first ep of new Julie Walters drama #IndianSummers on 4oD now: http://t.co/N2vKLHGKy4", :followers=>442189, :user_id=>183585551, :retweet=>5}
+{:name=>"@RedMagDaily", :text=>"There is life in Sunday night telly after Downton #IndianSummers http://t.co/s0t6Zy2tKS http://t.co/X8V78WuL48", :followers=>68508, :user_id=>115108916, :retweet=>0}
+{:name=>"@RobertLindsay", :text=>"@JulieWaltersUK I hope you are basking in the sunshine of your #IndianSummers As ever you are sublime x", :followers=>13445, :user_id=>1530459984, :retweet=>0}

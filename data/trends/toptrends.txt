@@ -1,10 +1,10 @@
-{:name=>"#BritishSexPositions", :query=>"%23BritishSexPositions", :filename=>"BritishSexPositions"}
-{:name=>"#FridayThe13th", :query=>"%23FridayThe13th", :filename=>"FridayThe13th"}
-{:name=>"#Nintendo3DSDay", :query=>"%23Nintendo3DSDay", :filename=>"Nintendo3DSDay"}
-{:name=>"Steve Strange", :query=>"%22Steve+Strange%22", :filename=>"Steve Strange"}
-{:name=>"#askpewds", :query=>"%23askpewds", :filename=>"askpewds"}
-{:name=>"#ValentinesDay", :query=>"%23ValentinesDay", :filename=>"ValentinesDay"}
-{:name=>"Drake", :query=>"Drake", :filename=>"Drake"}
-{:name=>"Too Late", :query=>"%22Too+Late%22", :filename=>"Too Late"}
+{:name=>"Tony Hart", :query=>"%22Tony+Hart%22", :filename=>"Tony Hart"}
+{:name=>"#SNL40", :query=>"%23SNL40", :filename=>"SNL40"}
+{:name=>"#onelasttimevideo", :query=>"%23onelasttimevideo", :filename=>"onelasttimevideo"}
+{:name=>"#DyingForATan", :query=>"%23DyingForATan", :filename=>"DyingForATan"}
+{:name=>"#Indiansummers", :query=>"%23Indiansummers", :filename=>"Indiansummers"}
 {:name=>"London", :query=>"London", :filename=>"London"}
-{:name=>"Tyga", :query=>"Tyga", :filename=>"Tyga"}
+{:name=>"Universal Credit", :query=>"%22Universal+Credit%22", :filename=>"Universal Credit"}
+{:name=>"Eastenders", :query=>"Eastenders", :filename=>"Eastenders"}
+{:name=>"#ThisMorning", :query=>"%23ThisMorning", :filename=>"ThisMorning"}
+{:name=>"West Indies", :query=>"%22West+Indies%22", :filename=>"West Indies"}

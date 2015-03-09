@@ -1,3 +1,0 @@
-{:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#حملة_محاربي_السرطان\n#جائزة_بندر_بن_خالد\n#askpewds\nA15Y http://t.co/Ap0EicEu8i", :followers=>26996, :user_id=>2336221570, :retweet=>0}
-{:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#FreeAJStaff\n#جائزة_بندر_بن_خالد\n#askpewds\nJ91B http://t.co/osQWz7HDST", :followers=>26996, :user_id=>2336221570, :retweet=>0}
-{:name=>"@Hnoof76y", :text=>"تعال العب حرب وتحداك تفوز .؟ من يتحدى\n\nسجل : http://t.co/dMZgRNTMZM\n\n#حملة_12_ألف_وحداوي_ضد_السد\n#askpewds\n#أفضل_ثنائي_شاهدته\nC61N", :followers=>4328, :user_id=>710675024, :retweet=>0}

@@ -1,0 +1,100 @@
+{:name=>"@beyondretrouk", :text=>"RT @Channel4: Don’t miss grand new 10-part drama #IndianSummers, starring Julie Walters, on now! http://t.co/3Eg3bC4sCO", :followers=>13121, :user_id=>93610762, :retweet=>94}
+{:name=>"@KacosPhoniquo", :text=>"#SNL40\n#onelasttimevideo\n#DyingForATan\n#Indiansummers\n#OnTopicTalkShow http://t.co/V8YMfSGhBw", :followers=>313, :user_id=>53747882, :retweet=>0}
+{:name=>"@WhiteMughalsFan", :text=>"Indian Summers: Why Channel 4's Sunday night drama is better than Downton Abbey http://t.co/uzlDINGMu6 @DalrympleWill #IndianSummers", :followers=>2615, :user_id=>1831476805, :retweet=>0}
+{:name=>"@sam19smith19", :text=>"#TonyHart\n#SNL40\n#onelasttimevideo\n#DyingForATan\n#Indiansummers\n#London\n#OnTopicTalkShow #NHS #NHSDebate #NHSCitizen http://t.co/kB0ZD96zbf", :followers=>72, :user_id=>3025206719, :retweet=>0}
+{:name=>"@ainakhan5", :text=>"RT @Adam_M_Ali: \"The sun never sets on the British Empire; because God doesn't trust the English in the dark.\" - Irish Proverb #IndianSumme…", :followers=>543, :user_id=>267801131, :retweet=>2}
+{:name=>"@sanakhawaj12", :text=>"Please vote for #LeaMakhoul \nhttps://t.co/qCSlgPMGp2\nhttp://t.co/QmH5BEicW4\n#IndianSummers #PancakeDay http://t.co/6KsJgurN6m", :followers=>154, :user_id=>2943272791, :retweet=>0}
+{:name=>"@woodg31", :text=>"RT @overnightstv: C4's epic new drama #IndianSummers gained excellent 2.6m/11.7% from 9pm.  Second airing tonight on 4Seven at 10pm http://…", :followers=>441, :user_id=>70658199, :retweet=>3}
+{:name=>"@newbathroom1", :text=>"@4Viewers It was the highlight of the weekend #IndianSummers", :followers=>159, :user_id=>153876615, :retweet=>0}
+{:name=>"@sam19smith19", :text=>"#SNL40 #onelasttimevideo #OnTalkTopicShow #WIvIRE #IndianSummers #NursingSchoolProblems #nurse #nurseleader #NHS @FT http://t.co/0fFmfg5s17", :followers=>72, :user_id=>3025206719, :retweet=>0}
+{:name=>"@Payalks2", :text=>"RT @AlgeMarroncelli: #IndianSummers is Channel4's best drama launch in five years https://t.co/vTCHM9RErp", :followers=>10974, :user_id=>107021258, :retweet=>2}
+{:name=>"@KirtiYPanchal", :text=>"I am dreading to face #summer already.  And it's only #february yet. #IndianSummers #godblessus #India", :followers=>272, :user_id=>231728415, :retweet=>0}
+{:name=>"@jas_c34", :text=>"#IndianSummers is Amazing. Watched the first episode and I just wanna keep watching 😍", :followers=>36, :user_id=>2338388445, :retweet=>0}
+{:name=>"@GTravelClinic", :text=>"RT @cntraveller: If you enjoyed watching #IndianSummers, you'll love this regal tour of Rajasthan http://t.co/m1fNj2ODFa http://t.co/tubckG…", :followers=>75, :user_id=>2770001575, :retweet=>7}
+{:name=>"@amrits9", :text=>"RT @Punjab2000music: Introducing the Characters of @Channel4's #IndianSummers ft. #JulieWalters #RoshanSeth &amp; more http://t.co/8DpfXbKoHg h…", :followers=>260, :user_id=>739331564, :retweet=>3}
+{:name=>"@4Viewers", :text=>"@DESIblitz We're definitely looking forward to more #IndianSummers - glad you enjoyed it!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@Duke_Silverback We're definitely looking forward to more #IndianSummers - glad you enjoyed it!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@girlnextdoor373 We're definitely looking forward to more #IndianSummers - glad you enjoyed it!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@LovingDannys_ We're definitely looking forward to more #IndianSummers - glad you enjoyed it!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@SoniaKaps We're definitely looking forward to more #IndianSummers - glad you enjoyed it!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@DennisPOwens1", :text=>"RT @DanHannanMEP: Sad to see #IndianSummers following all the E.M. Forster clichés. Worth remembering that 2.5 million Indians volunteered …", :followers=>114, :user_id=>626870495, :retweet=>19}
+{:name=>"@prayag", :text=>"RT @SophiaIsabella: Between watching the highlights of the #IndvsPak game and now #IndianSummers I have an uncontrollable craving to return…", :followers=>4037, :user_id=>5669252, :retweet=>1}
+{:name=>"@DESIblitz", :text=>"Colonial Love and Conflict is unearthed in Episode One of #IndianSummers. DESIblitz reviews: http://t.co/ym8eSrTjlC http://t.co/Bx0nHiFwiO", :followers=>2507, :user_id=>14455216, :retweet=>0}
+{:name=>"@a_vasani", :text=>"RT @SumanBhuchar: @a_vasani you can learn more about this by watching #IndianSummers @Channel4 tonite -lookforward to the piece in @AsianaM…", :followers=>2531, :user_id=>188746789, :retweet=>2}
+{:name=>"@GuptasUK", :text=>"Anyone see #Indiansummers? Well we have #GuptasIndianSummers for you #samosas #onionbhaji #jalebi #masalachai #yummy http://t.co/yIvc20ScPI", :followers=>644, :user_id=>551326648, :retweet=>0}
+{:name=>"@SophiaIsabella", :text=>"Between watching the highlights of the #IndvsPak game and now #IndianSummers I have an uncontrollable craving to return to India. Stat.", :followers=>581, :user_id=>20810428, :retweet=>1}
+{:name=>"@Mich_Bellerose", :text=>"RT @DoctorChristian: I LOVE seeing the Indians taking the piss out of the pompous Brits for once! #IndianSummers", :followers=>542, :user_id=>294719367, :retweet=>15}
+{:name=>"@Nanalle94", :text=>"@PBS  so, this new #PeriodDrama #IndianSummers on #Masterpiece...isn't on the PBS app &amp; I cant find it. What's up w this?! \r(US) #NoChannel4", :followers=>60, :user_id=>2896003045, :retweet=>0}
+{:name=>"@AmarettosWorld", :text=>"RT @Punjab2000music: Introducing the Characters of @Channel4's #IndianSummers ft. #JulieWalters #RoshanSeth &amp; more http://t.co/8DpfXbKoHg h…", :followers=>739, :user_id=>541126909, :retweet=>3}
+{:name=>"@SequinsOnline", :text=>"RT @Punjab2000music: Introducing the Characters of @Channel4's #IndianSummers ft. #JulieWalters #RoshanSeth &amp; more http://t.co/8DpfXbKoHg h…", :followers=>47, :user_id=>1497727454, :retweet=>3}
+{:name=>"@tommy_bulfin", :text=>"RT @02_HD: If you've caught up with #IndianSummers read my review for @LukeCustardtv right here: http://t.co/IHN09hJiel", :followers=>194, :user_id=>36726135, :retweet=>2}
+{:name=>"@vidhitaraina", :text=>"Also, haven't seen anything quite like Julie Walters. #IndianSummers", :followers=>267, :user_id=>492066516, :retweet=>0}
+{:name=>"@Samishlol", :text=>"RT @TVRatingsUK: The two big new dramas started well at 9pm: BBC1's #TheCasualVacancy pulled in 6.61m/27.5% whilst #IndianSummers on C4 dre…", :followers=>1091, :user_id=>45542769, :retweet=>16}
+{:name=>"@MerryMeriMary", :text=>"RT @C4Press: Last night's #IndianSummers debut was @Channel4's highest rating UK drama launch in ten years!", :followers=>907, :user_id=>491221215, :retweet=>19}
+{:name=>"@vidhitaraina", :text=>"Haven't seen a more vibrant portrayal of British India than #IndianSummers. Quite looking forward to the series!", :followers=>267, :user_id=>492066516, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@Nic_Bassett Glad you enjoyed the first ep of #IndianSummers - we can't wait for more!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@seanmmontague Glad you enjoyed the first ep of #IndianSummers - we can't wait for more!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@buckley_colin Glad you enjoyed the first ep of #IndianSummers - we can't wait for more!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@orujdefoite Glad you enjoyed the first ep of #IndianSummers - we can't wait for more!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@FrDavidCleugh Glad you enjoyed the first ep of #IndianSummers - we can't wait for more!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@RobertLindsay", :text=>"@JulieWaltersUK I hope you are basking in the sunshine of your #IndianSummers As ever you are sublime x", :followers=>13445, :user_id=>1530459984, :retweet=>0}
+{:name=>"@Powderpuffgrls", :text=>"#Indiansummers last night?! We're head over heels in love for the hair, make up &amp; styling! #classic #vintage #beauty http://t.co/RfW4oSMcyn", :followers=>2632, :user_id=>126287609, :retweet=>0}
+{:name=>"@Punjab2000music", :text=>"Introducing the Characters of @Channel4's #IndianSummers ft. #JulieWalters #RoshanSeth &amp; more http://t.co/8DpfXbKoHg http://t.co/sHxDk6lZe7", :followers=>13398, :user_id=>22248383, :retweet=>3}
+{:name=>"@Biglabousky", :text=>"RT @Channel4: Don't miss the boat! Watch the first ep of new Julie Walters drama #IndianSummers on 4oD now: http://t.co/N2vKLHGKy4", :followers=>53, :user_id=>20990032, :retweet=>5}
+{:name=>"@B_BLOKE", :text=>"#IndianSummers Mrs O goes to India, hilarious. Great performance as usual by Julie Walters but not one that stretched her I think.", :followers=>2, :user_id=>1029400772, :retweet=>0}
+{:name=>"@LukeCustardtv", :text=>"RT @02_HD: If you've caught up with #IndianSummers read my review for @LukeCustardtv right here: http://t.co/IHN09hJiel", :followers=>1830, :user_id=>108494405, :retweet=>2}
+{:name=>"@SKB_xx", :text=>"Inquilab Zindabad #IndianSummers", :followers=>358, :user_id=>117236240, :retweet=>0}
+{:name=>"@02_HD", :text=>"If you've caught up with #IndianSummers read my review for @LukeCustardtv right here: http://t.co/IHN09hJiel", :followers=>81, :user_id=>420461529, :retweet=>2}
+{:name=>"@NatalieTudor", :text=>"Gotta stop myself from shipping Madeleine &amp; Ralph because they have tragic written all over them 😢😔  #IndianSummers", :followers=>715, :user_id=>17809401, :retweet=>0}
+{:name=>"@gemma_thomas7", :text=>"Only just realised it's Mark Donovan from #inbetweeners I'm watching in #IndianSummers What a versatile actor Henry Lloyd-Hughes is.", :followers=>1417, :user_id=>435843907, :retweet=>0}
+{:name=>"@NatalieTudor", :text=>"RT @lisafesta: Ooooohh that #IndianSummers on @Channel4 is flippin good!", :followers=>715, :user_id=>17809401, :retweet=>1}
+{:name=>"@lisafesta", :text=>"Ooooohh that #IndianSummers on @Channel4 is flippin good!", :followers=>590, :user_id=>217338402, :retweet=>1}
+{:name=>"@4Viewers", :text=>"@BernadetteME Glad you liked #IndianSummers - stunning stuff!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@BenjaBitch Glad you liked #IndianSummers - stunning stuff!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@4Viewers", :text=>"@BeingBoycie Glad you liked #IndianSummers - stunning stuff!", :followers=>7788, :user_id=>54525177, :retweet=>0}
+{:name=>"@SimiMundey", :text=>"Catching up on #IndianSummers from last night! @Channel4 #Drama #SkyPlusHD 😊", :followers=>243, :user_id=>252078459, :retweet=>0}
+{:name=>"@PlainUseful", :text=>"@WalnutsFarm yes #IndianSummers isn't a bad idea.  But i'm putting my foot down at @SkyAtlantic's #Fortitude!!!", :followers=>268, :user_id=>1728729902, :retweet=>0}
+{:name=>"@FashionDolly1", :text=>"RT @Channel4: Don't miss the boat! Watch the first ep of new Julie Walters drama #IndianSummers on 4oD now: http://t.co/N2vKLHGKy4", :followers=>170, :user_id=>1371630734, :retweet=>5}
+{:name=>"@iAmEdgal", :text=>"RT @Channel4: Don’t miss grand new 10-part drama #IndianSummers, starring Julie Walters, on now! http://t.co/3Eg3bC4sCO", :followers=>1137, :user_id=>241591120, :retweet=>94}
+{:name=>"@iAmEdgal", :text=>"RT @C4Press: Last night's #IndianSummers debut was @Channel4's highest rating UK drama launch in ten years!", :followers=>1137, :user_id=>241591120, :retweet=>19}
+{:name=>"@NatalieTudor", :text=>"RT @NatalieGumede: @Olivia_grant you are exquisite on #IndianSummers! X", :followers=>715, :user_id=>17809401, :retweet=>1}
+{:name=>"@AmzyJamzy88", :text=>"Apparently #IndianSummers is better then Downton, now I definitely have got to see it", :followers=>53, :user_id=>120246032, :retweet=>0}
+{:name=>"@tekkichan", :text=>"RT @grid_spy: Overnight ratings: BBC1 #TheCasualVacancy 6.61m; C4 #IndianSummers 2.98m (highest C4 launch in 10 yrs); ITV #MrSelfridge fell…", :followers=>221, :user_id=>47619506, :retweet=>1}
+{:name=>"@InsideMediaTrk", :text=>"Overnight ratings: BBC1 #TheCasualVacancy 6.61m; C4 #IndianSummers 2.98m (highest C4 launch in 10 yrs); ITV #MrSelfridge fell to 3.48m.", :followers=>933, :user_id=>433510550, :retweet=>0}
+{:name=>"@grid_spy", :text=>"Overnight ratings: BBC1 #TheCasualVacancy 6.61m; C4 #IndianSummers 2.98m (highest C4 launch in 10 yrs); ITV #MrSelfridge fell to 3.48m.", :followers=>1493, :user_id=>297543347, :retweet=>1}
+{:name=>"@NatalieTudor", :text=>"RT @AlgeMarroncelli: #IndianSummers is Channel4's best drama launch in five years https://t.co/vTCHM9RErp", :followers=>715, :user_id=>17809401, :retweet=>2}
+{:name=>"@NatalieTudor", :text=>"RT @aliya_Hshah: ‘Everything seemed different out there until we found #Waitrose’ #JemimaWest &amp; #NikeshPatel on filming #IndianSummers http…", :followers=>715, :user_id=>17809401, :retweet=>1}
+{:name=>"@cultnoisemag", :text=>"@junebugfire Some are saying that it is better than Downton Abbey, do you agree? #IndianSummers", :followers=>4507, :user_id=>2217983666, :retweet=>0}
+{:name=>"@NatalieTudor", :text=>"RT @camillaft18: @iNikeshPatel my new man crush monday #Beautiful #mcm #IndianSummers", :followers=>715, :user_id=>17809401, :retweet=>1}
+{:name=>"@camillaft18", :text=>"@iNikeshPatel my new man crush monday #Beautiful #mcm #IndianSummers", :followers=>148, :user_id=>273344279, :retweet=>1}
+{:name=>"@roseytraveller", :text=>"RT @cntraveller: If you enjoyed watching #IndianSummers, you'll love this regal tour of Rajasthan http://t.co/m1fNj2ODFa http://t.co/tubckG…", :followers=>1253, :user_id=>2506687550, :retweet=>7}
+{:name=>"@WalnutsFarm", :text=>"@PlainUseful or #IndianSummers ?", :followers=>470, :user_id=>430971038, :retweet=>0}
+{:name=>"@junebugfire", :text=>"@cultnoisemag Sumptuous feast of entertainment; stunning,compelling, riveting.Loved it and excited about next nine weeks #IndianSummers", :followers=>675, :user_id=>65195577, :retweet=>0}
+{:name=>"@junebugfire", :text=>"RT @cntraveller: If you enjoyed watching #IndianSummers, you'll love this regal tour of Rajasthan http://t.co/m1fNj2ODFa http://t.co/tubckG…", :followers=>675, :user_id=>65195577, :retweet=>7}
+{:name=>"@GeorgieJourno", :text=>"RT @cultnoisemag: Did anyone catch #IndianSummers last night? We are hearing good things about its Channel 4 debut.", :followers=>898, :user_id=>20400260, :retweet=>1}
+{:name=>"@cultnoisemag", :text=>"Did anyone catch #IndianSummers last night? We are hearing good things about its Channel 4 debut.", :followers=>4507, :user_id=>2217983666, :retweet=>1}
+{:name=>"@citicorpgroup", :text=>"RT @DESIblitz: Creator and Writer Paul Rutman has tried to balance representations of both the British and Indians. #IndianSummers http://t…", :followers=>82, :user_id=>2995220152, :retweet=>3}
+{:name=>"@citicorpgroup", :text=>"RT @hrmatthews1: #IndianSummers  errrrrrr #hooked #amazing", :followers=>82, :user_id=>2995220152, :retweet=>3}
+{:name=>"@citicorpgroup", :text=>"RT @hotelconnector: @JulieWaltersUK just watched #IndianSummers ! Wow , exceeded my expectations :) @Channel4 #WorthTheWait &amp; #budget", :followers=>82, :user_id=>2995220152, :retweet=>3}
+{:name=>"@citicorpgroup", :text=>"RT @DoctorChristian: I enjoyed that! I learned that Parsee are Zoroastrians. Who says telly doesn't teach you anything? Can't wait for next…", :followers=>82, :user_id=>2995220152, :retweet=>10}
+{:name=>"@lingreggmeyler", :text=>"@Channel4 I just watched ep1 of #IndianSummers im sad already that there's only 9 eps left!! #tvgold it's just brilliant! Good work! 😊", :followers=>113, :user_id=>582813989, :retweet=>0}
+{:name=>"@aliya_Hshah", :text=>"‘Everything seemed different out there until we found #Waitrose’ #JemimaWest &amp; #NikeshPatel on filming #IndianSummers http://t.co/8SiUeiHn8y", :followers=>1646, :user_id=>601713388, :retweet=>1}
+{:name=>"@MrSYKES999", :text=>"RT @cntraveller: If you enjoyed watching #IndianSummers, you'll love this regal tour of Rajasthan http://t.co/m1fNj2ODFa http://t.co/tubckG…", :followers=>717, :user_id=>2178350198, :retweet=>7}
+{:name=>"@Lalgarh", :text=>"Im pretty sure you wouldnt actually get crickets Chirruping in #Simla bc its a hill station but hey ho. DASTARDLY BRITISHERS #IndianSummers", :followers=>55, :user_id=>89506188, :retweet=>0}
+{:name=>"@AlgeMarroncelli", :text=>"#IndianSummers is Channel4's best drama launch in five years https://t.co/vTCHM9RErp", :followers=>495, :user_id=>187919465, :retweet=>2}
+{:name=>"@artsnoise_", :text=>"#IndianSummers  review Ha Ha Ha Ha! er....Ha Ha Ha!  noooooooo Ha Ha Ha!  #diversity at Channel 4", :followers=>309, :user_id=>441275299, :retweet=>0}
+{:name=>"@LeanneSpurs", :text=>"RT @DanHannanMEP: Sad to see #IndianSummers following all the E.M. Forster clichés. Worth remembering that 2.5 million Indians volunteered …", :followers=>1997, :user_id=>227449981, :retweet=>19}
+{:name=>"@KimmyLFC", :text=>"I didn't even get to see the ending to #IndianSummers :(", :followers=>6973, :user_id=>86752111, :retweet=>0}
+{:name=>"@RedMagDaily", :text=>"There is life in Sunday night telly after Downton #IndianSummers http://t.co/s0t6Zy2tKS http://t.co/X8V78WuL48", :followers=>68508, :user_id=>115108916, :retweet=>0}
+{:name=>"@theboybutler", :text=>"RT @DanHannanMEP: Sad to see #IndianSummers following all the E.M. Forster clichés. Worth remembering that 2.5 million Indians volunteered …", :followers=>467, :user_id=>23185674, :retweet=>19}
+{:name=>"@MarketingAmor", :text=>"Glorious debut episode #IndianSummers, locations and costumes swoon swoon. But very different to the India I visited...", :followers=>111, :user_id=>333383613, :retweet=>0}
+{:name=>"@mimigpattinson", :text=>"RT @Channel4: Don't miss the boat! Watch the first ep of new Julie Walters drama #IndianSummers on 4oD now: http://t.co/N2vKLHGKy4", :followers=>49, :user_id=>1242353052, :retweet=>5}
+{:name=>"@weebeetee", :text=>"RT @WritersCompany: Congrats to New Pictures on the brilliant launch of #IndianSummers - well deserved! Keep an eye out for Lisa McGee's ep…", :followers=>584, :user_id=>1734945649, :retweet=>1}
+{:name=>"@1Parekh", :text=>"RT @Channel4: Don't miss the boat! Watch the first ep of new Julie Walters drama #IndianSummers on 4oD now: http://t.co/N2vKLHGKy4", :followers=>318, :user_id=>327596727, :retweet=>5}
+{:name=>"@coxandkingsUK", :text=>"Did you watch @Channel4's #IndianSummers last night? What did you think? #India", :followers=>5095, :user_id=>41373045, :retweet=>0}
+{:name=>"@ZoeWelch1", :text=>"RT @TVRatingsUK: The two big new dramas started well at 9pm: BBC1's #TheCasualVacancy pulled in 6.61m/27.5% whilst #IndianSummers on C4 dre…", :followers=>469, :user_id=>52170697, :retweet=>16}
+{:name=>"@cwalshUK", :text=>"RT @Channel4: Don't miss the boat! Watch the first ep of new Julie Walters drama #IndianSummers on 4oD now: http://t.co/N2vKLHGKy4", :followers=>602, :user_id=>166646493, :retweet=>5}
+{:name=>"@minitraveler", :text=>"RT @cntraveller: If you enjoyed watching #IndianSummers, you'll love this regal tour of Rajasthan http://t.co/m1fNj2ODFa http://t.co/tubckG…", :followers=>272, :user_id=>73261549, :retweet=>7}
+{:name=>"@trunalsakhare", :text=>"RT @cntraveller: If you enjoyed watching #IndianSummers, you'll love this regal tour of Rajasthan http://t.co/m1fNj2ODFa http://t.co/tubckG…", :followers=>42, :user_id=>758776808, :retweet=>7}
+{:name=>"@Channel4", :text=>"Don't miss the boat! Watch the first ep of new Julie Walters drama #IndianSummers on 4oD now: http://t.co/N2vKLHGKy4", :followers=>442189, :user_id=>183585551, :retweet=>5}
+{:name=>"@sarahallidina", :text=>"Had high hopes for #IndianSummers . Sure it was beautifully shot but the preview has given the plot away", :followers=>165, :user_id=>281546765, :retweet=>0}

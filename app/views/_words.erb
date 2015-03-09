@@ -1,0 +1,6 @@
+<% array = [] %>
+<% @words.each {|word| array << word[0]} %>
+<% words = array.first(3).join("+") %>
+<a target="_blank" href="https://www.google.com/search?q=<%=words%>&tbm=nws">Google the top three words</a>
+
+<%= erb :_wordcloud %>

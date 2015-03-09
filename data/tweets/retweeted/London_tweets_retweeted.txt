@@ -1,3 +1,3 @@
-{:text=>"RT @MesutOzil1088: Want to take my London club back to Wembley, but first we must beat @Boro. #therewillbehaters #FACup #AFCvMFC http://t.c…", :retweet=>1752}
-{:text=>"RT @dado1973dado: Rainy Night , London , England http://t.co/h6XYVceDY5", :retweet=>240}
-{:text=>"RT @BarsAndMelody: Still tickets left for SHEFFIELD / INVERNESS / BOURNEMOUTH / LONDON / LEICESTER / NEWCASTLE at http://t.co/G5u8m7AONK ht…", :retweet=>184}
+{:text=>"RT @NiallOfficial: Had an amazing Christmas at home , london for new year was great.. That's it over now! Now to relax and enjoy time off b…", :retweet=>115466}
+{:text=>"RT @NiallOfficial: Right london what you sayin ?", :retweet=>100173}
+{:text=>"RT @zaynmalik: Boyos .. http://t.co/kxOgLAOB46", :retweet=>52270}

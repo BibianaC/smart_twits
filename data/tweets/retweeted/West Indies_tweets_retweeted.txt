@@ -1,0 +1,3 @@
+{:text=>"RT @Irelandcricket: MATCH HIGHLIGHTS: Watch how Ireland beat @westindies by 4 wickets http://t.co/v0JKvBEk3S #BackingGreen http://t.co/Lsv0…", :retweet=>87}
+{:text=>"RT @ICC: Why we should not be surprised by @Irelandcricket's triumph against the West Indies: http://t.co/4YyX7TZyOt #cwc15 http://t.co/7ZK…", :retweet=>45}
+{:text=>"RT @ShoaibAkhtarPk: We gotta beat West Indies if we want to play quarter finals if we cant win, 80% chances are that we will be back home e…", :retweet=>31}

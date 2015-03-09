@@ -1,3 +1,0 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1757}
-{:text=>"RT @Yopika21: #askpewds Bonjour Marine Le Pen. Vous n'avez pas honte ?", :retweet=>17}
-{:text=>"RT @hashtagtopics_: TRENDING CLICK THE LINK http://t.co/rmgzuTioMF  #IsraelIsStillWaitingFor1D #askpewds http://t.co/hppn8CqBJI", :retweet=>2}

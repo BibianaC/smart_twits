@@ -1,3 +1,0 @@
-{:name=>"@trvpicalmnds", :text=>"RT @NIGGERTWlTTER: DRAKE A GENIUS http://t.co/dMIzTn53HU", :followers=>56342, :user_id=>403020498, :retweet=>2914}
-{:name=>"@ValentineCarddd", :text=>"RT @NIGGERTWlTTER: DRAKE A GENIUS http://t.co/dMIzTn53HU", :followers=>54943, :user_id=>2961578114, :retweet=>2914}
-{:name=>"@YaBoyNapoleonn", :text=>"RT @NIGGERTWlTTER: DRAKE A GENIUS http://t.co/dMIzTn53HU", :followers=>51001, :user_id=>2787010574, :retweet=>2914}

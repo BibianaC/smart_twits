@@ -1,3 +1,0 @@
-{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>43126}
-{:text=>"RT @IloveHQ: It's nearly #ValentinesDay and we've got an big bundle of Duo #Love for you! RT+Follow to enter! #Win #FreebieFriday http://t.…", :retweet=>965}
-{:text=>"RT @rootscrisps: Share the love this #ValentinesDay with some tasty treats! Follow &amp; RT to #win! #FreebieFriday http://t.co/KeUJ7JKiBo http…", :retweet=>738}

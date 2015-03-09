@@ -1,0 +1,1 @@
+{:media=>"@Independent", :text=>"RT @IndySport: Ireland chase down 304 to stun West Indies in their #CWC15 opener http://t.co/6Yn0vTf4We http://t.co/vT2EuaxeMB"}

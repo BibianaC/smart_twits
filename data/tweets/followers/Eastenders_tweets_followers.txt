@@ -1,0 +1,3 @@
+{:name=>"@EdwardAshton30", :text=>"RT @BBCRadio2: To find out what else @BBCRadio2\nis up to for @bbceastenders 30th, just click! http://t.co/mU7k2lIbAP #EELive http://t.co/8o…", :followers=>72661, :user_id=>730510490, :retweet=>2}
+{:name=>"@bieberftconnor", :text=>"hoLY shit eastenders is live this week im so pumped", :followers=>25187, :user_id=>599637333, :retweet=>0}
+{:name=>"@MadElleBUpdates", :text=>"RT @bbceastenders: How many radio mics does it take to pull off #EELIVE? Your guess is good as ours, but there’s lots! #EastEnders http://t…", :followers=>14096, :user_id=>1428162906, :retweet=>105}

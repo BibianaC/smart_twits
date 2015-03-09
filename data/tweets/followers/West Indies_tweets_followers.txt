@@ -1,0 +1,3 @@
+{:name=>"@AltCricket", :text=>"The state of West Indies cricket: http://t.co/pIwl5hA6RN", :followers=>68792, :user_id=>194213012, :retweet=>16}
+{:name=>"@trendinaliaPK", :text=>"6. #ShameOnNajamSethi\n7. Misbah\n8. West Indies\n9. Congratulations India\n10. Dhoni\n\n2015/2/16 20:12 PKT #trndnl2015 http://t.co/V71IHDvL8r", :followers=>9593, :user_id=>1408327218, :retweet=>0}
+{:name=>"@truevirathindu", :text=>"RT @chandu532: DDNewsLive: #UHF #WorldCup2015: Ireland stuns giants West Indies; chase down 305 runs. Read full story here http://t.co/wawo…", :followers=>8308, :user_id=>351433890, :retweet=>15}

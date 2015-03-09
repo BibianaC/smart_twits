@@ -1,3 +1,0 @@
-{:name=>"@RogueAles", :text=>"Or get voodoo with this @VoodooDoughnut #MapleBaconWhiskey cocktail: http://t.co/1mlxfx4PAS #FridayThe13th", :followers=>87743, :user_id=>15635413, :retweet=>1}
-{:name=>"@destielobriens", :text=>"RT @WantAWinchester: u know what today is #FridayThe13th http://t.co/3rEiemlk2i", :followers=>30306, :user_id=>381692269, :retweet=>57}
-{:name=>"@Xercise4Less", :text=>"Has everyone told #FridayThe13th where to go and smashed a successful session already today? Or are you planning to? #X4L", :followers=>11755, :user_id=>126035475, :retweet=>0}

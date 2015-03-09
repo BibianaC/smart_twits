@@ -1,3 +1,0 @@
-{:text=>"RT @NHL: #13 doesn't believe in superstitions... #FridayThe13th\nhttps://t.co/W5drL5ql7y", :retweet=>1164}
-{:text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :retweet=>556}
-{:text=>"RT @InsurgentMovie: #FridayThe13th just became lucky. TODAY at 4pm GMT we'll be revealing a big #Insurgent announcement. Spread the word! h…", :retweet=>197}

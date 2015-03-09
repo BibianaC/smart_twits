@@ -1,3 +1,0 @@
-{:text=>"RT @DouglasBooth: So very sad to hear about Steve Strange. One of the great pioneers of the New Romantic movement. @BoyGeorge http://t.co/l…", :retweet=>181}
-{:text=>"RT @pitchfork: Visage singer Steve Strange has died http://t.co/wd3mDiIxB9 http://t.co/Aa0RM4RHuU", :retweet=>85}
-{:text=>"RT @caroldecker: Gutted to hear the my pal Steve Strange has died , what a terrible shame .he goes down in history as part of  a cultural c…", :retweet=>73}

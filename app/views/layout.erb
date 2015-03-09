@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>SmartTwits</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' type='text/css' href="css/interface.css">
+    <meta name="viewport" content="width=device=width, height=device-height, initial-scale=1, user-scalable=no">
+    <meta charset='UTF-8'>
+    <meta name='description' content='Makerthon'>
+  </head>
+
+  <body>
+
+    <section class="grid">
+
+      <section class="row-3-18">
+        <section class="col-2-8">
+          <img id="logo" src="/images/twitterplus.svg"></a>
+        </section>
+        <section id="header_right" class="col-6-8">
+          <h1>SmartTwits</h1>
+        </section>
+      </section>
+
+      <section class="row-15-18">
+
+        <section id="block_left" class="col-2-8">
+          <h2>London Trends</h2>
+          <%= erb :_trends %>
+        </section>
+
+        <section id="block_right" class="col-6-8">
+          <section class="row-5-18">
+            <h3>These are the most used words in tweets about this trend</h3>
+            <section id="word-cloud">
+            </section>
+            <%= erb :_words %>
+          </section>
+
+          <section class="row-5-18">
+            <section class="col-3-6">
+              <h3>These tweets are the most retweeted</h3>
+              <%= erb :_retweets %>
+            </section>
+            <section id="mentions" class="col-3-6">
+              <h3>These the most mentioned twitter names</h3>
+              <%= erb :_mentions %>
+            </section>
+          </section>
+
+          <section class="row-5-18">
+            <section class="col-3-6">
+              <h3>This is what users with most followers are saying</h3>
+              <%= erb :_followers %>
+            </section>
+            <section class="col-3-6">
+              <h3>This is what the media are saying</h3>
+              <%= erb :_media %>
+            </section>
+          </section>
+
+        </section>
+
+      </section>
+
+    </section>
+
+  </body>
+
+</html>

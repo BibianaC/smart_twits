@@ -1,3 +1,0 @@
-{:text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :retweet=>1121}
-{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>937}
-{:text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :retweet=>925}

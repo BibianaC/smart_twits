@@ -1,1 +1,0 @@
-{:media=>"@SkyNews", :text=>"Eighties pop star Steve Strange has died of a heart attack in Egypt at the age of 55 http://t.co/vMiC0qqXsP http://t.co/4yOvLEOLog"}

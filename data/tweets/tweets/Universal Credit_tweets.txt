@@ -1,0 +1,100 @@
+{:name=>"@KilotaNews", :text=>"New universal credit 'a nightmare' [link removed]\n\nA universal-credit claimant who featured in a governm… [link removed]", :followers=>83, :user_id=>2961969137, :retweet=>0}
+{:name=>"@AdamHjkja", :text=>"New universal credit 'a nightmare' http://t.co/Ws2eTaVTkB", :followers=>22, :user_id=>556043515, :retweet=>0}
+{:name=>"@rjs2662", :text=>"RT @CamelSopwith: Beyond the Universal Credit headlines: what IDS doesn't say http://t.co/ULoPhV5tQ4", :followers=>363, :user_id=>586495487, :retweet=>1}
+{:name=>"@ClevedonJCP", :text=>"RT @SEGDirector_JCP: We're now delivering Universal Credit in 4 Jobcentres in Southern England: @BathJCP @Westonjobcentre @ClevedonJCP @Swi…", :followers=>46, :user_id=>2518648468, :retweet=>2}
+{:name=>"@1001ptsUK", :text=>"New universal credit 'a nightmare' (http://t.co/oLlGmov9x3) http://t.co/MXrMGn6Bwq http://t.co/dFunQMWiW7", :followers=>1859, :user_id=>2249330958, :retweet=>0}
+{:name=>"@Remploy", :text=>"RT @EAWelfareSkills: Helping people manage their #UniversalCredit http://t.co/ZepdVwLOBn @Remploy", :followers=>4310, :user_id=>23790749, :retweet=>1}
+{:name=>"@CollectedN", :text=>"The reinvention of Iain Duncan Smith: is he the man to save the Tories? http://t.co/01vLQQXMRH [Books http://t.co/cQGkNvgblr ] #opinion", :followers=>14684, :user_id=>1228840274, :retweet=>0}
+{:name=>"@CollectedN", :text=>"With Universal Credit, work might finally pay http://t.co/tQj4vKvrB4 [Books http://t.co/cQGkNvgblr ] #opinion", :followers=>14684, :user_id=>1228840274, :retweet=>0}
+{:name=>"@mberest1982", :text=>"RT @BadPutty: Universal credit is just peachy, claims IDS @refuted @blacktriangle1 @WOWpetition @Dis_PPL_Protest http://t.co/imCcWOxU2K", :followers=>762, :user_id=>831540882, :retweet=>3}
+{:name=>"@Michele__smith1", :text=>"#USA &gt;&gt; http://t.co/rLhVDpNDVu New universal credit 'a nightmare' http://t.co/5Lh1y2LnWY #USA &gt;&gt; http://t.co/rLhVDpNDVu", :followers=>42, :user_id=>2567698261, :retweet=>0}
+{:name=>"@olga_casey", :text=>"#USA &gt;&gt; http://t.co/lNKSIzMkUL New universal credit 'a nightmare' http://t.co/fjBKs0EPcc #USA &gt;&gt; http://t.co/lNKSIzMkUL", :followers=>67, :user_id=>2567696054, :retweet=>0}
+{:name=>"@Anne_Phima", :text=>"RT @WantEnglandBack: Universal credit is a success, six benefits into one, simplifying Labour's welfare mess. Tomorrow it will be rolled ou…", :followers=>19, :user_id=>2677244583, :retweet=>5}
+{:name=>"@Michele__smith1", :text=>"#USA &gt;&gt; http://t.co/rLhVDpNDVu New universal credit 'a nightmare' http://t.co/YJrqjKvaoQ #USA &gt;&gt; http://t.co/rLhVDpNDVu", :followers=>42, :user_id=>2567698261, :retweet=>0}
+{:name=>"@Fosteringtax", :text=>"RT @DWPgovuk: Want to know more about #UniversalCredit? Visit our online resource here: http://t.co/SzL2L0ajRL http://t.co/FH4iFDL3B7", :followers=>452, :user_id=>2207408778, :retweet=>2}
+{:name=>"@Michele__smith1", :text=>"#USA &gt;&gt; http://t.co/rLhVDpNDVu New universal credit 'a nightmare' http://t.co/b1dyG6RCDx #USA &gt;&gt; http://t.co/rLhVDpNDVu", :followers=>42, :user_id=>2567698261, :retweet=>0}
+{:name=>"@Lisa_amelia00", :text=>"RT @Helen_Barnard: There's more to reducing poverty than Universal Credit http://t.co/bpv0N1XxjS my blog via @jrf_uk", :followers=>803, :user_id=>98332764, :retweet=>2}
+{:name=>"@fashionhelen_", :text=>"&gt;&gt;&gt;&gt; http://t.co/qEoTrmG5Jl New universal credit 'a nightmare' http://t.co/xhnYQwV4QE &gt;&gt;&gt;&gt; http://t.co/qEoTrmG5Jl", :followers=>30, :user_id=>2567353050, :retweet=>0}
+{:name=>"@elizabethregina", :text=>"RT @davidschneider: Iain Duncan Smith claims Universal Credit will save £600m, a figure reached with the help of Tesco's accountants.", :followers=>334, :user_id=>23970338, :retweet=>169}
+{:name=>"@Lisa04962385", :text=>"&gt;&gt;&gt;&gt; http://t.co/PtyS8M9dSV New universal credit 'a nightmare' http://t.co/Ot9SdQGyuz &gt;&gt;&gt;&gt; http://t.co/PtyS8M9dSV", :followers=>29, :user_id=>2567306240, :retweet=>0}
+{:name=>"@olga_casey", :text=>"#USA &gt;&gt; http://t.co/lNKSIzMkUL New universal credit 'a nightmare' http://t.co/Hc0y8DIGCz #USA &gt;&gt; http://t.co/lNKSIzMkUL", :followers=>67, :user_id=>2567696054, :retweet=>0}
+{:name=>"@Koran_Inggris", :text=>"New universal credit 'a nightmare' http://t.co/Da0ivOJZJQ", :followers=>2372, :user_id=>1867362378, :retweet=>0}
+{:name=>"@smithmelldenis", :text=>"&gt;&gt;&gt;&gt; http://t.co/o1aRlawCR5 New universal credit 'a nightmare' http://t.co/I98NZu4YzM &gt;&gt;&gt;&gt; http://t.co/o1aRlawCR5", :followers=>30, :user_id=>2567308818, :retweet=>0}
+{:name=>"@olga_casey", :text=>"#USA &gt;&gt; http://t.co/lNKSIzMkUL New universal credit 'a nightmare' http://t.co/8cj9Kx4vcZ #USA &gt;&gt; http://t.co/lNKSIzMkUL", :followers=>67, :user_id=>2567696054, :retweet=>0}
+{:name=>"@troll_zn", :text=>"Now- New universal credit 'a nightmare' http://t.co/U7UQukTp2r", :followers=>364, :user_id=>175349053, :retweet=>0}
+{:name=>"@NewsHappening", :text=>"New universal credit 'a nightmare' http://t.co/kdncpZYxXh", :followers=>365, :user_id=>326212431, :retweet=>0}
+{:name=>"@Welshdellboy", :text=>"RT @BadPutty: Universal credit is just peachy, claims IDS @refuted @blacktriangle1 @WOWpetition @Dis_PPL_Protest http://t.co/imCcWOxU2K", :followers=>875, :user_id=>390208861, :retweet=>3}
+{:name=>"@petrolhead62", :text=>"New universal credit 'a nightmare' &lt; what a surprise.  http://t.co/L8ZhkXWRkc", :followers=>461, :user_id=>18842803, :retweet=>0}
+{:name=>"@qeensdale", :text=>"Universal Credit - An Introduction http://t.co/G0jQ4mpxaL", :followers=>923, :user_id=>242235183, :retweet=>0}
+{:name=>"@Scribbles123", :text=>"RT @AngusCarruthers: Universal credit 'a nightmare', says claimant who advertised welfare reform #UniversalCredit #DWP #IDS http://t.co/tkG…", :followers=>1276, :user_id=>37690617, :retweet=>1}
+{:name=>"@John_J_C_Moss", :text=>"RT @DWPgovuk: Want to know more about #UniversalCredit? Visit our online resource here: http://t.co/SzL2L0ajRL http://t.co/FH4iFDL3B7", :followers=>1827, :user_id=>117723397, :retweet=>2}
+{:name=>"@DeyanWonder", :text=>"RT @BadPutty: Universal Credit: who will be the winners and losers http://t.co/ULI6lLWjvX @blacktriangle1 @WOWpetition @WOWpetition", :followers=>336, :user_id=>1294711250, :retweet=>2}
+{:name=>"@The_Morningstar", :text=>"Beyond the Universal Credit headlines: what IDS doesn't say http://t.co/Fej69RyxrX via @tonyrcollins", :followers=>430, :user_id=>15117794, :retweet=>0}
+{:name=>"@freshNM", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote the… http://t.co/s4QKpbCANZ", :followers=>117, :user_id=>2871485771, :retweet=>0}
+{:name=>"@Skibabs", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to… http://t.co/65CnUpZY2C #Skibabs", :followers=>2323, :user_id=>170358646, :retweet=>0}
+{:name=>"@SEGDirector_JCP", :text=>"We're now delivering Universal Credit in 4 Jobcentres in Southern England: @BathJCP @Westonjobcentre @ClevedonJCP @SwindonJCP", :followers=>616, :user_id=>2232943376, :retweet=>2}
+{:name=>"@DWPgovuk", :text=>"Want to know more about #UniversalCredit? Visit our online resource here: http://t.co/SzL2L0ajRL http://t.co/FH4iFDL3B7", :followers=>26971, :user_id=>274569960, :retweet=>2}
+{:name=>"@Lisa_amelia00", :text=>"RT @natfedPippa: Areas for 2nd half of #universalcredit roll out (Sept 15 to April 16) announced today https://t.co/TDpJwzYcxs", :followers=>803, :user_id=>98332764, :retweet=>1}
+{:name=>"@MicheMedia", :text=>"New universal credit 'a nightmare' http://t.co/NsJkZyiw8W", :followers=>3471, :user_id=>552792262, :retweet=>0}
+{:name=>"@HomelessLink", :text=>"Want to know if @UniversalCredi1 is coming to your area soon? Here are the latest timetables http://t.co/hAj2uVY9Ns", :followers=>16729, :user_id=>34581425, :retweet=>0}
+{:name=>"@MonKeyDurham", :text=>"RT @YourMoneyAdvice: With universal credit being rolled out nationally, here's a simple guide to help you understand it: https://t.co/BwCu4…", :followers=>88, :user_id=>2673914341, :retweet=>2}
+{:name=>"@PensionsCareers", :text=>"Universal credit 'a nightmare', says claimant who advertised welfare reform - BBC News http://t.co/AeXX442C3Q", :followers=>41, :user_id=>1024041498, :retweet=>0}
+{:name=>"@_dpaj", :text=>"New universal credit 'a nightmare' http://t.co/6mJ6vvyrln", :followers=>3580, :user_id=>289148078, :retweet=>0}
+{:name=>"@omoba_folarin", :text=>"New universal credit 'a nightmare' http://t.co/7Kf6sY1TNy http://t.co/8DZRyw28x9", :followers=>1082, :user_id=>1651141171, :retweet=>0}
+{:name=>"@WOWpetition", :text=>"RT @BadPutty: Universal Credit: who will be the winners and losers http://t.co/ULI6lLWjvX @blacktriangle1 @WOWpetition @WOWpetition", :followers=>9367, :user_id=>990134929, :retweet=>2}
+{:name=>"@kaodinsi", :text=>"#GEJMYVALGiveaway New universal credit 'a nightmare' http://t.co/kDQAc47Fuo @GoodluckYears #GEJ", :followers=>1277, :user_id=>351534899, :retweet=>0}
+{:name=>"@ngetwitsendiri", :text=>"New universal credit 'a nightmare' http://t.co/Dd7aNvx03o", :followers=>152, :user_id=>1958049475, :retweet=>0}
+{:name=>"@WahyuArifP", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/ML9r71bMoz", :followers=>726, :user_id=>902681954, :retweet=>0}
+{:name=>"@mr_nawawi", :text=>"New universal credit 'a nightmare' http://t.co/462CseIIyT", :followers=>978, :user_id=>519493320, :retweet=>0}
+{:name=>"@WOWpetition", :text=>"RT @BadPutty: Universal credit is just peachy, claims IDS @refuted @blacktriangle1 @WOWpetition @Dis_PPL_Protest http://t.co/imCcWOxU2K", :followers=>9367, :user_id=>990134929, :retweet=>3}
+{:name=>"@monsif35", :text=>"New universal credit 'a nightmare': A universal-credit claimant who… http://t.co/AUSzOwqspn  @verified @monsif35 http://t.co/rmLaUqXwP2", :followers=>554, :user_id=>1580275202, :retweet=>0}
+{:name=>"@NewsdeskPOL", :text=>"New universal credit 'a nightmare' http://t.co/r2wvFoFJi9", :followers=>766, :user_id=>1017959256, :retweet=>0}
+{:name=>"@sada_e_muslim", :text=>"New universal credit 'a nightmare' http://t.co/L8m1HoFBpH", :followers=>285, :user_id=>223057946, :retweet=>0}
+{:name=>"@NewsWorld777", :text=>"#news New universal credit 'a nightmare' http://t.co/3QHAUwKcyH", :followers=>2358, :user_id=>111965967, :retweet=>0}
+{:name=>"@REALGel_Biru", :text=>"New universal credit 'a nightmare' http://t.co/EN4YBW76KH", :followers=>1112, :user_id=>403204901, :retweet=>0}
+{:name=>"@twychy1", :text=>"RT @patmcburt: @_dpaj @twychy1 Seems everone knows of the \"Universal Credit\" nightmare with exclusion of MARR\nhis \"cosy chat\" with IDS was …", :followers=>1924, :user_id=>322656247, :retweet=>1}
+{:name=>"@RiseKuwabara", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote the… http://t.co/W12gR9vehm", :followers=>2275, :user_id=>2809115160, :retweet=>0}
+{:name=>"@Nancy147292773", :text=>"http://t.co/PNZuZiLm4q New universal credit 'a nightmare' http://t.co/Dp0w1lQa2r http://t.co/PNZuZiLm4q", :followers=>32, :user_id=>2566815582, :retweet=>0}
+{:name=>"@Nadine20482548", :text=>"http://t.co/lTTGvpbZ1E New universal credit 'a nightmare' http://t.co/eb2mmbACeX http://t.co/lTTGvpbZ1E", :followers=>24, :user_id=>2566956234, :retweet=>0}
+{:name=>"@Nancy147292773", :text=>"http://t.co/PNZuZiLm4q New universal credit 'a nightmare' http://t.co/i0GUxV35Uw http://t.co/PNZuZiLm4q", :followers=>32, :user_id=>2566815582, :retweet=>0}
+{:name=>"@emily_samatha", :text=>"http://t.co/99tSxOfd1I New universal credit 'a nightmare' http://t.co/qd8j9usehJ http://t.co/99tSxOfd1I", :followers=>34, :user_id=>2566724436, :retweet=>0}
+{:name=>"@imJinri94", :text=>"New universal credit 'a nightmare' http://t.co/LD9tgT6CFi", :followers=>78, :user_id=>635831295, :retweet=>0}
+{:name=>"@davidcunha_", :text=>"New universal credit 'a nightmare' http://t.co/KFeLtXYlqr", :followers=>1926, :user_id=>2792170752, :retweet=>0}
+{:name=>"@Ucha_News", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/Zz6zpZvzdo", :followers=>1243, :user_id=>475133279, :retweet=>0}
+{:name=>"@Michele__smith1", :text=>"#usa &gt;&gt; http://t.co/wK1YFJyWEo New universal credit 'a nightmare' http://t.co/ND5oivnfiE #usa &gt;&gt; http://t.co/wK1YFJyWEo", :followers=>42, :user_id=>2567698261, :retweet=>0}
+{:name=>"@Nadine20482548", :text=>"http://t.co/lTTGvpbZ1E New universal credit 'a nightmare' http://t.co/RxJrZ9CuIE http://t.co/lTTGvpbZ1E", :followers=>24, :user_id=>2566956234, :retweet=>0}
+{:name=>"@SeattleFunFindr", :text=>"#UK #Newyear #US A universal-credit claimant who featured in a government film to promote the reform now says ...  http://t.co/Jtul2ngx8F", :followers=>703, :user_id=>709871306, :retweet=>0}
+{:name=>"@Catherineoemily", :text=>"http://t.co/D2tj3VdDAt New universal credit 'a nightmare' http://t.co/HBQf9TvJC8 http://t.co/D2tj3VdDAt", :followers=>27, :user_id=>2566762878, :retweet=>0}
+{:name=>"@tweetrfans", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/uGcrKxuGom", :followers=>121, :user_id=>2975143567, :retweet=>0}
+{:name=>"@guilhermecorde", :text=>"New universal credit 'a nightmare' http://t.co/cj56vgdmoh", :followers=>771, :user_id=>86142824, :retweet=>0}
+{:name=>"@Michele__smith1", :text=>"#usa &gt;&gt; http://t.co/wK1YFJyWEo New universal credit 'a nightmare' http://t.co/dTzkalITOI #usa &gt;&gt; http://t.co/wK1YFJyWEo", :followers=>42, :user_id=>2567698261, :retweet=>0}
+{:name=>"@IFSC_MICR", :text=>"New universal credit 'a nightmare' http://t.co/4azSMZIUa8 via @BBCHindi", :followers=>38, :user_id=>2599339586, :retweet=>0}
+{:name=>"@interestinews", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/fwxVAz4qNp", :followers=>1028, :user_id=>2914005945, :retweet=>0}
+{:name=>"@MellSmit", :text=>"http://t.co/d8vpz5Gvlt New universal credit 'a nightmare' http://t.co/OiRAfjeWKC http://t.co/d8vpz5Gvlt", :followers=>51, :user_id=>2566910743, :retweet=>0}
+{:name=>"@olga_casey", :text=>"#usa &gt;&gt; http://t.co/ChSB7VtvFK New universal credit 'a nightmare' http://t.co/Bg5ZXLmJHP #usa &gt;&gt; http://t.co/ChSB7VtvFK", :followers=>67, :user_id=>2567696054, :retweet=>0}
+{:name=>"@olga_casey", :text=>"#usa &gt;&gt; http://t.co/ChSB7VtvFK New universal credit 'a nightmare' http://t.co/yBoTZw3wCi #usa &gt;&gt; http://t.co/ChSB7VtvFK", :followers=>67, :user_id=>2567696054, :retweet=>0}
+{:name=>"@Vickie17589212", :text=>"http://t.co/YKKYTU6jei New universal credit 'a nightmare' http://t.co/hXxLIKUzWV http://t.co/YKKYTU6jei", :followers=>39, :user_id=>2566769406, :retweet=>0}
+{:name=>"@MellSmit", :text=>"http://t.co/d8vpz5Gvlt New universal credit 'a nightmare' http://t.co/CSCXuMz9nL http://t.co/d8vpz5Gvlt", :followers=>51, :user_id=>2566910743, :retweet=>0}
+{:name=>"@herlhay", :text=>"New universal credit 'a nightmare' http://t.co/pBQwlEzxiI http://t.co/NqGzGuBZtx", :followers=>23, :user_id=>450953509, :retweet=>0}
+{:name=>"@fashionhelen_", :text=>"&gt;&gt;&gt;&gt;&gt; http://t.co/qEoTrmG5Jl New universal credit 'a nightmare' http://t.co/WEA1Tk4AZL &gt;&gt;&gt;&gt;&gt; http://t.co/qEoTrmG5Jl", :followers=>30, :user_id=>2567353050, :retweet=>0}
+{:name=>"@Catherineoemily", :text=>"http://t.co/D2tj3VdDAt New universal credit 'a nightmare' http://t.co/VmX7NkCjqn http://t.co/D2tj3VdDAt", :followers=>27, :user_id=>2566762878, :retweet=>0}
+{:name=>"@Vickie17589212", :text=>"http://t.co/YKKYTU6jei New universal credit 'a nightmare' http://t.co/mCj6lAAi6s http://t.co/YKKYTU6jei", :followers=>39, :user_id=>2566769406, :retweet=>0}
+{:name=>"@fashionhelen_", :text=>"&gt;&gt;&gt;&gt;&gt; http://t.co/qEoTrmG5Jl New universal credit 'a nightmare' http://t.co/czBZUI6Xqk &gt;&gt;&gt;&gt;&gt; http://t.co/qEoTrmG5Jl", :followers=>30, :user_id=>2567353050, :retweet=>0}
+{:name=>"@KnarfRankinq", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/f9tNqORnzQ", :followers=>582, :user_id=>2897685574, :retweet=>0}
+{:name=>"@Bernice24086348", :text=>"http://t.co/76n3GXIMI8 New universal credit 'a nightmare' http://t.co/ByAwDlQrdN http://t.co/76n3GXIMI8", :followers=>22, :user_id=>2566996873, :retweet=>0}
+{:name=>"@Lisa04962385", :text=>"&gt;&gt;&gt;&gt;&gt; http://t.co/PtyS8M9dSV New universal credit 'a nightmare' http://t.co/1qLeROnDCE &gt;&gt;&gt;&gt;&gt; http://t.co/PtyS8M9dSV", :followers=>29, :user_id=>2567306240, :retweet=>0}
+{:name=>"@tlbuzzer", :text=>"New universal credit 'a nightmare' http://t.co/YmrVJAUQld", :followers=>400, :user_id=>2768062344, :retweet=>0}
+{:name=>"@smithmelldenis", :text=>"&gt;&gt;&gt;&gt;&gt; http://t.co/o1aRlawCR5 New universal credit 'a nightmare' http://t.co/l1M2zC5uY9 &gt;&gt;&gt;&gt;&gt; http://t.co/o1aRlawCR5", :followers=>30, :user_id=>2567308818, :retweet=>0}
+{:name=>"@Lisa04962385", :text=>"&gt;&gt;&gt;&gt;&gt; http://t.co/PtyS8M9dSV New universal credit 'a nightmare' http://t.co/X2IfhBmF4A &gt;&gt;&gt;&gt;&gt; http://t.co/PtyS8M9dSV", :followers=>29, :user_id=>2567306240, :retweet=>0}
+{:name=>"@Bernice24086348", :text=>"http://t.co/76n3GXIMI8 New universal credit 'a nightmare' http://t.co/1Jq9D6JwmS http://t.co/76n3GXIMI8", :followers=>22, :user_id=>2566996873, :retweet=>0}
+{:name=>"@Emilyyolanda2", :text=>"http://t.co/U5kiEPBXtB New universal credit 'a nightmare' http://t.co/m5FErR9swm http://t.co/U5kiEPBXtB", :followers=>31, :user_id=>2566708704, :retweet=>0}
+{:name=>"@Amy03627416", :text=>"http://t.co/oDOojtlFne New universal credit 'a nightmare' http://t.co/iqMvd9T7qm http://t.co/oDOojtlFne", :followers=>19, :user_id=>2566752181, :retweet=>0}
+{:name=>"@smithmelldenis", :text=>"&gt;&gt;&gt;&gt;&gt; http://t.co/o1aRlawCR5 New universal credit 'a nightmare' http://t.co/D1YH7z8d3w &gt;&gt;&gt;&gt;&gt; http://t.co/o1aRlawCR5", :followers=>30, :user_id=>2567308818, :retweet=>0}
+{:name=>"@salmaen_aee", :text=>"New universal credit 'a nightmare' http://t.co/h1vKcPZ4H9", :followers=>379, :user_id=>1624649227, :retweet=>0}
+{:name=>"@jamesnews242", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/lN8CNsrlNx", :followers=>592, :user_id=>28818582, :retweet=>0}
+{:name=>"@Daku_Rakesh", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/jtlym3PEou", :followers=>265, :user_id=>2466626516, :retweet=>0}
+{:name=>"@Utmanzval", :text=>"BBC News: New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to... http://t.co/K6uXQDGHdO", :followers=>479, :user_id=>225164352, :retweet=>0}
+{:name=>"@TechieTurf", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/nnOTfUqe0t", :followers=>2328, :user_id=>2888472163, :retweet=>0}
+{:name=>"@CamelSopwith", :text=>"RT @secretspartacus: Beyond the Universal Credit \"good news\" headlines: What IDS Doesn't Say http://t.co/FJqf85tBBc via @tonyrcollins", :followers=>1043, :user_id=>473793876, :retweet=>3}
+{:name=>"@NewsmanE", :text=>"New universal credit 'a nightmare': A universal-credit claimant who featured in a government film to promote t... http://t.co/HOvtioeSIK", :followers=>1313, :user_id=>1547574926, :retweet=>0}
+{:name=>"@CamelSopwith", :text=>"Beyond the Universal Credit headlines: what IDS doesn't say http://t.co/ULoPhV5tQ4", :followers=>1043, :user_id=>473793876, :retweet=>1}

@@ -1,0 +1,100 @@
+{:name=>"@KimberRose11", :text=>"Baby,  it's cold outside! #thismorning #monday :-) http://t.co/ptQy4ugdEz", :followers=>1558, :user_id=>415884020, :retweet=>0}
+{:name=>"@the1magicpanda", :text=>"Need to fit to be back 1 wrk, days r spent telly, facebook &amp; twitter, a #thismorning  &amp; #MelandSue sandwich with #judgerinder as a side", :followers=>42, :user_id=>20627851, :retweet=>0}
+{:name=>"@OLR_Jobs", :text=>"A job as a #NewsJournalist with #ThisMorning at @ITVCareers in #London http://t.co/zG4PE8TVxW", :followers=>854, :user_id=>252586021, :retweet=>0}
+{:name=>"@Uda_Dori", :text=>"RT @rianelsonX: This douche bag on this morning needs to get a reality check #thismorning", :followers=>205, :user_id=>89407711, :retweet=>1}
+{:name=>"@MondayBlogs", :text=>"RT @r0b1images: Different Sex #podcast up #thismorning\nNot Tonight, Dear, I’m Not Feeling Kinky #NotFeelinIt\nhttp://t.co/juvSIBHHGK\n#Monday…", :followers=>10760, :user_id=>952136526, :retweet=>1}
+{:name=>"@ElectusEI", :text=>"We loved @BearGrylls amazing entrance on @ITV #ThisMorning. We can't wait for #MissionSurvive this Friday 9pm @ITV  http://t.co/0MF3HgtMRU", :followers=>256, :user_id=>2201166750, :retweet=>0}
+{:name=>"@abbiereeves75", :text=>"RT @elliottwright_: Lovely to be on the sofa with clbleakley and schofe #ThisMorning http://t.co/bLoEUnLIOa", :followers=>356, :user_id=>253060423, :retweet=>5}
+{:name=>"@DailyLifeLtd", :text=>"RT @monkeytreepro: #1000happydays #day353 #photoshoot #thismorning with bobbythebaker and the #DailyLifeLtd crew… http://t.co/c4gsLWwu36", :followers=>149, :user_id=>2812929078, :retweet=>1}
+{:name=>"@rexfeatures", :text=>"#ITV This Morning: The Only Way Is Essex stars discuss the brand new series #TOWIE #ThisMorning http://t.co/cEqPGSwshI", :followers=>1616, :user_id=>19924458, :retweet=>0}
+{:name=>"@ryruckledge", :text=>"RT @vincentryan82: @ryruckledge is obviously trying to be the male @JosieCOnline..tired of my taxes being spent on utter crap! #DyingForATa…", :followers=>13390, :user_id=>599613485, :retweet=>1}
+{:name=>"@REXshowbiz", :text=>"#ITV This Morning: The Only Way Is Essex stars discuss the brand new series #TOWIE #ThisMorning http://t.co/LzncvgwdWJ", :followers=>509, :user_id=>1548259291, :retweet=>0}
+{:name=>"@JEM_TowieXD", :text=>"RT @looby_lou_weth: 'I'd rather walk around with Bisto gravy smeared on my face than be pale,I just couldn't be coping' fs😭😂 #thismorning @…", :followers=>101, :user_id=>467570883, :retweet=>2}
+{:name=>"@Japan0129", :text=>"#repost #🙌🙌🙌😚💨💨😭 #thismorning http://t.co/zuQbCRQAZw", :followers=>250, :user_id=>47363208, :retweet=>0}
+{:name=>"@ryruckledge", :text=>"RT @looby_lou_weth: 'I'd rather walk around with Bisto gravy smeared on my face than be pale,I just couldn't be coping' fs😭😂 #thismorning @…", :followers=>13390, :user_id=>599613485, :retweet=>2}
+{:name=>"@joegoodrich", :text=>"Looking forward to a night in of pizza making #ThisMorning #pizza #italianfood @Ginofantastico and #Broadchurch #itv", :followers=>48, :user_id=>22834937, :retweet=>0}
+{:name=>"@ryruckledge", :text=>"RT @jamieknoxuk: thought i recognised his face ... #XF guy! @ryruckledge #thismorning", :followers=>13390, :user_id=>599613485, :retweet=>1}
+{:name=>"@trendingtopicuk", :text=>"thismorning is nr.2 trending hashtag in UK in last 4 hours. http://t.co/sLdlPNQ3sv #thismorning", :followers=>126, :user_id=>2949502149, :retweet=>0}
+{:name=>"@LannerFalcon89", :text=>"Mind food: On the unconscious and soul https://t.co/MHh1jvSLyh #unconscious #soul #blog #thinkmore #monday #thismorning #deep #spiritual", :followers=>57, :user_id=>248930051, :retweet=>0}
+{:name=>"@monkeytreepro", :text=>"#1000happydays #day353 #photoshoot #thismorning with bobbythebaker and the #DailyLifeLtd crew… http://t.co/c4gsLWwu36", :followers=>424, :user_id=>13562452, :retweet=>1}
+{:name=>"@fj70ksx", :text=>"I'm glad British TV avoided doing any Halloween gags today, Man, they are always so hideous tedious, #ThisMorning", :followers=>0, :user_id=>3007665711, :retweet=>0}
+{:name=>"@rossgaffney", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>101, :user_id=>145922359, :retweet=>9}
+{:name=>"@ClaireWIBN", :text=>"RT @CatalystKatieF: Suffering #insomnia? Watching #thismorning's slot on it? Fantastic #CBTForInsomnia treatment at my practices in #Luton …", :followers=>1494, :user_id=>377351561, :retweet=>3}
+{:name=>"@r0b1images", :text=>"Different Sex #podcast up #thismorning\nNot Tonight, Dear, I’m Not Feeling Kinky #NotFeelinIt\nhttp://t.co/juvSIBHHGK\n#MondayBlogs\n#relatable", :followers=>264, :user_id=>2835422498, :retweet=>1}
+{:name=>"@leaahalexandraa", :text=>"I just love @MissGeorgiakx , she looked stunning on @itvthismorning 😍🙈#ThisMorning #TOWIE http://t.co/oTZWycFxuK", :followers=>812, :user_id=>414735071, :retweet=>0}
+{:name=>"@KayleeKAUZ", :text=>"RT @Newschannel6Now: Here's a look behind the scenes. Tune into @newschannel6now #ThisMorning for the #6ThingsYouNeedToKnow… http://t.co/3s…", :followers=>81, :user_id=>2817191502, :retweet=>1}
+{:name=>"@luvblacktights", :text=>"RT @UKTVMILFS: 16/2/15 Dr Dawn Harper looking great on #thismorning #MILF http://t.co/j0QfbkmtCG", :followers=>59, :user_id=>2342866496, :retweet=>4}
+{:name=>"@MayaBoskovic", :text=>"#me #thismorning #straighthair #longhair #brown #makeup #instamakeup #cosmetic  #fashion #eyes… http://t.co/7xsx8mU1k5", :followers=>63, :user_id=>2810106496, :retweet=>0}
+{:name=>"@a_licialynott", :text=>"RT @A_daawg: I'm sure NHS has better things to spend money on than research into unnecessary tanning injections #thismorning", :followers=>268, :user_id=>1087413548, :retweet=>3}
+{:name=>"@OneAndOnlyNinns", :text=>"RT @marquestrevon_: Tanning injections? Wow, people wanna be brown so bad. #ThisMorning", :followers=>144, :user_id=>283547080, :retweet=>3}
+{:name=>"@ammo_43", :text=>"RT @LydiaRoseBright: Last minute touch ups. #Popcorn #ThisMorning http://t.co/P98bVX1QHB", :followers=>21, :user_id=>29954513, :retweet=>2}
+{:name=>"@strawberyauburn", :text=>"#traffic is at a dead stop #thismorning #happymonday http://t.co/RKlRvQd8pS", :followers=>1035, :user_id=>278602335, :retweet=>0}
+{:name=>"@j73", :text=>"RT @smutty2099: This tan addicted schmuck on #ThisMorning is should go visit a cancer ward to see real problems and people fighting for lif…", :followers=>73, :user_id=>19435823, :retweet=>9}
+{:name=>"@marninew_", :text=>"RT @elliottwright_: Lovely to be on the sofa with clbleakley and schofe #ThisMorning http://t.co/bLoEUnLIOa", :followers=>43, :user_id=>2860979240, :retweet=>5}
+{:name=>"@meganoblex", :text=>"@Meghan_Kent_ They were just on #ThisMorning and said it's gonna be the most explosive series yet! 🙊", :followers=>726, :user_id=>269319299, :retweet=>0}
+{:name=>"@SDaneke", :text=>"RT @LydiaRoseBright: Last minute touch ups. #Popcorn #ThisMorning http://t.co/P98bVX1QHB", :followers=>1056, :user_id=>1871555485, :retweet=>2}
+{:name=>"@LydiaRoseBright", :text=>"Last minute touch ups. #Popcorn #ThisMorning http://t.co/P98bVX1QHB", :followers=>1050458, :user_id=>214392785, :retweet=>2}
+{:name=>"@Charmaineberesf", :text=>"RT @elliottwright_: Lovely to be on the sofa with clbleakley and schofe #ThisMorning http://t.co/bLoEUnLIOa", :followers=>49, :user_id=>940005312, :retweet=>5}
+{:name=>"@bellaharbyx", :text=>"RT @elliottwright_: Lovely to be on the sofa with clbleakley and schofe #ThisMorning http://t.co/bLoEUnLIOa", :followers=>287, :user_id=>2290512929, :retweet=>5}
+{:name=>"@elliottwright_", :text=>"Lovely to be on the sofa with clbleakley and schofe #ThisMorning http://t.co/bLoEUnLIOa", :followers=>456323, :user_id=>234139268, :retweet=>5}
+{:name=>"@liamconway15", :text=>"RT @lozzJARVIS: \"I'd rather walk round with bisto gravy smeared on my face, rather than being white\" 😂😂😂 crying! #thismorning #dyingforatan", :followers=>383, :user_id=>1465447608, :retweet=>5}
+{:name=>"@ClaudiaRuss94", :text=>"Loving @LydiaRoseBright's outfit on #thismorning! ❤️❤️ where is it from? #TOWIE", :followers=>371, :user_id=>620986105, :retweet=>0}
+{:name=>"@nickcre49", :text=>"This old bitter bitches on moose women can fuck off #thismorning  #loosewomen", :followers=>283, :user_id=>2405583814, :retweet=>0}
+{:name=>"@rockandrollgira", :text=>"#thismorning How have these intellectually challenged pricks got on the telle #TOWIE , 1 moron just said 'shit' at 12.30pm @itvthismorning", :followers=>319, :user_id=>40013718, :retweet=>0}
+{:name=>"@BangersNTash86", :text=>"Oooops @MissGeorgiakx 😂 #thismorning #ohshit still done good 👍", :followers=>79, :user_id=>408800407, :retweet=>0}
+{:name=>"@DebbieSprigg", :text=>"Ooo brand new #TOWIE Sunday! 🎉 #ThisMorning", :followers=>268, :user_id=>24918776, :retweet=>0}
+{:name=>"@nickcre49", :text=>"Fucking face is full of Botox bunch of cunts #thismorning", :followers=>283, :user_id=>2405583814, :retweet=>0}
+{:name=>"@sarahack11", :text=>"@MissGeorgiakx swearing on this morning #awkward #thismorning", :followers=>198, :user_id=>574481299, :retweet=>0}
+{:name=>"@MichaelaAmanda1", :text=>"@MissGeorgiakx has just made me laugh so much on #ThisMorning!!! 😂😂😂😂", :followers=>173, :user_id=>542383537, :retweet=>0}
+{:name=>"@LucieClara", :text=>"Haha @MissGeorgiakx just swore on #thismorning 😂 ooops.", :followers=>348, :user_id=>37662860, :retweet=>0}
+{:name=>"@NilvedS", :text=>"Aahahahaha look at them girlie brows &amp; tan - FFS, embarrassment to the gays!!!\n#TOWIE #ThisMorning #itv1 http://t.co/fZSb6GYLzL", :followers=>124, :user_id=>375659651, :retweet=>0}
+{:name=>"@mjhadfield_", :text=>"@MissGeorgiakx is hilarious 😂😂😂😂😂 #thismorning", :followers=>885, :user_id=>153152815, :retweet=>0}
+{:name=>"@RKM96", :text=>"@MissGeorgiakx swearing on #ThisMorning #CreaseUp 😂", :followers=>212, :user_id=>70719445, :retweet=>0}
+{:name=>"@ZodiacTables", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>2467, :user_id=>2911885811, :retweet=>9}
+{:name=>"@MyNumbe68982280", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>88, :user_id=>3028869761, :retweet=>9}
+{:name=>"@craggleprice", :text=>"How she just swore hahaha #ThisMorning", :followers=>2968, :user_id=>240311587, :retweet=>0}
+{:name=>"@amy_alford1604", :text=>"Love @BobbyCNorris #towie #thismorning", :followers=>46, :user_id=>741020382, :retweet=>0}
+{:name=>"@mrlukerobinson", :text=>"Ha @ryruckledge on #ThisMorning 😂 'I could slip on a jaeger bomb in a club &amp; die'.. You do feel better with a tan though.👳💁#dyingforatan", :followers=>1967, :user_id=>16489762, :retweet=>0}
+{:name=>"@KarrieKubs", :text=>"I would never tire of punching this prick's face. He's infuriating. #ThisMorning", :followers=>243, :user_id=>19471102, :retweet=>0}
+{:name=>"@pinkyandrexa", :text=>"RT @smutty2099: This tan addicted schmuck on #ThisMorning is should go visit a cancer ward to see real problems and people fighting for lif…", :followers=>3312, :user_id=>47078380, :retweet=>9}
+{:name=>"@pinkyandrexa", :text=>"RT @JadeEdwards9: \"We could all die tomro- dancing in a club I could slip on a jäger bomb &amp; hit my head!\" - Where do they find these people…", :followers=>3312, :user_id=>47078380, :retweet=>2}
+{:name=>"@pedenan", :text=>"Who are this lot? #thismorning", :followers=>930, :user_id=>71475416, :retweet=>0}
+{:name=>"@BassLake0405", :text=>"tenergrief! haha! #ThisMorning", :followers=>1400, :user_id=>97648554, :retweet=>0}
+{:name=>"@ems__", :text=>"Towieeeee 😍 #itvthismorning #thismorning", :followers=>1462, :user_id=>236463205, :retweet=>0}
+{:name=>"@mcclymont_emily", :text=>"RT @BobbyCNorris: #ThisMorning http://t.co/rIQvg4lBI9", :followers=>355, :user_id=>2923875508, :retweet=>3}
+{:name=>"@GingerbooCakes", :text=>"@Schofe - he's loooooovely! If Emma changes her mind, I'll go on a date with him 😍 #swoon #PuppyDating #ThisMorning", :followers=>567, :user_id=>263573493, :retweet=>0}
+{:name=>"@sperry1317", :text=>"Wild winter, warm coffee\nMind's gone, do you love me?\n☕️ #thismorning @SylvanEsso", :followers=>159, :user_id=>231661876, :retweet=>0}
+{:name=>"@emma_johnson14", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>286, :user_id=>604542921, :retweet=>9}
+{:name=>"@mcclymont_emily", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>355, :user_id=>2923875508, :retweet=>9}
+{:name=>"@abbigilchrist", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>468, :user_id=>514750370, :retweet=>9}
+{:name=>"@mrsJoPhillips", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>1566, :user_id=>108690482, :retweet=>9}
+{:name=>"@LozmillerX", :text=>"Don't this #thismorning quite understand how dodgy 'doggy dating' sounds", :followers=>319, :user_id=>285833914, :retweet=>0}
+{:name=>"@JessiicaSimpson", :text=>"I like her red/orange blazer 😍😍 #ThisMorning", :followers=>2838, :user_id=>256500448, :retweet=>0}
+{:name=>"@Lms3x", :text=>"Maybe should try this🐶 #doggydating #thismorning💜", :followers=>6, :user_id=>908973727, :retweet=>0}
+{:name=>"@gagevy", :text=>"Dogs dating? What the fuck is going on with this world! 😂😂 #thismorning", :followers=>708, :user_id=>295872239, :retweet=>0}
+{:name=>"@csinclair76", :text=>"Fs Herd it aw now puppy love!!#thismorning  desperate📺", :followers=>3489, :user_id=>873967458, :retweet=>0}
+{:name=>"@BelindaMcKean", :text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :followers=>116, :user_id=>630951907, :retweet=>9}
+{:name=>"@PrittiKieranC", :text=>"@ryruckledge just thought you made yourself look like a massive dickhead, can't afford it then unlucky !! #ThisMorning", :followers=>51650, :user_id=>468520087, :retweet=>0}
+{:name=>"@GilmorianWorld", :text=>"This lost cause on #thismorning  black people bleaching, white people tanning why not just embrace and love yourself! It's all long", :followers=>1131, :user_id=>406353632, :retweet=>0}
+{:name=>"@jamieknoxuk", :text=>"thought i recognised his face ... #XF guy! @ryruckledge #thismorning", :followers=>1783, :user_id=>34365099, :retweet=>1}
+{:name=>"@justlovingaston", :text=>"Love a bit of @elliottwright_ 😍😍 #thismorning", :followers=>161, :user_id=>515602866, :retweet=>0}
+{:name=>"@itvthismorning", :text=>"Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://t.co/Rqei4HIWox", :followers=>1016584, :user_id=>19291952, :retweet=>9}
+{:name=>"@Zoe_Holmes_", :text=>"I love day time tv, 'i could slip on a jagerbom and be dead tomorrow' #thismorning WTF. 😩😂", :followers=>190, :user_id=>196166754, :retweet=>0}
+{:name=>"@abiroseking", :text=>"Bobby is so annoying😒 #ThisMorning", :followers=>398, :user_id=>622744045, :retweet=>0}
+{:name=>"@McEwenLauren", :text=>"RT @treboreuk: dickhead on #ThisMorning needs to grow up, what kind of vain vacuous idiots are we rearing in this country, oh and stop sayi…", :followers=>72, :user_id=>437549705, :retweet=>2}
+{:name=>"@looby_lou_weth", :text=>"'I'd rather walk around with Bisto gravy smeared on my face than be pale,I just couldn't be coping' fs😭😂 #thismorning @ryruckledge", :followers=>836, :user_id=>241551898, :retweet=>2}
+{:name=>"@preshh__xo", :text=>"And you lot wanna call ethnic people uneducated. Does he hear himself? 😭 #ThisMorning", :followers=>756, :user_id=>41799224, :retweet=>0}
+{:name=>"@_evelknievel", :text=>"RT @AnnaLouWynn: #thismorning \"dying for a tan\" what a total, TOTAL idiot! He obviously doesn't realise how thick he looks and sounds!", :followers=>2224, :user_id=>343416256, :retweet=>1}
+{:name=>"@LukeStephensMUA", :text=>"I despair! #thismorning #DyingForATan", :followers=>1770, :user_id=>107001073, :retweet=>0}
+{:name=>"@trendingtopicuk", :text=>"thismorning is nr.1 trending hashtag in UK in last 2 hours. http://t.co/sLdlPNQ3sv #thismorning", :followers=>126, :user_id=>2949502149, :retweet=>0}
+{:name=>"@Sammmlucas", :text=>"Catching up on #ThisMorning the lad who is 'dying for a tan' is such a fucking tool.", :followers=>345, :user_id=>153787355, :retweet=>0}
+{:name=>"@laurensc0tt", :text=>"RT @Scoobiegirl34: #thismorning 😂😂 Slip on a jaeger and bang my head!! Dying here! But I like this kid #DyingForATan", :followers=>502, :user_id=>613790620, :retweet=>1}
+{:name=>"@laurensc0tt", :text=>"RT @lozzJARVIS: \"I'd rather walk round with bisto gravy smeared on my face, rather than being white\" 😂😂😂 crying! #thismorning #dyingforatan", :followers=>502, :user_id=>613790620, :retweet=>5}
+{:name=>"@Mr_AdamMiller", :text=>"That guy on @itvthismorning @Schofe @clbleakley idiot #thismorning", :followers=>5083, :user_id=>1732122366, :retweet=>0}
+{:name=>"@hayleycrossland", :text=>"I know I'm an hour late.. But what the hell is this tanning mess on #ThisMorning", :followers=>251, :user_id=>266192556, :retweet=>0}
+{:name=>"@elliekathleen93", :text=>"Haha \"I could slip on a Jagger Bomb and hit my head and be a gonner\" hilarious 😂 #thismorning", :followers=>282, :user_id=>1209167316, :retweet=>0}
+{:name=>"@LeeRedders", :text=>"Watching some geezer on #ThisMorning deciding which woman to go out with.....based on the dog they own.\rThis is why I work during the day.", :followers=>465, :user_id=>47931111, :retweet=>0}
+{:name=>"@LelJoyce", :text=>"I'm in love with Frank the Dachshund......now I want one...how to explain to my Cocker Spaniel......mmmmm #ThisMorning", :followers=>390, :user_id=>1631065567, :retweet=>0}
+{:name=>"@therealjulesmt", :text=>"RT @89Grant: #DyingForATan #ThisMorning \nOMG, I wanna hit this fella on the telly. \nInstead of paying for tan injections,he should pay for …", :followers=>81, :user_id=>297049585, :retweet=>4}
+{:name=>"@shaun7r", :text=>"#ThisMorning oh great dating through your dog ? My cat would disown me if I tried that with him :-D", :followers=>376, :user_id=>169958195, :retweet=>0}
+{:name=>"@rachw1810", :text=>"Roxy is impressed! #thismorning http://t.co/rArnhTgzNw", :followers=>12, :user_id=>1623476082, :retweet=>0}

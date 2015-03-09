@@ -1,1 +1,0 @@
-{:media=>"@Independent", :text=>"Drake drops surprise 17-track mixtape http://t.co/0PuKejAVMc http://t.co/R7hLkgWTuu"}

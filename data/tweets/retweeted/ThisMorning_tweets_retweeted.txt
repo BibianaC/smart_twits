@@ -1,0 +1,3 @@
+{:text=>"RT @smutty2099: This tan addicted schmuck on #ThisMorning is should go visit a cancer ward to see real problems and people fighting for lif…", :retweet=>9}
+{:text=>"RT @itvthismorning: Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://…", :retweet=>9}
+{:text=>"Did #DoggyDating lead to romance for #ThisMorning viewers Ro​ss Gaffney and Emma Robbin? http://t.co/jAAzdRQaBj http://t.co/Rqei4HIWox", :retweet=>9}

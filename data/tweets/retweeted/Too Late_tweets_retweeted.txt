@@ -1,3 +1,0 @@
-{:text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :retweet=>20113}
-{:text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :retweet=>8635}
-{:text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :retweet=>7911}

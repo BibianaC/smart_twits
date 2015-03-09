@@ -1,3 +1,0 @@
-{:name=>"@SHAWNxBEATS", :text=>"RT @Ivan_splash: Tyga in the studio crying to Chris Brown like \"how come Drake dont want me man? http://t.co/E4HPOCIlQy", :followers=>3744, :user_id=>146402260, :retweet=>48}
-{:name=>"@KnowYourSong", :text=>"RT @Doodz_15: \"@XXL: Listen to Kid Ink’s “Ride Out” featuring Wale, Tyga, YG and Rich Homie Quan: http://t.co/EZf3zb9D5N\" 1of the F&amp;F 7 sou…", :followers=>3129, :user_id=>1939561824, :retweet=>1}
-{:name=>"@TheRealCAM_", :text=>"@Tyga Drake Told You To Stop Acting Your Girls Age. U Gonna Take His Advise?", :followers=>2890, :user_id=>184236198, :retweet=>0}

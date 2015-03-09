@@ -1,1 +1,1 @@
-{:media=>"@Independent", :text=>"London tube commuters step in after alleged sexual assault victim cries 'help me' http://t.co/bEykBJ5Io2 http://t.co/32hkSePwsQ"}
+{:media=>"@SkyNews", :text=>"A murder investigation is under way after three people were found dead at two homes in London http://t.co/78n9nQBqIG http://t.co/rnH63qawlp"}

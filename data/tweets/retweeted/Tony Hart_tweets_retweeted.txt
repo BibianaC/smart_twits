@@ -1,0 +1,3 @@
+{:text=>"RT @AmazingMorph: Over the past 24 hrs, many people on Twitter have reported that Tony Hart has recently died. Tony sadly died in 2009. htt…", :retweet=>360}
+{:text=>"RT @Telegraph: Twitter users get very confused over the death of artist Tony Hart http://t.co/vLielzGxsY by @MarkMolloy99 http://t.co/yE5Py…", :retweet=>131}
+{:text=>"RT @grumpcrusader: RIP Tony Hart, who sadly passed away again this weekend. #tonyhart #morph http://t.co/80Q1Z0YUBm", :retweet=>111}

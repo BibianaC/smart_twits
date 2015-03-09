@@ -1,0 +1,3 @@
+{:text=>"RT @jtimberlake: Tonight...#SNL40", :retweet=>6563}
+{:text=>"RT @nbcsnl: Live from New York, it's #SNL40! Watch now on @NBC.\nhttps://t.co/jFMtz93a9j", :retweet=>4236}
+{:text=>"RT @AvSocialite: #SNL #afterparty #SNL40 #TaylorSwift #PaulMcCartney #jimmyfallon #plaza http://t.co/D0TA3NtSVg http://t.co/w0Z04HXstY", :retweet=>3753}
