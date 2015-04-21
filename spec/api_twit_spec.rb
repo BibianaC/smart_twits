@@ -3,6 +3,11 @@ require 'api_twit'
 require 'byebug'
 require 'vcr'
 
+VCR.configure do |config|
+  config.cassette_library_dir = "fixtures/vcr_cassettes"
+  config.hook_into :webmock
+end
+
 describe 'API' do
 
   let(:twitter) { APITwitter.new }
@@ -49,13 +54,13 @@ describe 'API' do
 
   it 'should write the string of merged tweets to a text file' do
     VCR.use_cassette "twitter API" do
-      expect(twitter.save_tweet_text_per_trend)
+      twitter.save_tweet_text_per_trend
       expect(Dir.glob("./data/tweets/tweets/**/*").count).to eq(10)
     end
   end
 
   it 'should create 10 files' do 
-    VCR.use_cassette "twitter API" do
+    VCR.use_cassette "twitter API create files" do
       twitter.save_trends
       twitter.save_tweets_per_trend()
       expect(Dir.glob("./data/tweets/tweets/**/*").count).to eq(10)
@@ -64,7 +69,7 @@ describe 'API' do
 
 
   it 'should save 10 files of tweets from users with most followers' do
-    VCR.use_cassette "twitter API" do
+    VCR.use_cassette "twitter API save files" do
       twitter.save_trends
       twitter.save_tweets_per_trend()
       twitter.save_tweets_most_followers_per_trend
@@ -89,14 +94,14 @@ describe 'API' do
   end
 
   it 'should be able to find media news and save it to a file' do
-    VCR.use_cassette "twitter API" do 
+    VCR.use_cassette "twitter API find media" do 
       twitter.refresh_all_twitter_data
       expect(Dir.glob("./data/tweets/media/**/*").count).to eq(10)
     end
   end
 
   it 'should load tweets from the user' do
-    VCR.use_cassette "twitter API" do
+    VCR.use_cassette "twitter API load tweets" do
       expect(twitter.get_tweets_by_user("@BBCSport","sport").count).not_to eq(0)
     end
   end

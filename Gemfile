@@ -5,6 +5,7 @@ gem 'json'
 gem 'twitter'
 gem 'rest-client'
 gem 'cronedit'
+gem 'webmock'
 
 group :development, :test do
   gem 'capybara'
