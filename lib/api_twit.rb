@@ -57,25 +57,36 @@ class APITwitter
   end
 
   def save_trends(id_g = LONDON)
-    @response = @client.trends(id=id_g)
-    @response.attrs[:trends].each do |el|
-      @trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub('#','')}
-    end
+    get_trend_data(client.trends(id=id_g))
     delete_files_from_directory(PATH_TRENDS)
-    save_data(PATH_TRENDS+'toptrends.txt', @trends)
-    @trends
+    save_data(PATH_TRENDS+'toptrends.txt', trends)
+    trends
   end
 
-  def save_tweets_per_trend(query_number = 100,trends = @trends)
+  def get_trend_data (response)
+    response.attrs[:trends].each do |el|
+      trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub('#','')}
+    end
+  end
+
+  def save_tweets_per_trend(query_number = 100)
     delete_files_from_directory(PATH_TWEETS)
+    save_tweets_to_file(query_number)
+  end
+
+  def save_tweets_to_file(query_number)
     trends.each do |trend|
       tweets = get_tweets(trend[:query],query_number)
       save_data(PATH_TWEETS+trend[:filename]+'_tweets.txt',tweets)
     end
   end
 
-  def get_tweets(hash_tag_g,query_number = 100)
+  def get_tweets(hash_tag_g, query_number = 100)
     tweets = @client.search(hash_tag_g).take(query_number)
+    get_result(tweets)
+  end
+
+  def get_result(tweets)
     result=[]
     tweets.each do |el|
       result << {:name => "@"+el.user.screen_name, :text => el.text,
@@ -86,7 +97,7 @@ class APITwitter
   end
 
   def get_tweets_by_user(user,subject,how_many = 1)
-    tweets = @client.search("#{subject} from:#{user}").take(how_many)
+    tweets = client.search("#{subject} from:#{user}").take(how_many)
     tweets.map{|el| el.attrs[:text]} unless tweets == nil
   end
 
@@ -125,7 +136,7 @@ class APITwitter
   end
 
   def save_tweets_most_followers_per_trend(trends = @trends)
-    save_tweets_per_trend_utility(@trends,method(:top_followers_tweets),PATH_TWEETS_FOLLOWERS,'_tweets_followers.txt')
+    save_tweets_per_trend_utility(trends,method(:top_followers_tweets),PATH_TWEETS_FOLLOWERS,'_tweets_followers.txt')
   end
 
   def top_followers_tweets(array_of_hashes, number = 3)
