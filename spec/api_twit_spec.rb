@@ -1,7 +1,7 @@
 require 'spec_helper'
 require 'api_twit'
 require 'byebug'
-
+require 'vcr'
 
 describe 'API' do
 
