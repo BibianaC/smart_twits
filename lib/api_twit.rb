@@ -101,18 +101,18 @@ class APITwitter
     tweets.map{|el| el.attrs[:text]} unless tweets == nil
   end
 
-  def save_news_media_on_trends(trends=@trends, media = MEDIA_GROUP)
+  def save_news_media_on_trends
     delete_files_from_directory(PATH_TWEETS_MEDIA)
     trends.each do |trend|
-      tweets = extract_media_tweets(trend, media)
+      tweets = extract_media_tweets(trend)
       tweets[:media] = "ALL", tweets[:text] = "No news" if tweets.empty?
       save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',tweets)
     end
   end
 
-  def extract_media_tweets(trend, media)
+  def extract_media_tweets(trend)
     tweets = {}
-    media.each do |medium|
+    MEDIA_GROUP.each do |medium|
       result = get_tweets_by_user(medium,trend[:name])
       tweets[:media] = medium, tweets[:text] = result[0] if result.count != 0
     end
