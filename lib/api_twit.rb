@@ -113,7 +113,7 @@ class APITwitter
   def extract_media_tweets(trend)
     tweets = {}
     MEDIA_GROUP.each do |medium|
-      result = get_tweets_by_user(medium,trend[:name])
+      result = get_tweets_by_user(medium, trend[:name])
       tweets[:media] = medium, tweets[:text] = result[0] if result.count != 0
     end
     tweets
@@ -126,13 +126,14 @@ class APITwitter
 
   def save_tweet_text_per_trend_file
     filesaved = 0
-    trends.each do |trend|
-      tweets = get_tweet_from_file(PATH_TWEETS + trend[:filename] + '_tweets.txt')
-      tweet_text = merge_tweets(tweets)
-      save_data(PATH_TWEETS_TEXT + trend[:filename] + '_tweets_text.txt', tweet_text)
-      filesaved += 1
-    end
+    trends.each { |trend| read_and_save_data_from trend; filesaved += 1 }
     filesaved
+  end
+
+  def read_and_save_data_from trend
+    tweets = get_tweet_from_file(PATH_TWEETS + trend[:filename] + '_tweets.txt')
+    tweet_text = merge_tweets(tweets)
+    save_data(PATH_TWEETS_TEXT + trend[:filename] + '_tweets_text.txt', tweet_text)
   end
 
   def merge_tweets(array_of_hash)
