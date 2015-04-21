@@ -17,11 +17,11 @@ module Helper
   end
 
   def extract_words(array)
-    array.join(" ").split(" ").map{ |w| w.downcase.gsub(UNWANTED_CHARACTERS, "")}
+    array.join(" ").split(" ").map{ |word| word.downcase.gsub(UNWANTED_CHARACTERS, "")}
   end
 
   def reject_words(array)
-    array.reject {|w| REJECT_WORDS.include?(w) }
+    array.reject {|word| REJECT_WORDS.include?(word) }
   end
 
   def count_freq(array)
@@ -31,7 +31,7 @@ module Helper
   end
 
   def filter_top_results(number, hash)
-    hash.sort_by {|k, v| v}.reverse[0..(number-1)]
+    hash.sort_by {|key, value| value}.reverse[0..(number-1)]
   end
 
   def find_top_words(number, array)
