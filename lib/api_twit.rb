@@ -119,14 +119,18 @@ class APITwitter
     tweets
   end
 
-  def save_tweet_text_per_trend(trends = @trends)
+  def save_tweet_text_per_trend
     delete_files_from_directory(PATH_TWEETS_TEXT)
+    save_tweet_text_per_trend_file
+  end
+
+  def save_tweet_text_per_trend_file
     filesaved = 0
     trends.each do |trend|
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
+      tweets = get_tweet_from_file(PATH_TWEETS + trend[:filename] + '_tweets.txt')
       tweet_text = merge_tweets(tweets)
-      save_data(PATH_TWEETS_TEXT+trend[:filename]+'_tweets_text.txt', tweet_text)
-      filesaved +=1
+      save_data(PATH_TWEETS_TEXT + trend[:filename] + '_tweets_text.txt', tweet_text)
+      filesaved += 1
     end
     filesaved
   end
