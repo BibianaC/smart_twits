@@ -39,10 +39,14 @@ module Helper
   end
 
   def find_top_words(number, array)
-    all_words = extract_words_from array
-    useful_words = reject_words_from all_words
+    useful_words = find_words_from array
     frequency_hash = count_freq_within useful_words
     filter_top_results(number, frequency_hash)
+  end
+
+  def find_words_from array
+    all_words = extract_words_from array
+    reject_words_from all_words
   end
 
   def find_args(path, args)
