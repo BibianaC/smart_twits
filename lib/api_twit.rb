@@ -28,13 +28,12 @@ class APITwitter
   attr_reader :client, :trends
 
   def initialize
-    hash_with_passes = load_passes
-    @client = init_twit(hash_with_passes)
+    @client = init_twit(load_passes PATH)
     @trends = []
   end
 
   def load_passes(path = PATH)
-    return Hash[*File.read(path).split(/[: \n]+/)]
+    return Hash[*File.read(PATH).split(/[: \n]+/)]
   end
 
   def init_twit(hash_with_keys)
@@ -90,7 +89,7 @@ class APITwitter
   end
 
   def get_result(tweets)
-    result=[]
+    result = []
     tweets.each do |el|
       result << {:name => "@"+el.user.screen_name, :text => el.text,
       :followers => el.user.followers_count, :user_id => el.user.id, :retweet => el.retweet_count}
