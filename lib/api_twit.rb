@@ -154,7 +154,7 @@ class APITwitter
   end
 
   def save_tweets_most_retweeted_per_trend(trends = @trends)
-    save_tweets_per_trend_utility(@trends,method(:top_retweeted_tweets),PATH_TWEETS_RETWEETED,'_tweets_retweeted.txt')
+    save_tweets_per_trend_utility(method(:top_retweeted_tweets),PATH_TWEETS_RETWEETED,'_tweets_retweeted.txt')
   end
 
   def top_retweeted_tweets(array_of_hashes, number = 3)
