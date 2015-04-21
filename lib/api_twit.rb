@@ -155,7 +155,7 @@ class APITwitter
     top_retweeted = []
     array_of_hashes.each { |el| top_retweeted << {:text => el[:text], :retweet => el[:retweet]} }
     top_retweeted_deduped = top_retweeted.uniq.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
-    return top_retweeted_deduped
+    top_retweeted_deduped
   end
 
 

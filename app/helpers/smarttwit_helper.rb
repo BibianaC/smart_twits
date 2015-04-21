@@ -1,7 +1,7 @@
 module Helper
 
-    REJECT_WORDS = ['rt', 'it', 'was', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now", "your", "you're", "this", "by", "http", "htt"]
-
+  REJECT_WORDS = ['rt', 'it', 'was', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now", "your", "you're", "this", "by", "http", "htt"]
+  UNWANTED_CHARACTERS = /\B[@#]\S+\b|(?:f|ht)tps?:\/[^\s]+|[^a-zA-Z0-9%\s]/
 
   def read_file(file_path)
     file = File.open(file_path, 'r')
@@ -17,7 +17,7 @@ module Helper
   end
 
   def extract_words(array)
-    array.join(" ").split(" ").map{ |w| w.downcase.gsub(/\B[@#]\S+\b|(?:f|ht)tps?:\/[^\s]+|[^a-zA-Z0-9%\s]/, "")}
+    array.join(" ").split(" ").map{ |w| w.downcase.gsub(UNWANTED_CHARACTERS, "")}
   end
 
   def reject_words(array)
