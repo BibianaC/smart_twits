@@ -24,15 +24,15 @@ describe 'Tweets' do
     end
 
     it 'can take an array of sentences and symbols and return a list of words' do
-      expect(tweets.extract_words(["hello &*", "HOW are ! you"])).to eq(["hello", "", "how", "are", "", "you"])
+      expect(tweets.extract_words_from(["hello &*", "HOW are ! you"])).to eq(["hello", "", "how", "are", "", "you"])
     end
 
     it 'can take an array of words and reject unwanted words' do
-      expect(tweets.reject_words(["and", "it", "", "was", "stupendous"])).to eq(["stupendous"])
+      expect(tweets.reject_words_from(["and", "it", "", "was", "stupendous"])).to eq(["stupendous"])
     end
 
     it 'can count the frequency with which the words appear' do
-      expect(tweets.count_freq(["hello", "how", "hello", "you", "how"])).to eq({"hello"=>2, "how"=>2, "you"=>1})
+      expect(tweets.count_freq_within(["hello", "how", "hello", "you", "how"])).to eq({"hello"=>2, "how"=>2, "you"=>1})
     end
 
     it 'can return the n most frequently occuring words' do

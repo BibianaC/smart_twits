@@ -8,8 +8,8 @@ class Tweets
     find_args(file_path, [:name, :filename])
   end
 
-  def find_words(number, file_path)
-    words_array = read_file(file_path)
+  def find_words(number, path)
+    words_array = read_file path
     words = words_array.map{|el| el[:text]}
     find_top_words(number, words)
   end
@@ -27,8 +27,8 @@ class Tweets
 
   def find_mentions(number, file_path)
     array = parse_file(file_path, /@\w+/)
-    frequnecy_hash = count_freq(array)
-    filter_top_results(number, frequnecy_hash)
+    frequency_hash = count_freq_within array
+    filter_top_results(number, frequency_hash)
   end
 
   def find_media(file_path)
