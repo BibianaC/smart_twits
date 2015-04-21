@@ -15,11 +15,10 @@ PATH_TWEETS = './data/tweets/tweets/'
 PATH_TWEETS_TEXT = './data/tweets/text/'
 PATH_TWEETS_FOLLOWERS = './data/tweets/followers/'
 PATH_TWEETS_RETWEETED = './data/tweets/retweeted/'
+PATH_TWEETS_MEDIA = './data/tweets/media/'
 MEDIA_GROUP = ['@BBCBreaking','@BBCNews',
          '@guardian','@guardiannews',
         '@MailOnline','@Independent','@SkyNews']
-
-PATH_TWEETS_MEDIA = './data/tweets/media/'
 
 class APITwitter
 
@@ -50,10 +49,7 @@ class APITwitter
   def refresh_all_twitter_data
     save_trends
     save_tweets_per_trend
-    save_tweet_text_per_trend
-    save_tweets_most_followers_per_trend
-    save_tweets_most_retweeted_per_trend
-    save_news_media_on_trends
+    save_tweet_data
   end
 
   def save_trends(id_g = LONDON)
@@ -63,15 +59,22 @@ class APITwitter
     trends
   end
 
-  def get_trend_data (response)
-    response.attrs[:trends].each do |el|
-      trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub('#','')}
-    end
+  def save_tweet_data
+    save_tweet_text_per_trend
+    save_tweets_most_followers_per_trend
+    save_tweets_most_retweeted_per_trend
+    save_news_media_on_trends
   end
 
   def save_tweets_per_trend(query_number = 100)
     delete_files_from_directory(PATH_TWEETS)
     save_tweets_to_file(query_number)
+  end
+
+  def get_trend_data (response)
+    response.attrs[:trends].each do |el|
+      trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub('#','')}
+    end
   end
 
   def save_tweets_to_file(query_number)
@@ -90,8 +93,7 @@ class APITwitter
     result=[]
     tweets.each do |el|
       result << {:name => "@"+el.user.screen_name, :text => el.text,
-                  :followers => el.user.followers_count,
-                  :user_id => el.user.id, :retweet => el.retweet_count}
+      :followers => el.user.followers_count, :user_id => el.user.id, :retweet => el.retweet_count}
     end
     result
   end
@@ -103,6 +105,10 @@ class APITwitter
 
   def save_news_media_on_trends
     delete_files_from_directory(PATH_TWEETS_MEDIA)
+    save_news_media_tweets
+  end
+
+  def save_news_media_tweets
     trends.each do |trend|
       tweets = extract_media_tweets(trend)
       tweets[:media] = "ALL", tweets[:text] = "No news" if tweets.empty?
@@ -156,7 +162,6 @@ class APITwitter
     top_retweeted = []
     array_of_hashes.each { |el| top_retweeted << {:text => el[:text], :retweet => el[:retweet]} }
     top_retweeted_deduped = top_retweeted.uniq.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
-    top_retweeted_deduped
   end
 
 
