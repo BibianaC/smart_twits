@@ -16,4 +16,5 @@ group :development, :test do
   gem 'byebug'
   # gem 'coveralls', require: false
   gem "codeclimate-test-reporter", require: nil
+  gem 'vcr'
 end

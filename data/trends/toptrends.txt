@@ -1,10 +1,10 @@
-{:name=>"Tony Hart", :query=>"%22Tony+Hart%22", :filename=>"Tony Hart"}
-{:name=>"#SNL40", :query=>"%23SNL40", :filename=>"SNL40"}
-{:name=>"#onelasttimevideo", :query=>"%23onelasttimevideo", :filename=>"onelasttimevideo"}
-{:name=>"#DyingForATan", :query=>"%23DyingForATan", :filename=>"DyingForATan"}
-{:name=>"#Indiansummers", :query=>"%23Indiansummers", :filename=>"Indiansummers"}
-{:name=>"London", :query=>"London", :filename=>"London"}
-{:name=>"Universal Credit", :query=>"%22Universal+Credit%22", :filename=>"Universal Credit"}
-{:name=>"Eastenders", :query=>"Eastenders", :filename=>"Eastenders"}
-{:name=>"#ThisMorning", :query=>"%23ThisMorning", :filename=>"ThisMorning"}
-{:name=>"West Indies", :query=>"%22West+Indies%22", :filename=>"West Indies"}
+{:name=>"#healthdebate", :query=>"%23healthdebate", :filename=>"healthdebate"}
+{:name=>"John Major", :query=>"%22John+Major%22", :filename=>"John Major"}
+{:name=>"#QueenElizabeth", :query=>"%23QueenElizabeth", :filename=>"QueenElizabeth"}
+{:name=>"#DescribeYourSexLifeInATvShow", :query=>"%23DescribeYourSexLifeInATvShow", :filename=>"DescribeYourSexLifeInATvShow"}
+{:name=>"#Mobilegeddon", :query=>"%23Mobilegeddon", :filename=>"Mobilegeddon"}
+{:name=>"#contagiousNNW", :query=>"%23contagiousNNW", :filename=>"contagiousNNW"}
+{:name=>"Wonga", :query=>"Wonga", :filename=>"Wonga"}
+{:name=>"Loch Ness Monster", :query=>"%22Loch+Ness+Monster%22", :filename=>"Loch Ness Monster"}
+{:name=>"Uzzi", :query=>"Uzzi", :filename=>"Uzzi"}
+{:name=>"Groundhog Day", :query=>"%22Groundhog+Day%22", :filename=>"Groundhog Day"}

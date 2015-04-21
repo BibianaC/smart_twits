@@ -104,6 +104,7 @@ GEM
       memoizable (~> 0.4.0)
       naught (~> 1.0)
       simple_oauth (~> 0.3.0)
+    vcr (2.9.3)
     xpath (2.0.0)
       nokogiri (~> 1.3)
 
@@ -124,3 +125,4 @@ DEPENDENCIES
   shotgun
   sinatra
   twitter
+  vcr
