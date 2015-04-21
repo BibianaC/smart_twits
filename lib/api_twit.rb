@@ -97,7 +97,7 @@ class APITwitter
     result
   end
 
-  def get_tweets_by_user(user,subject,how_many = 1)
+  def get_tweets_by_user(user, subject, how_many = 1)
     tweets = client.search("#{subject} from:#{user}").take(how_many)
     tweets.map{|el| el.attrs[:text]} unless tweets == nil
   end
@@ -146,7 +146,7 @@ class APITwitter
   end
 
   def save_tweets_most_followers_per_trend(trends = @trends)
-    save_tweets_per_trend_utility(trends,method(:top_followers_tweets),PATH_TWEETS_FOLLOWERS,'_tweets_followers.txt')
+    save_tweets_per_trend_utility(method(:top_followers_tweets), PATH_TWEETS_FOLLOWERS,'_tweets_followers.txt')
   end
 
   def top_followers_tweets(array_of_hashes, number = 3)

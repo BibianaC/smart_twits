@@ -20,8 +20,12 @@
     FileUtils.rm Dir.glob("#{dirname}/*")
   end
 
-  def save_tweets_per_trend_utility(trends = @trends, method_called,path,extension)
+  def save_tweets_per_trend_utility(method_called, path, extension)
     delete_files_from_directory(path)
+    get_and_save_tweets method_called, path, extension
+  end
+
+  def get_and_save_tweets method_called, path, extension
     trends.each do |trend|
       tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       method_result =  method_called.call(tweets)
